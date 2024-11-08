@@ -1,0 +1,6 @@
+================================================================================
+SquirrelPAK Credits
+================================================================================
+
+Each project will have its own credits file. See that file for credits for that
+specific project.
