@@ -1,0 +1,19 @@
+{
+    "name": "Requests & Help",
+    "icon": "minecraft:writable_book",
+    "category": "general",
+  "sortnum": 3,
+  "pages": [
+        {
+            "type": "text",
+            "text": "If you have suggestions or need help click on over to our GitHub discussions page and give us a shout."
+        }
+  ,
+    {
+      "type": "link",
+      "text": "Click the button below to link to our GitHub Discussions page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-MC12/discussions",
+      "link_text": "Join Discussions"
+    }
+  ]
+}

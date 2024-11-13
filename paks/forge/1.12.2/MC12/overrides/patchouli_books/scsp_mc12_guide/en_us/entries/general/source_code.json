@@ -1,0 +1,19 @@
+{
+    "name": "Source Code",
+    "icon": "minecraft:bookshelf",
+    "category": "general",
+  "sortnum": 1,
+  "pages": [
+        {
+            "type": "text",
+            "text": "The source code for this pack can be downloaded from CurseForge but I also track the changes on GitHub. So you can check out the source and what has changed from version to version. So click on over to our GitHub page to view the source."
+        }
+  ,
+    {
+      "type": "link",
+      "text": "Click the button below to link to our GitHub page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-MC12/",
+      "link_text": "View Source Code"
+    }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Pack Details",
+    "icon": "minecraft:book",
+    "category": "general",
+  "sortnum": 2,
+  "pages": [
+        {
+            "type": "text",
+            "text": "For all the details on what mods are in this pack and other things, all those details can be found on our wiki page on GitHub."
+        }
+  ,
+    {
+      "type": "link",
+      "text": "Click the button below to link to our GitHub Wiki page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-MC12/wiki",
+      "link_text": "Open Wiki"
+    }
+    ]
+}

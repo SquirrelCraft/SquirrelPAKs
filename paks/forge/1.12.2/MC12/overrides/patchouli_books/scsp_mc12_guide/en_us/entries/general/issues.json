@@ -1,0 +1,19 @@
+{
+    "name": "Report an Issue",
+    "icon": "minecraft:skull:4",
+    "category": "general",
+  "sortnum": 4,
+  "pages": [
+        {
+            "type": "text",
+            "text": "If you find an issue with this pack click on over to our GitHub page and submit an issue."
+        }
+  ,
+    {
+      "type": "link",
+      "text": "Click the button below to link to our GitHub Issues page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-MC12/issues",
+      "link_text": "Report Issue"
+    }
+  ]
+}

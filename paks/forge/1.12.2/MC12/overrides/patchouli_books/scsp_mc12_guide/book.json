@@ -1,0 +1,9 @@
+{
+    "name": "SquirrelPAK Manual",
+    "landing_text": "Welcome to SquirrelCrafts SquirrelPAK MC12 (Squirrels in Space) forge mod pack! We have backported a manual for our older mod packs to make it more uniform. This manual like the ones in the 1.18 packs will be updated so be sure to keep it safe and check it often. You can make another one by crafting paper with dirt.",
+    "version": 0,
+  "show_progress": false,
+  "creative_tab": "tools",
+  "model": "patchouli:book_green",
+  "subtitle": "Squirrels in Space"
+}

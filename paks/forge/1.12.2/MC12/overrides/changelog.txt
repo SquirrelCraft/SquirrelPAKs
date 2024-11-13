@@ -1,0 +1,75 @@
+SquirrelPAK MC12 - Squirrels in Space v1.7.3-1.12.2
+=====================================================
+SquirrelPAK MC12 Release 1.7.3
+File Version 1.7.3-1.12.2
+=====================================================
+
+
+ 
+Two steps forward, one step back
+
+Summary:
+With the last update we fixed things, broke things and totally
+missed things.
+
+Changed back some of the reactor settings, it broke ours :-(
+
+Fix Thermal Pulverizer - Andesite to Beryllium + Alugentum (50%)
+
+Really fixed the rocket GUI this time...
+ 
+Mod Changes from v1.7.2-1.12.2
+
+
+Added Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+Removed Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+SquirrelPAK MC12 - Squirrels in Space v1.7.3-1.12.2            | SquirrelPAK MC12 - Squirrels in Space v1.7.2-1.12.2
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/MC12-v1.7.3-1.12.2-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC12/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+

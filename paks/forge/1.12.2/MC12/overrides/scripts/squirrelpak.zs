@@ -1,0 +1,1 @@
+recipes.addShapeless(<patchouli:guide_book>.withTag({"patchouli:book": "patchouli:scsp_mc12_guide"}), [<minecraft:dirt>,<minecraft:paper>]);

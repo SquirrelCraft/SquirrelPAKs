@@ -1,0 +1,6 @@
+# This file is auto created by ready_for_export.sh
+#
+# No not edit directly, bad things could happen
+#
+#
+PAK_Previous_Version=MC12-v1.7.2-1.12.2-ModsList.txt

@@ -1,0 +1,1130 @@
+SquirrelPAK MC12 - Squirrels in Space v1.7.3-1.12.2
+=====================================================
+SquirrelPAK MC12 Release 1.7.3
+File Version 1.7.3-1.12.2
+=====================================================
+
+
+ 
+Two steps forward, one step back
+
+Summary:
+With the last update we fixed things, broke things and totally
+missed things.
+
+Changed back some of the reactor settings, it broke ours :-(
+
+Fix Thermal Pulverizer - Andesite to Beryllium + Alugentum (50%)
+
+Really fixed the rocket GUI this time...
+ 
+Mod Changes from v1.7.2-1.12.2
+
+
+Added Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+Removed Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+SquirrelPAK MC12 - Squirrels in Space v1.7.3-1.12.2            | SquirrelPAK MC12 - Squirrels in Space v1.7.2-1.12.2
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/MC12-v1.7.3-1.12.2-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC12/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
+SquirrelPAK MC12 - Squirrels in Space v1.7.2-1.12.2
+=====================================================
+SquirrelPAK MC12 Release 1.7.2
+File Version 1.7.2-1.12.2
+=====================================================
+
+
+ 
+
+Duct Tape, Bubble Gum and chewing rocks 
+
+Summary:
+Just a few tweaks with settings. Move the jet pack UI to the top left, and 
+tweaked reactor outputs a bit. Also tweaked AR settings.
+
+Since adding NucCraft added recipe to other mods for dust from Andesite
+
+Added craft tweaker recipe for:
+Actually Additions Add to Crusher - Andesite to Beryllium + Arsenic (30%)
+Thermal Add to Pulverizer - Andesite to Beryllium + Alugentum (50%)
+ExtraUtils Add to Crusher - Andesite to Beryllium + Arsenic (33%)
+  
+Since implementing the new change log automation, Minecraft version was
+set wrong to 1.12.1. Should be 1.12.2. Updated all logs and such to show
+we are using Minecraft 1.12.2 duh!
+ 
+Mod Changes from v1.7.1-1.12.2
+
+
+Added Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+Removed Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+SquirrelPAK MC12 - Squirrels in Space v1.7.2-1.12.2            | SquirrelPAK MC12 - Squirrels in Space v1.7.1-1.12.2
+CraftTweaker2-1.12-4.1.20.695.jar                              | CraftTweaker2-1.12-4.1.20.694.jar
+LittleTiles_v1.5.84_mc1.12.2.jar                               | LittleTiles_v1.5.82_mc1.12.2.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/MC12-v1.7.2-1.12.2-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC12/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
+SquirrelPAK MC12 - Squirrels in Space v1.7.1-1.12.2
+=====================================================
+SquirrelPAK MC12 Release 1.7.1
+File Version 1.7.1-1.12.2
+=====================================================
+
+
+ 
+Updates and Upgrades
+
+Summary:
+We have updated mods that needed updates and
+also tweaked settings for RFTools Dim to allow
+Uranium. Also back ported the build scripts and
+new change log format. 
+ 
+ 
+Mod Changes from v1.7.0-1.12.2
+
+
+Added Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+Removed Mods:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+ 
+ 
+-------------------------------------------
+Updated Mods:
+-------------------------------------------
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+SquirrelPAK MC12 - Squirrels in Space v1.7.1-1.12.2            | SquirrelPAK MC12 - Squirrels in Space v1.7.0-1.12.2
+CraftTweaker2-1.12-4.1.20.694.jar                              | CraftTweaker2-1.12-4.1.20.693.jar
+LittleTiles_v1.5.82_mc1.12.2.jar                               | LittleTiles_v1.5.81_mc1.12.2.jar
+_supermartijn642corelib-1.1.15-forge-mc1.12.jar                | _supermartijn642corelib-1.1.12b-forge-mc1.12.jar
+wormhole-1.1.15-forge-mc1.12.jar                               | wormhole-1.1.14-forge-mc1.12.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/MC12-v1.7.1-1.12.2-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC12/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.7.0
+
+File Version 1.7.0+1.12.2
+
+================================================================================
+
+
+##############################################################
+!!WARNING -   NuclearCraft: Overhauled Added!     - WARNING!!!
+##############################################################
+
+This update ADDS NuclearCraft mod! Be careful as there is now
+radiation! Craft a geiger counter! You should get a book on
+how to use the new mod! 
+
+##############################################################
+!!WARNING -   NuclearCraft: Overhauled Added!     - WARNING!!!
+##############################################################
+
+Alert!!: Need at least 5GB of RAM!
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+Changes from v1.6.1
+
+
+Added:
+------------------------------------------- 
+NuclearCraft
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.6.0
+
+File Version 1.6.0+1.12.2
+
+================================================================================
+
+
+##############################################################
+!!WARNING -      ATOMIC SCIENCE WAS REMOVED       - WARNING!!!
+##############################################################
+
+This update REMOVES atomic science mod!
+
+We MAY replace Atomic Science with NuclearCraft: Overhauled
+
+##############################################################
+!!WARNING -      ATOMIC SCIENCE WAS REMOVED       - WARNING!!!
+##############################################################
+
+Alert!!: Need at least 4GB of RAM!
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+Changes from v1.4.9 
+
+
+Added:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+wormhole-1.1.13 to 1.1.13a
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+Atomic Science 
+-------------------------------------------
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.5.3
+
+File Version 1.5.3+1.12.2
+
+================================================================================
+
+
+There was issues with the dev build profile and mods got added
+that should not have gotten added and files were all wrong :-(
+
+We took 1.4.9 fresh files and updated all the mods that had 
+updates and re-added things that were added to 1.5.0
+So this should be a fresh version that should have 
+been 1.5.1.
+
+
+##############################################################
+!!WARNING - ATOMIC SCIENCE WILL BE REMOVED IN 1.6 - WARNING!!!
+##############################################################
+
+Also note we will be removing atomic science mod! This is due 
+to bugs found. We will remove it in the next update 1.6. If you 
+want to keep a world going you need to purge any Atomic Science 
+blocks and items from your world before upgrading to 1.6 to b
+safe OR make a backup
+
+We MAY replace Atomic Science with NuclearCraft: Overhauled
+
+##############################################################
+!!WARNING - ATOMIC SCIENCE WILL BE REMOVED IN 1.6 - WARNING!!!
+##############################################################
+
+Alert!!: Need at least 4GB of RAM!
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+Changes from v1.4.9 
+
+
+Added:
+------------------------------------------- 
+starterkit_1.12.2-2.4
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdvancedRocketry-1.12.2-1.7.0-232 to 1.12.2-2.0.0-13
+AEAdditions-1.12.2-1.3.4 to 1.12.2-1.3.8
+BiblioCraft[v2.4.5][MC1.12.2] to [v2.4.6][MC1.12.2]
+Controlling-3.0.10 to 3.0.12.2 
+CraftTweaker2-1.12-4.1.20.673 to 2-1.12-4.1.20.689
+CreativeCore_v1.10.69_mc1.12.2 to v1.10.70_mc1.12.2
+engineersdecor-1.12.2-1.1.3 to 1.12.2-1.1.5
+FastWorkbench-1.12.2-1.7.3 to 1.12.2-1.7.4
+foamfix-0.10.14-1.12.2 to 0.10.15-1.12.2
+rsgauges-1.12.2-1.2.5 to 1.12.2-1.2.8
+MCTImmersiveTechnology-1.12.2-1.9.99 to 1.12.2-1.9.100
+LibVulpes-1.12.2-0.4.2-87 to 1.12.2-0.4.2-25
+LittleTiles_v1.5.57_mc1.12.2 to v1.5.72_mc1.12.2
+modtweaker-4.0.20.5 to 4.0.20.11
+OpenComputers-MC1.12.2-1.7.5.192 to 1.8.2+b4abbf9
+OpenSecurity-1.12.2-1.0-83 to 1.12.2-1.0-93
+reauth-3.6.0 to 4.0.7
+SmoothFont-mc1.12.2-2.1.2 to 1.12.2-2.1.4
+supermartijn642configlib-1.0.9-mc1.12 to 1.1.6-forge-mc1.12
+supermartijn642corelib-1.0.16-mc1.12 to 1.1.10-forge-mc1.12
+WanionLib-1.12.2-2.8 to 1.12.2-2.9
+WarpDrive-1.12.2-1.5.23 to 1.12.2-1.5.28
+wormhole-1.1.9-mc1.12 to 1.1.13
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.5.2 (HotFix)
+
+File Version 1.5.2+1.12.2
+
+================================================================================
+
+Atomic Science got removed, this hotfix adds it back. Atomic Science
+will be removed in 1.6!
+
+Release 1.5.1 Below
+
+In this update we updated all mods that had updates and also 
+updated the SquirrelPAK manual.
+
+##############################################################
+!!WARNING - ATOMIC SCIENCE WILL BE REMOVED IN 1.6 - WARNING!!!
+##############################################################
+
+Also note we will be removing atomic science mod! This is due 
+to bugs found. We will remove it in the next update 1.6. If you 
+want to keep a world going you need to purge any Atomic Science 
+blocks and items from your world before upgrading to 1.6 to b
+safe OR make a backup
+
+We MAY replace Atomic Science with NuclearCraft: Overhauled
+
+##############################################################
+!!WARNING - ATOMIC SCIENCE WILL BE REMOVED IN 1.6 - WARNING!!!
+##############################################################
+
+Alert!!: Need at least 4GB of RAM!
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+Controlling-3.0.10 to 3.0.12.2
+CraftTweaker2-1.12-4.1.20.673 to 1.12-4.1.20.689
+FastWorkbench-1.12.2-1.7.3 to 1.12.2-1.7.4
+foamfix-0.10.14-1.12.2 to 0.10.15-1.12.2
+rsgauges-1.12.2-1.2.6 to 1.12.2-1.2.8
+LittleTiles_v1.5.58_mc1.12.2 to v1.5.72_mc1.12.2
+modtweaker-4.0.20.5 to 4.0.20.11
+OpenComputers-MC1.12.2-1.7.5.192 to MC1.12.2-1.8.2
+OpenSecurity-1.12.2-1.0-83 to 1.12.2-1.0-93
+ReAuth-1.12-4.0.0 to 4.0.7
+SmoothFont-mc1.12.2-2.1.3 to 1.12.2-2.1.4
+wormhole-1.1.9-mc1.12 to 1.1.13
+supermartijn642configlib-1.0.9a to 1.1.6
+supermartijn642corelib-1.0.18 to 1.1.10
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.5.0
+
+File Version 1.5.0+1.12.2
+
+================================================================================
+
+In this update we updated all mods that had updates and also 
+included a backport of the SquirrelPAK manual. New worlds will
+give this book to you, but if you have an existing world you can
+craft it with one dirt and one paper. In order to let you start
+with the book, we added starter kit mod.
+
+
+Alert!!: Need at least 3600MB of RAM!
+
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+starterkit_1.12.2-2.4
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdvancedRocketry-1.12.2-2.0.0-13
+AEAdditions-1.12.2-1.3.8
+BiblioCraft[v2.4.6][MC1.12.2]
+CraftTweaker2-1.12-4.1.20.675
+CreativeCore_v1.10.70_mc1.12.2
+engineersdecor-1.12.2-1.1.5
+rsgauges-1.12.2-1.2.6
+CTImmersiveTechnology-1.12.2-1.9.100
+LibVulpes-1.12.2-0.4.2-25-universal
+LittleTiles_v1.5.58_mc1.12.2
+ReAuth-1.12-4.0.0
+oauth-1.06.4
+SmoothFont-mc1.12.2-2.1.3
+supermartijn642configlib-1.0.9a-mc1.12
+supermartijn642corelib-1.0.18-forge-mc1.12
+WanionLib-1.12.2-2.9
+WarpDrive-1.12.2-1.5.28
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.4.9
+
+File Version 1.4.9+1.12.2
+
+================================================================================
+
+In this update we fixed a few more bugs. Also note due to
+the added mods memory requirements are now 3600MB! 
+
+Added Joy of Painting (Just4 FrozenPinkPony)
+Added wormhole, another way of getting to one place to another 
+
+Alert!!: Need at least 3600MB of RAM!
+
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+wormhole-1.1.9-mc1.12
+xercapaint-1.12.2-1.3
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.4.8
+
+File Version 1.4.8+1.12.2
+
+================================================================================
+
+In this update we fixed a few more bugs. Been busy few days. Also note due to
+the added mods memory requirements are now 3600MB! Also fixed the options.txt
+being overwitten every update (your welcome Mama_Craft)
+
+
+Alert!!: Need at least 3600MB of RAM!
+
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+DefaultOptions_1.12.2-9.2.8
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+CraftTweaker2-1.12-4.1.20.672 to 1.12-4.1.20.673
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.4.7
+
+File Version 1.4.7+1.12.2
+
+================================================================================
+
+In this update we fixed a few bugs and added a mods that should have been there.
+
+
+Alert!!: Need at least 3600MB of RAM!
+
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+EnchantmentDescriptions-1.12.2-1.1.15
+EnderTweaker-1.12.2-1.2.3
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.4.5
+
+File Version 1.4.5+1.12.2
+
+================================================================================
+
+In this update we added four new mods and updated a dew as well. 
+Rogue like Dungeons was added to add more things to see and do. As for things
+to see SereneSeasons were added for some change of seasons. Also not sure how I
+missted this, but Gauges and Switches was added too. 
+
+
+Alert!!: Need at least 3600MB of RAM!
+
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+rsgauges-1.12.2-1.2.5
+RoguelikeDungeons-1.12.2-1.8.0
+SereneSeasons-1.12.2-1.2.18
+tetra-1.12.2-0.39.1
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AEAdditions-1.12.2-1.3.2 to 1.12.2-1.3.4
+CraftTweaker2-1.12-4.1.20.670 to 1.12-4.1.20.672
+LibVulpes-1.12.2-0.4.2-85 to 1.12.2-0.4.2-87
+LittleTiles_v1.5.49_mc1.12.2 to 1.5.57_mc1.12.2
+WanionLib-1.12.2-2.6 to 1.12.2-2.8
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.4.0
+
+File Version 1.4.0+1.12.2
+
+================================================================================
+
+
+
+Alert!!: Need at least 3008MB of RAM!
+
+ - Closes #12 - Open Glasses2
+ - Closes #21 - Update Forge to fix CVE-2021-44228 (Log4j2 Issue)
+
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+OpenGlasses-MC1.12.2-2.2-53
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+CreativeCore_v1.10.68_mc1.12.2 to v1.10.69_mc1.12.2
+WanionLib-1.12.2-2.5 to 1.12.2-2.6
+UniDict-1.12.2-3.0.8 to 1.12.2-3.0.10
+LittleTiles_v1.5.45_mc1.12.2 to v1.5.49_mc1.12.2
+MCTImmersiveTechnology-1.12.2-1.9.98 to 1.12.2-1.9.99
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+Downgraded:
+-------------------------------------------
+None
+-------------------------------------------
+
+
+
+For those who read the log, sneak peek, Mekanism WILL be added in 1.5
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.3.0
+
+File Version 1.3.0+1.12.2
+
+================================================================================
+
+In this release we have updated mods that had updates, add some NEW mods, and added some fixes. More OpenComputers love in this update
+
+
+We made the recipes to make recycling Extreme Reactors waste
+
+Alert!!: Need at least 3008MB of RAM!
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+ocdevices-MC1.12.2-1.0.0-44
+OpenSecurity-1.12.2-1.0-83
+Commons0815-1.12.2-1.4.0
+
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AEAdditions-1.12.2-1.3.1. to 1.12.2-1.3.2
+CraftTweaker2-1.12-4.1.20.668 to 1.12-4.1.20.670
+CreativeCore_v1.10.65_mc1.12.2 to v1.10.68_mc1.12.2
+LittleTiles_v1.5.34_mc1.12.2 to v1.5.45_mc1.12.2
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+Downgraded:
+-------------------------------------------
+None
+-------------------------------------------
+
+
+
+For those who read the log, sneak peek, Mekanism WILL be added in 1.5
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.2.1
+
+File Version 1.2.1+1.12.2
+
+================================================================================
+
+In this release we have updated mods that had updates, add some NEW mods, and added some fixes. Oh where did the 1.2.0 ver go? I will never tell!
+
+ - Closes Issue #2 Sleeping bag can not be crafted
+ - Closes Issue #3 Trap doors are all converted to Macaws trap doors
+ - Closes Issue #4 Add Mod: Building Wands
+ - Closes Issue #5 Add Mod: Wireless Pattern Terminal 
+ - Closes Issue #6 Add Mod: AE Additions - ExtraCells2 Fork 
+ - Closes Issue #7 Add Mod: QuantumStorage
+
+With the addition of QuantumStorage, we made the recipes for the items little
+harder.
+
+Alert!!: Need at least 3008MB of RAM!
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+WirelessPatternTerminal-1.12.2-1.0.3
+AEAdditions-1.12.2-1.3.1
+QuantumStorage-1.12-4.7.0
+AE-Net-Vis-Tool-1.12.2-1.0.3.0
+BetterBuildersWands-1.12.2-0.13.2.271+5997513
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+CraftTweaker2-1.12-4.1.20.660 to 1.12-4.1.20.668
+MCTImmersiveTechnology-1.12.2-1.8.94 to 1.12.2-1.9.98
+libnine-1.12.2-1.2.0 to 1.12.2-1.2.1
+LibVulpes-1.12.2-0.4.2-84 to 1.12.2-0.4.2-85
+LittleTiles_v1.5.27_mc1.12.2 to v1.5.34_mc1.12.2
+mcw-trapdoors-1.0.2-mc1.12.2 to 1.0.3-mc1.12.2
+modtweaker-4.0.20.4 to 4.0.20.5
+mysticallib-1.12.2-1.12.0 to 1.12.2-1.13.0
+RedstoneRepository-1.12.2-1.4.0-dev to 1.12.2-2.0.0
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+Downgraded:
+-------------------------------------------
+None
+-------------------------------------------
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.1.1
+
+File Version 1.1.1+1.12.2
+
+================================================================================
+
+In this release we have just updated mods that had updates. Most of them were
+libraries. Also added a changelog.txt file
+
+
+Alert!!: Need at least 2720MB of RAM!
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+
+
+Added:
+------------------------------------------- 
+None
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+BrandonsCore-1.12.2-2.4.19.214 to 1.12.2-2.4.20.162
+CraftTweaker2-1.12-4.1.20.652 to 1.12-4.1.20.660
+CreativeCore_v1.10.61_mc1.12.2. to 1.10.65_mc1.12.2
+Draconic-Evolution-1.12.2-2.3.27.353 to 1.12.2-2.3.28.354
+engineersdecor-1.12.2-1.1.2 to 1.12.2-1.1.3
+LibVulpes-1.12.2-0.4.2-83 to 1.12.2-0.4.2-84
+LittleTiles_v1.5.15_mc1.12.2 to v1.5.27_mc1.12.2.
+mysticallib-1.12.2-1.10.0 to 1.12.2-1.12.0
+tesla-core-lib-1.12.2-1.0.17 to 1.12.2-1.0.18
+------------------------------------------- 
+
+ 
+Removed:
+------------------------------------------- 
+None
+-------------------------------------------
+
+
+Downgraded:
+-------------------------------------------
+None
+-------------------------------------------
+
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC12 Change Log
+================================================================================
+
+SquirrelPAK MC12 Release 1.1
+
+File Version 1.1.0+1.17.0
+
+================================================================================
+
+In this update we have updates mods with bug fixes and added
+Macaws Trapdoors and Fences!
+
+ 
+
+Please report any issues with the mod pack on the issue tracker 
+on our github page
+
+ 
+
+Alert!!: Need at least 2720MB of RAM!
+
+ 
+
+Version 1.12.2-R1.0
+
+ 
+
+Known Issues:
+WarpDrive and OpenComputers
+https://github.com/SquirrelCraft/SquirrelPAK-MC12/issues/1
+
+ 
+
+Mods Added:
+
+
+mcw-trapdoors:
+1.0.2-mc1.12.2
+
+mcw-fences:
+1.0.0-mc1.12.2
+
+ 
+
+Mods Removed:
+None
+
+ 
+
+Mods Updated:
+
+
+CraftTweaker2:
+1.12-4.1.20.646 to 2-1.12-4.1.20.655
+
+CreativeCore:
+1.10.58_mc1.12.2 to 1.10.61_mc1.12.2
+
+EnderIO:
+1.12.2-5.2.66 to 1.12.2-5.3.70
+
+fluiddrawers:
+1.12.2-1.0.5 to 1.12.2-1.0.7
+
+foamfix:
+0.10.11-1.12.2 to 0.10.14-1.12.2
+
+immersivepetroleum:
+1.12.2-1.1.9 to 1.12.2-1.1.10
+
+LittleTiles
+1.5.8_mc1.12.2 to 1.5.15_mc1.12.2
+
+mcw-bridges:
+1.0.4-mc1.12.2 to 1.0.6b-mc1.12.2
+
+mcw-doors:
+1.0.0-mc1.12.2 to 1.0.3-mc1.12.2
+
+modtweaker:
+4.0.18 to 4.0.20.4
+
+MTLib:
+3.0.6 to 3.0.7
+
+RebornCore:
+1.12.2-3.19.4.529-universal to 1.12.2-3.19.5-universal
+
+WarpDrive:
+1.12.2-1.5.20 to 1.12.2-1.5.23
+
+ 
+
+Changes/Fixes:
+None
+
+Recent Files
+View All
+Type	Name	Size	Uploaded	Game Version	Downloads	Status		Actions
+R

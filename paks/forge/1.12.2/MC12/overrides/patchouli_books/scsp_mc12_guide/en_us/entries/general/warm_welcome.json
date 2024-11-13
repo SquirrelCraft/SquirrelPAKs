@@ -1,0 +1,22 @@
+{
+    "name": "A Warm Welcome",
+    "icon": "minecraft:sign",
+    "category": "general",
+  "sortnum": 0,
+  "pages": [
+        {
+            "type": "text",
+            "text": "Hello there $(playername)! Let me personally give you a warm welcome to this mod pack! This is the first mod pack we built here at SquirrelCraftHQ and is my fav so far. Be sure to check out our new 1.18 packs!"
+        }
+    ,
+    {
+      "type": "entity",
+      "entity": "minecraft:villager",
+      "scale": 1.0,
+      "name": "Huumm",
+      "text": "This villager welcomes you!",
+      "rotate": false,
+      "default_rotation": 20
+    }
+  ]
+}

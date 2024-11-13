@@ -1,0 +1,6 @@
+{
+    "name": "General Info",
+    "description": "Hello there $(playername)! Let me personally give you a warm welcome to Squirrels in Space! This was our first adventure in making a mod packs and is my favorite. So again welcome to the pack! Check out the other entries for details and links to the source code, wiki and issue tracker.",
+    "icon": "minecraft:book",
+  "sortnum": 0
+}
