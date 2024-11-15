@@ -1,11 +1,9 @@
-# SquirrelPAK MC12
+# SquirrelPAK Readme
 
-SquirrelPAK MC12 is a Forge Modded Minecraft ModPak for SquirrelCraft Private Servers, however we are opening it up to everyone. This pack is tech heavy and target MC version is 12.2
+The following files can be found within the overrides folder in the PAK source.
 
-
-Submit issues to the github tracker
-
-
-All credits for anything I have used in the pack can be found in the credits.txt file
-
-See the license file for the license for this source code
+* [LICENSE](overrides/LICENSE) - The license for this PAK
+* [readme.md](overrides/readme.md) - Specific PAK Readme file give details of the PAK
+* [credits.txt](overrides/credits.txt) - Any credits we need to give for this PAK can be found here
+* [changelog.txt](overrides/changelog.txt) - Changes for this current version
+* [changelog-full.txt](overrides/changelog-full.txt) - All changes for this PAK
