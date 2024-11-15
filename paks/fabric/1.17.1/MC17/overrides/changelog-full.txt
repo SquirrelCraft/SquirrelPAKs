@@ -1,0 +1,35 @@
+================================================================================
+SquirrelPAK MC17 Change Log
+================================================================================
+
+
+SquirrelPAK MC17 1.0
+
+File Version 1.0.0+1.17.1
+
+This will be the last update to this pack. I will be focused on 1.18.X PAKs now
+
+Upgraded to 1.17.1 - Removed any mods that did not work or crashed the game
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK MC17 Change Log
+================================================================================
+
+
+
+SquirrelPAK MC17 Beta 1.0
+
+File Version 0.1.0+1.17.0
+
+In this update, all the mods were updated to latest releases Also added this 
+changelog.txt file! For full mod list use the mod button in game.
+

@@ -1,0 +1,14 @@
+{
+  "disable_gen_nether_sulfur": 0,
+  "disable_gen_potassium": 0,
+  "disable_gen_sulfur": 0,
+  "nether_sulfur_count": 20,
+  "nether_sulfur_max_height": 255,
+  "nether_sulfur_vein_size": 12,
+  "potassium_count": 20,
+  "potassium_max_height": 128,
+  "potassium_vein_size": 9,
+  "sulfur_count": 12,
+  "sulfur_max_height": 48,
+  "sulfur_vein_size": 8
+}

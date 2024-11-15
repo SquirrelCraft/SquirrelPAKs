@@ -1,0 +1,130 @@
+{
+  "iron": {
+    "minecraft:iron_nugget": {
+      "worth": 1,
+      "can_return": true
+    },
+    "minecraft:iron_ingot": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:raw_iron": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:iron_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "gold": {
+    "minecraft:gold_nugget": {
+      "worth": 1,
+      "can_return": true
+    },
+    "minecraft:gold_ingot": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:raw_gold": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:gold_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "netherite": {
+    "minecraft:netherite_ingot": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:netherite_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "redstone": {
+    "minecraft:redstone": {
+      "worth": 2,
+      "can_return": true
+    },
+    "minecraft:redstone_block": {
+      "worth": 18,
+      "can_return": true
+    }
+  },
+  "lapis": {
+    "minecraft:lapis_lazuli": {
+      "worth": 2,
+      "can_return": true
+    },
+    "minecraft:lapis_block": {
+      "worth": 18,
+      "can_return": true
+    }
+  },
+  "nether_quartz": {
+    "minecraft:quartz": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:quartz_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+  "coal": {
+    "minecraft:coal": {
+      "worth": 9,
+      "can_return": true
+    },
+    "minecraft:coal_block": {
+      "worth": 81,
+      "can_return": true
+    }
+  },
+    "copper": {
+      "minecraft:copper_ingot": {
+        "worth": 9,
+        "can_return": true
+      },
+      "minecraft:raw_ingot": {
+        "worth": 9,
+        "can_return": true
+      },
+      "minecraft:copper_block": {
+        "worth": 81,
+        "can_return": true
+      },
+      "minecraft:exposed_copper": {
+        "worth": 72,
+        "can_return": true
+      },
+      "minecraft:weathered_copper": {
+        "worth": 63,
+        "can_return": true
+      },
+      "minecraft:oxidized_copper": {
+        "worth": 54,
+        "can_return": true
+      },
+      "minecraft:cut_copper": {
+        "worth": 81,
+        "can_return": true
+      },
+      "minecraft:exposed_cut_copper": {
+        "worth": 72,
+        "can_return": true
+      },
+      "minecraft:weathered_cut_copper": {
+        "worth": 63,
+        "can_return": true
+      },
+      "minecraft:oxidized_cut_copper": {
+        "worth": 54,
+        "can_return": true
+      }
+    }
+  }
