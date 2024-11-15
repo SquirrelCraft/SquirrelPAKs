@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK SCI",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:other_packs/118_packs/themes_series",
+  "sortnum": 1,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Themes: Our Space, Chemistry, & Industry pack built on SquirrelPAK AVP (SCI) is currently under development"
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Themes- S.C.I.",
+      "images": ["squirrelpak:textures/logos/under_dev_patch.png"
+      ]
+    }
+    ]
+}

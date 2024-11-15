@@ -1,0 +1,25 @@
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Credits
+================================================================================
+
+Music Used in this PAK:
+
+ Main Menu
+  Eric Skiff - Behind the waterfall lies the beginning - Resistor Anthems
+  Available at http://EricSkiff.com/music
+  Licensed under Creative Commons: By Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+
+
+Logo Credits:
+
+ The SquirrelCraft logo created with textcraft
+  https://textcraft.net
+
+ Network Squirrel skin inspired by the work by bigoodie
+  https://www.minecraftskins.com/profile/4053405/bigoodie
+  https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
+
+IceCream 
+https://pixabay.com/illustrations/ice-cream-ice-cream-cone-sweet-dish-879547/

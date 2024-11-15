@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK MC12",
+    "icon": "squirrelpak:textures/logos/scsp_mc12_thumb.png",
+    "category": "patchouli:other_packs/legacy",
+  "sortnum": 0,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "SquirrelPAK MC12 is a tech heavy mod pack with little customization so you can play the mods as they were written. The goal of this PAK is to start out with nothing but your fist and some tree logs then work your way up to the stars though technology. This was our first mod pack! Squirrels in Space, yep!$(br2)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-mc12)SquirrelPAK MC12 Info$(/l) "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Space Squirrels",
+      "images": ["squirrelpak:textures/logos/scsp_mc12_logo_patch.png"
+      ]
+    }
+    ]
+}

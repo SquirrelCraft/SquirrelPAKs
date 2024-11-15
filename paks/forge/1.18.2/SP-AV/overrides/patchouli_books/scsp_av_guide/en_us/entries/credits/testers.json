@@ -1,0 +1,18 @@
+{
+    "name": "Beta Testers",
+    "icon": "minecraft:totem_of_undying",
+    "category": "patchouli:the_credits",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Huge shout out to the beta testers who had to put up with me, and the endless server reboots and starting the map over and over. Those testers are my family of Squirrels! They are listed on the next page"
+        }
+  ,
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:diamond",
+      "title": "Team Squirrel",
+      "text": "$(li)$(l:https://mcprofile.net/profile/5ee4aa89-96a2-4f75-a524-20bde1a60d5f/)Mamas_Craft$(/l)$(li)$(l:https://mcprofile.net/profile/e5e724a2-542d-4c23-9dbe-77036e63305c/)The_Goat_Jedi$(/l) $(li)$(l:https://mcprofile.net/profile/596953ef-5571-452b-aa83-0a04021dbbd8/)Frozen_Pink_Pony$(/l) $(li)$(l:https://mcprofile.net/profile/19340b20-397a-4b6a-8716-42f1fead483d/)Network_Squirrel$(/l) $()$(br2)Even I did some testing! "
+    }
+  ]
+}

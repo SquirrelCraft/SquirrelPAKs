@@ -1,0 +1,9 @@
+{
+    "name": "SquirrelPAK Manual",
+    "landing_text": "Welcome to SquirrelCrafts SquirrelPAK AV (Almost Vanilla) forge mod pack! This manual will be updated so be sure to keep it safe and check it often. You can make another one by crafting paper with dirt.",
+    "version": 0,
+  "show_progress": false,
+  "creative_tab": "tools",
+  "model": "patchouli:book_green",
+  "subtitle": "Almost Vanilla"
+}

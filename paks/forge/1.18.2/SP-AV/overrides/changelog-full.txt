@@ -1,0 +1,410 @@
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+
+SquirrelPAK AV - v1.2.2
+File Version:  1.18.2+1.2.2
+Forge Version: 40.1.51
+================================================================================
+
+Just another update to the wall
+
+In this update we have updated the mods that had updates, bumped the forge version needed, and also updated the in game manual to point to new links for the GitHub repo. 
+
+
+Known Issues:
+While working on the AVP pack, we found that the default options where not working correctly. So to keep in aline with all the packs we are removing default options mod and will be waiting for another mod to update to use for shipping default options. Because of this, upgrading packs will over write your options file.
+
+
+Issues/Questions/Documentation/Source
+Issues: Submit and issue on our GitHub tracker
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/issues
+
+Questions: Ask it on our discussions on GitHub
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/discussions/categories/sp-av
+
+Docs: Check out the Wiki
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/wiki/Almost-Vanilla
+
+Source: Source code can be found on GitHub
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/tree/SP-AV
+
+
+-=-=-=-=-=-=-=-= Social Media =-=-=-=-=-=-=-=-=-
+
+Connect with us on Social Media!
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+FaceBook Group:
+https://www.facebook.com/groups/squirrelcraft
+
+YouTube Channel - SquirrelCraft MP:
+https://www.youtube.com/channel/UCrDZ3ifO2-lbDjm7a-8jQbA
+
+Twitch:
+https://www.twitch.tv/network_squirrel
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+================================================================================
+
+
+List of Mod Changes 
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdvancementPlaques-1.18.2-1.4.5.1.jar
+appleskin-forge-mc1.18.2-2.4.1.jar
+architectury-4.9.84-forge.jar
+areas_1.18.2-3.1.jar
+balm-3.2.0+0.jar
+BetterAdvancements-1.18.2-0.2.1.132.jar
+BetterCompatibilityChecker-1.1.15-build.29+mc1.18.2.jar
+biomeinfo-1.18.2-1.5.jar
+Bookshelf-Forge-1.18.2-13.2.50.jar
+cloth-config-6.4.90-forge.jar
+Clumps-forge-1.18.2-8.0.0+15.jar
+collective-1.18.2-5.7.jar
+configured-2.0.0-1.18.2.jar
+Controlling-forge-1.18.2-9.0+22.jar
+CraftTweaker-forge-1.18.2-9.1.195.jar
+CreativeCore_FORGE_v2.6.15_mc1.18.2.jar
+drippyloadingscreen_forge_1.6.4_MC_1.18-1.18.2.jar
+EnchantmentDescriptions-Forge-1.18.2-10.0.9.jar
+extremesoundmuffler-3.29_forge-1.18.2.jar
+fancymenu_forge_2.12.2-1_MC_1.18.2.jar
+fm_audio_extension_forge_1.1.1_MC_1.18-1.18.2.jar
+ftb-chunks-forge-1802.3.6-build.170.jar
+ftb-library-forge-1802.3.6-build.140.jar
+ftb-teams-forge-1802.2.6-build.69.jar
+Iceberg-1.18.2-forge-1.0.48.jar
+ItShallNotTick-1.0.22-build.34.jar
+item-filters-forge-1802.2.8-build.40.jar
+JEITweaker-1.18.2-3.0.0.9.jar
+jei-1.18.2-9.7.1.255.jar
+JustEnoughResources-1.18.2-0.14.1.171.jar
+konkrete_forge_1.5.2_MC_1.18-1.18.2.jar
+MapFrontiers-1.18.2-2.3.4.jar
+NekosEnchantedBooks-1.18.2-1.8.0.jar
+panoramica_forge_1.2.1_MC_1.18-1.18.2.jar
+Patchouli-1.18.2-71.1.jar
+Placebo-1.18.2-6.6.5.jar
+randomvillagenames_1.18.2-2.0.jar
+SimpleBackups-1.18.2-1.1.12.jar
+voicechat-forge-1.18.2-2.3.10.jar
+stackrefill_1.18.2-3.2.jar
+theoneprobe-1.18-5.1.2.jar
+ToastControl-1.18.2-6.0.3.jar
+villagernames_1.18.2-4.1.jar
+WorldPreGenerator-1.18.2-3.0.1.jar
+
+
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+
+SquirrelPAK AV - v1.2.1
+File Version 1.18.2+1.2.1
+================================================================================
+
+Just a Patch Release
+
+In this update we have updated the mods that had updates, and also updated the in game manual.
+
+
+We now have a FaceBook page! Will be posting updates and other stuff there. Feel free to drop in, like the page and be part of the converstation. That means you Steve and Alex!
+
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+
+FaceBook Group:
+https://www.facebook.com/groups/squirrelcraft
+
+
+
+Known Issues
+While working on the AVP pack, we found that the default options where not working correctly. So to keep in aline with all the packs we are removing default options mod and will be waiting for another mod to update to use for shipping default options. Because of this, upgrading packs will over write your options file.
+
+
+================================================================================
+
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-4.4.70.jar
+fm_audio_extension_forge_1.1.0_MC_1.18-1.18.2.jar
+Bookshelf-Forge-1.18.2-13.2.20.jar
+collective-1.18.2-4.28.jar
+CraftTweaker-forge-1.18.2-9.1.153.jar
+CreativeCore_FORGE_v2.6.10_mc1.18.2.jar
+ftb-chunks-forge-1802.3.6-build.147.jar
+ftb-library-forge-1802.3.6-build.123.jar
+journeymap-1.18.2-5.8.5-forge.jar
+voicechat-forge-1.18.2-2.2.45.jar
+spark-1.9.11-forge.jar
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+
+SquirrelPAK AV - v1.2.0
+File Version 1.18.2+1.2.0
+================================================================================
+
+Wax on Wax Off Release
+
+In this update we have updated the mods that had updates, and also changed the versioning to show the Minecraft version first then mod pack. Will help when we release updated versions of the pack for new versions of the game. 
+
+Also added new manual entries for our new PAKs AVP and TEC. Yeah you should check those out too. Details in the in game manual.
+
+Fixed a few issues that where found while beta testing the AVP PAK.
+
+Added same loading screen music as AVP
+
+
+Known Issues
+While working on the AVP pack, we found that the default options where not working correctly. So to keep in aline with all the packs we are removing default options mod and will be waiting for another mod to update to use for shipping default options. Because of this, upgrading packs will over write your options file.
+
+
+================================================================================
+
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+architectury-4.4.68
+CraftTweaker-forge-1.18.2-9.1.148
+crashutilities-4.1
+extremesoundmuffler-3.27_forge-1.18.x
+farsight-1.18.2-1.9
+ftb-ranks-forge-1802.1.8-build.34
+JustEnoughResources-1.18.2-0.14.1.170
+MapFrontiers-1.18.2-2.2.0
+Patchouli-1.18.2-69
+SimpleBackups-1.18.2-1.1.8
+fm_audio_extension_forge_1.0.1_MC_1.18-1.18.2
+drippyloadingscreen_forge_1.6.3_MC_1.18-1.18.2
+fancymenu_forge_2.7.2-1_MC_1.18.2
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+
+SquirrelPAK AV - 1.1
+File Version 1.1.0+1.18.2
+================================================================================
+
+The Self Proclaim Release
+
+In this update, we have updated the forge version to 40.1.20 due to mods being updated, and updated those mods to the latest release. Made some fixes and updates to the in game manual (added our new mod pack to the list), and fixed the menu size being strange on some monitors. Added a few server and performance mods that we added to our AV+ Pack (You should check that out too)
+
+
+Known Issues
+While working on the AVP pack, we found that the default options where not working correctly. So to keep in aline with all the packs we are removing default options mod and will be waiting for another mod to update to use for shipping default options. Because of this, upgrading packs will over write your options file.
+
+
+================================================================================
+
+
+
+Added:
+------------------------------------------- 
+panoramica_forge_1.1.2_MC_1.18-1.18.1
+farsight-1.18.2-1.8
+ItShallNotTick-1.0.20-build.21
+spark-1.9.1-forge
+crashutilities-4.0
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdvancementPlaques-1.18.2-1.4.3
+bwncr-3.13.21
+CraftTweaker-forge-1.18.2-9.1.140
+drippyloadingscreen_forge_1.6.1_MC_1.18-1.18.2
+fancymenu_forge_2.7.2_MC_1.18.2
+ftb-chunks-forge-1802.3.6-build.145
+ftb-library-forge-1802.3.6-build.119
+Iceberg-1.18.2-1.0.44
+item-filters-forge-1802.2.7-build.27
+journeymap-1.18.2-5.8.4-forge
+MapFrontiers-1.18.2-2.1.4
+Placebo-1.18.2-6.4.0
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+defaultoptions-forge-1.18.1-14.1.0
+------------------------------------------- 
+
+
+
+
+
+
+
+================================================================================
+SquirrelPAK AV - Almost Vanilla
+Change Log
+================================================================================
+
+This is the first production release!
+
+
+SquirrelPAK AV - 1.0
+================================================================================
+File Version 1.0.0+1.18.2
+
+
+
+Added:
+------------------------------------------- 
+AdvancementPlaques-1.18.1-1.4.2
+AmbientSounds_FORGE_v5.0.16_mc1.18.2
+appleskin-forge-mc1.18-2.4.0
+architectury-4.4.60
+areas_1.18.2-2.9
+auudio_forge_1.0.3_MC_1.18-1.18.2
+balm-3.0.3+0
+BetterAdvancements-1.18.2-0.2.0.129
+biomeinfo-1.18.2-1.4
+Bookshelf-Forge-1.18.2-13.0.13
+bwncr-forge-1.18.1-3.10.18
+cloth-config-6.2.62-forge
+Clumps-forge-1.18.2-8.0.0+8
+collective-1.18.2-4.25
+configured-1.5.3-1.18.2
+Controlling-forge-1.18.2-9.0+19
+CraftTweaker-forge-1.18.2-9.1.130
+CreativeCore_FORGE_v2.6.9_mc1.18.2
+defaultoptions-forge-1.18.1-14.1.0
+drippyloadingscreen_forge_1.5.1_MC_1.18-1.18.1
+EditSign-1.18.2-2.3.1
+EnchantmentDescriptions-Forge-1.18.2-10.0.3
+EquipmentCompare-1.18.1-1.2.12
+extremeSoundMuffler-3.24_Forge-1.18.1
+fancymenu_forge_2.7.0-1_MC_1.18.2
+fm_audio_extension_forge_1.0.0_MC_1.18-1.18.2
+ftb-chunks-forge-1802.3.6-build.138
+ftb-essentials-1802.1.7-build.42
+ftb-library-forge-1802.3.6-build.115
+ftb-quests-forge-1802.3.8-build.101
+ftb-ranks-forge-1802.1.7-build.27
+ftb-teams-forge-1802.2.6-build.51
+Iceberg-1.18.2-1.0.40
+item-filters-forge-1802.2.7-build.25
+jei-1.18.2-9.5.5.174
+JEITweaker-1.18.2-3.0.0.8
+journeymap-1.18.2-5.8.3-forge
+JustEnoughProfessions-1.18.2-1.2.2
+JustEnoughResources-1.18.2-0.14.1.167
+konkrete_forge_1.3.3_MC_1.18-1.18.1
+light-overlay-6.0.5-forge
+MapFrontiers-1.18.2-2.1.3
+Measurements-1.18-1.2
+MineMenu-1.18-1.10.0
+MouseTweaks-forge-mc1.18-2.21
+NekosEnchantedBooks-1.18.2-1.7.0
+netherportalfix-forge-1.18-9.0.0
+oauth-1.1.13-1.18.2
+OpenLoader-Forge-1.18.2-12.0.1
+Patchouli-1.18.2-67
+Placebo-1.18.2-6.2.1
+randomvillagenames_1.18.2-1.6
+seamless_loading_screen-1.18-3.0.0
+serverconfigupdater-2.0
+ServerTabInfo-1.18.2-1.3.5
+SimpleBackups-1.18.2-1.1.7
+stackrefill_1.18.2-2.1
+starterkit_1.18.2-3.2
+theoneprobe-1.18-5.1.0
+TipTheScales-forge-1.18.2-5.0.6
+ToastControl-1.18.2-6.0.2
+trashslot-forge-1.18.1-11.0.2
+villagernames_1.18.2-3.5
+voicechat-forge-1.18.2-2.2.32
+WorldPreGenerator-1.18.2-2.0.1
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 

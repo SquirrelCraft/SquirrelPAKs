@@ -1,0 +1,119 @@
+type = menu
+
+customization-meta {
+  identifier = scsp.credits
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  shape = rectangle
+  color = #000000
+  x = -166
+  width = 333
+  action = addshape
+  actionid = 9f328c86-ad54-4174-a2b2-3105e1da9a941649882022496
+  y = -100
+  height = 161
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = -50
+  width = 100
+  actionid = d36c1436-02f7-450d-9bdb-3e60875f85841649881966981
+  action = addbutton
+  y = 114
+  label = Ok
+  value = net.minecraft.client.gui.screens.TitleScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -161
+  action = addtext
+  actionid = 669d25a8-5f1b-48f0-be9e-09279f7ac1cc1649895723774
+  y = -89
+  scale = 1.0
+  alignment = left
+  value = Music Used in this PAK:
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -160
+  action = addtext
+  actionid = 1315b94e-a014-4261-9c92-aa61fbb48d2e1650025470515
+  y = -70
+  scale = 1.0
+  alignment = left
+  value = Main Menu
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -145
+  action = addtext
+  actionid = dc2d4e7c-6cd0-4d4a-b43e-99fa36326bdf1650025471315
+  y = 14
+  scale = 1.0
+  alignment = left
+  value = For full credits read the credit.txt or in game manual
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -160
+  action = addtext
+  actionid = e8fecbe3-2451-467c-8dfe-e59df3792e851650025471487
+  y = -35
+  scale = 1.0
+  alignment = left
+  value = Licensed under Creative Commons: By Attribution 4.0
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -161
+  action = addtext
+  actionid = d04014df-07b6-4cf3-93f7-5805d02cbf001650025471639
+  y = -46
+  scale = 1.0
+  alignment = left
+  value = Available at http://EricSkiff.com/music
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -160
+  action = addtext
+  actionid = 89d12dd8-ee04-4e1b-af7b-31cfe5a49da71650025471815
+  y = -56
+  scale = 1.0
+  alignment = left
+  value = Eric Skiff - Behind the waterfall..  - Resistor Anthems
+}
+

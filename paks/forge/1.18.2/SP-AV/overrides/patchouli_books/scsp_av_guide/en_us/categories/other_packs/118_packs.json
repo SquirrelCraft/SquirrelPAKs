@@ -1,0 +1,7 @@
+{
+	"name": "v1.18 Packs",
+	"description": "With our 1.18 series we started out with our AV pack, then built on top of AV we have our AVP. Lastly we added a few more mods to make the base of our TEC pack based off of AVP.",
+	"icon": "squirrelpak:textures/logos/182_logo_thumb.png",
+	"parent": "patchouli:other_packs",
+	"sortnum":0
+}

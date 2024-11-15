@@ -1,0 +1,6 @@
+{
+    "name": "General Info",
+    "description": "Hello there $(playername)! Let me personally give you a warm welcome to this mod pack! This is the first of many 1.18.2 forge packs, and this pack will be the base for all of them! So again welcome to the pack! Check out the other entries for details and links to the source code, wiki and issue tracker.",
+    "icon": "minecraft:book",
+  "sortnum": 0
+}

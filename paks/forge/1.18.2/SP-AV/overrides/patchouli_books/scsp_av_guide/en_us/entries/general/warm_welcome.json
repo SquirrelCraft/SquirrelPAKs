@@ -1,0 +1,22 @@
+{
+    "name": "A Warm Welcome",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:general",
+  "sortnum": 0,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hello there $(playername)! Let me personally give you a warm welcome to this mod pack! This is the first of many 1.18.2 forge packs, and this pack will be the base for all of them! So again welcome to the pack!"
+        }
+    ,
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager",
+      "scale": 1.0,
+      "name": "Huumm",
+      "text": "This villager welcomes you!",
+      "rotate": false,
+      "default_rotation": 20
+    }
+  ]
+}
