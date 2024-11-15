@@ -1,0 +1,50 @@
+{
+	id: "664750668CD143A5"
+	order_index: 0
+	title: "Loot Level 1"
+	icon: "minecraft:iron_ingot"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "minecraft:iron_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:iron_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			xp_levels: 5
+			type: "xp_levels"
+		}
+		{
+			item: {
+				id: "minecraft:iron_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:iron_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "minecraft:iron_ingot", count: 64 }
+	]
+}

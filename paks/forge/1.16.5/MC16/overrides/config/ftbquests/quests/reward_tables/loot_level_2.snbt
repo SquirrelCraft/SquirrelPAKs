@@ -1,0 +1,76 @@
+{
+	id: "1CF2D24DDFFE9287"
+	order_index: 1
+	title: "Loot Level 2"
+	icon: "minecraft:gold_ingot"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:gold_block", count: 4 }
+		{
+			xp_levels: 15
+			type: "xp_levels"
+		}
+		{
+			xp_levels: 5
+			type: "xp_levels"
+		}
+		{
+			xp_levels: 20
+			type: "xp_levels"
+		}
+		{
+			item: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_boots"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

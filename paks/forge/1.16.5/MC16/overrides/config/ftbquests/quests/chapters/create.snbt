@@ -1,0 +1,57 @@
+{
+	id: "569D5DF3BED2BAE5"
+	group: "4668A2349E0100BE"
+	order_index: 1
+	filename: "create"
+	title: "Create"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Get Started with Create"
+			x: 0.0d
+			y: -3.0d
+			id: "7EA42B276B91E968"
+			tasks: [{
+				id: "505322E42B319D07"
+				type: "item"
+				item: "create:wrench"
+			}]
+			rewards: [
+				{
+					id: "2CD89BC94DC64FF9"
+					type: "item"
+					item: "create:gearbox"
+					count: 4
+				}
+				{
+					id: "56C53E84A90C5AC9"
+					type: "item"
+					item: "create:vertical_gearbox"
+					count: 4
+				}
+				{
+					id: "6DE6D41C0F18FC6F"
+					type: "item"
+					item: "create:gearshift"
+				}
+				{
+					id: "03697B8CA2155A1E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -1.5d
+			id: "0D54A4FE80BB8A86"
+			tasks: [{
+				id: "65FF0E60531D44F9"
+				type: "custom"
+				title: "More to come soon..."
+				icon: "create:cogwheel"
+			}]
+		}
+	]
+}

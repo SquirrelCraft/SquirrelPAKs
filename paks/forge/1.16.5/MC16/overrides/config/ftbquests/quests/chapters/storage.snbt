@@ -1,0 +1,119 @@
+{
+	id: "095AC0B4AB658355"
+	group: "4668A2349E0100BE"
+	order_index: 0
+	filename: "storage"
+	title: "Storage"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.5d
+			y: -1.0d
+			optional: true
+			id: "5302FC0181E47C52"
+			tasks: [{
+				id: "5A7B1A137765C78F"
+				type: "item"
+				item: {
+					id: "simplybackpacks:commonbackpack"
+					Count: 1b
+					tag: { }
+					ForgeCaps: {
+						Parent: { }
+					}
+				}
+			}]
+			rewards: [{
+				id: "61EA3728429704C0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			x: -1.5d
+			y: 0.0d
+			optional: true
+			id: "00537DE4C4450FA0"
+			tasks: [{
+				id: "01CFEA45C92500BB"
+				type: "item"
+				item: "dankstorage:dank_1"
+			}]
+			rewards: [
+				{
+					id: "4AD5EB5EDEC3C609"
+					type: "item"
+					item: "minecraft:cobblestone"
+					count: 64
+				}
+				{
+					id: "0ABE10D1E78C6374"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 1.0d
+			id: "0228F3D52B6413C8"
+			tasks: [{
+				id: "62E2996579AB5CA7"
+				type: "custom"
+				title: "More to come soon..."
+				icon: "pneumaticcraft:network_data_storage"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -2.0d
+			description: ["And some stuff for the road"]
+			id: "78B268C5BCF47093"
+			tasks: [{
+				id: "338AB6E039762A98"
+				type: "item"
+				item: {
+					id: "travelersbackpack:standard"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [
+				{
+					id: "464735C16E0FE5E0"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "242795D821C46C28"
+					type: "item"
+					item: {
+						id: "create_stuff_additions:rose_quartz_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1AFCD93EE0F99AA4"
+					type: "item"
+					item: {
+						id: "create_stuff_additions:rose_quartz_axe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "77716F52D12FE0D3"
+					type: "item"
+					item: "minecraft:torch"
+					count: 64
+				}
+			]
+		}
+	]
+}

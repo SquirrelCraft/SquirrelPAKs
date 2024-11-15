@@ -1,0 +1,230 @@
+{
+	id: "4CA8F69F274FC004"
+	group: "3A6953F2E3325B8B"
+	order_index: 0
+	filename: "test1"
+	title: "Is this thing on?"
+	icon: "minecraft:grass_block"
+	subtitle: [
+		"Welcome to the PAK!"
+		"Just a few test quests"
+	]
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: -1.0d
+			description: [
+				"Find the center of the map"
+				"0,77,0"
+			]
+			id: "62622A298A92CB42"
+			tasks: [{
+				id: "660C1146692FD611"
+				type: "location"
+				title: "Centered"
+				icon: "minecraft:compass"
+				dimension: "minecraft:overworld"
+				ignore_dimension: false
+				position: [I;
+					0
+					77
+					0
+				]
+				size: [I;
+					1
+					1
+					1
+				]
+			}]
+			rewards: [{
+				id: "32E63343F85AE3ED"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+		}
+		{
+			x: -1.0d
+			y: -2.5d
+			description: ["Give me 30!"]
+			id: "187237D3EDB8C266"
+			tasks: [{
+				id: "42B6486E75CE4912"
+				type: "xp"
+				value: 30L
+				points: false
+			}]
+			rewards: [{
+				id: "4C130FD57520D4EF"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Heads Up"
+			x: -1.0d
+			y: -4.5d
+			id: "0FEDB9484AB259A5"
+			tasks: [{
+				id: "36412040B546FCF1"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "538AB98CF1CF9864"
+				type: "item"
+				item: "minecraft:diamond_block"
+			}]
+		}
+		{
+			title: "Shirt on"
+			x: 1.5d
+			y: -4.5d
+			dependencies: ["0FEDB9484AB259A5"]
+			id: "3C64BC7CA44670C0"
+			tasks: [{
+				id: "34A741F7D37988F4"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "2D75BCDAC49C837D"
+				type: "item"
+				item: "minecraft:diamond_block"
+			}]
+		}
+		{
+			title: "Totaly Pants"
+			x: 4.0d
+			y: -4.5d
+			dependencies: ["3C64BC7CA44670C0"]
+			id: "40581867163B7181"
+			tasks: [{
+				id: "3E88B37E41C2A8DD"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Blue Shoes"
+			x: 6.5d
+			y: -4.5d
+			dependencies: ["40581867163B7181"]
+			hide: true
+			id: "180BE81841B8DD98"
+			tasks: [{
+				id: "0086BC1D6A9E15E8"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "76BC9033B76DF865"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+		}
+		{
+			x: 1.5d
+			y: -1.0d
+			description: [
+				"Find nether portal"
+				"and hop in, don't forget the gold!"
+			]
+			dependencies: ["62622A298A92CB42"]
+			hide: true
+			id: "58A59F7667165601"
+			tasks: [{
+				id: "2AA5400B8CFE0ED6"
+				type: "dimension"
+				title: "It's HOT and hidden"
+				icon: "minecraft:netherrack"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [{
+				id: "4B19992B17E9DFE2"
+				type: "item"
+				item: "minecraft:gold_block"
+				count: 4
+			}]
+		}
+		{
+			title: "Under the Grass"
+			icon: "undergarden:forgotten_block"
+			x: 4.0d
+			y: -1.0d
+			description: ["Visit the Under Garden"]
+			dependencies: ["58A59F7667165601"]
+			id: "2D9A12A0C01A9649"
+			tasks: [{
+				id: "3155D9660EC00010"
+				type: "dimension"
+				icon: "twilightforest:force_field_purple"
+				dimension: "undergarden:undergarden"
+			}]
+			rewards: [{
+				id: "4B967AF2C5A74FAB"
+				type: "item"
+				item: "undergarden:diamond_ore"
+				count: 7
+			}]
+		}
+		{
+			title: "The Forest is ALIVE!"
+			icon: "twilightforest:force_field_blue"
+			x: 6.5d
+			y: -1.0d
+			dependencies: ["2D9A12A0C01A9649"]
+			id: "4DDD0519EC4F7DA1"
+			tasks: [{
+				id: "2299F565C1D655C4"
+				type: "dimension"
+				title: "Visit the Twilight Forest"
+				icon: "immersiveengineering:shader_bag_twilight"
+				dimension: "twilightforest:twilightforest"
+			}]
+			rewards: [{
+				id: "41BEF0EF07D80EB6"
+				type: "item"
+				item: {
+					id: "simplybackpacks:commonbackpack"
+					Count: 1b
+					tag: { }
+					ForgeCaps: {
+						Parent: { }
+					}
+				}
+			}]
+		}
+	]
+}

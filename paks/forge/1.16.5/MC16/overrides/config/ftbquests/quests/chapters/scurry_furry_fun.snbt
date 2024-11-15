@@ -1,0 +1,462 @@
+{
+	id: "403D07E3853A6E93"
+	group: "43772190CFAA2B3E"
+	order_index: 0
+	filename: "scurry_furry_fun"
+	title: "Scurry Furry Fun"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Welcome to SquirrelPAK MC16"
+			icon: "ftbquests:book"
+			x: -16.5d
+			y: -20.0d
+			subtitle: "Don't forget your Quest Book!"
+			description: ["Just show up and get your reward"]
+			id: "370BC710FD949B68"
+			tasks: [{
+				id: "3172A628E18DB3E2"
+				type: "dimension"
+				title: "Just Show Up!"
+				icon: "minecraft:grass_block"
+				dimension: "minecraft:overworld"
+			}]
+			rewards: [
+				{
+					id: "1C8A307297C1F296"
+					type: "item"
+					team_reward: false
+					auto: "enabled"
+					item: "ftbquests:book"
+				}
+				{
+					id: "1C2CF79A4B6C1E8F"
+					type: "item"
+					item: "minecraft:carrot"
+					count: 16
+				}
+				{
+					id: "452DBC753886D1A5"
+					type: "item"
+					item: "minecraft:potato"
+					count: 16
+				}
+				{
+					id: "3DF17438149C481E"
+					type: "item"
+					item: "minecraft:beetroot"
+					count: 16
+				}
+				{
+					id: "3DAC15D210E2931B"
+					type: "item"
+					item: {
+						id: "minecraft:stone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Timber!"
+			x: -15.0d
+			y: -20.0d
+			subtitle: "Start punching trees..... ouch!"
+			description: ["Stop Punching Trees!"]
+			dependencies: ["370BC710FD949B68"]
+			id: "7A1FC16D92F0A32B"
+			tasks: [{
+				id: "252C075C7AB30FEE"
+				type: "item"
+				title: "Any #minecraft:logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				count: 12L
+			}]
+			rewards: [{
+				id: "669C09971D4885C1"
+				type: "item"
+				item: {
+					id: "minecraft:iron_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				count: 4
+			}]
+		}
+		{
+			title: "De-Forest?"
+			icon: "minecraft:spruce_sapling"
+			x: -13.5d
+			y: -20.0d
+			subtitle: "Kelly? No Just 256 logs... Captain"
+			dependencies: ["7A1FC16D92F0A32B"]
+			id: "738D5A665B1919DD"
+			tasks: [{
+				id: "59AB385D0C6571BE"
+				type: "item"
+				title: "Any #minecraft:logs"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				count: 256L
+			}]
+			rewards: [{
+				id: "6BF78CEC074D8975"
+				type: "item"
+				item: "minecraft:iron_ingot"
+				count: 64
+			}]
+		}
+		{
+			title: "Mined for 30 Days!"
+			x: -12.0d
+			y: -21.0d
+			subtitle: "And all I got was a stack of cobble!"
+			dependencies: ["738D5A665B1919DD"]
+			id: "166C6C307E26FD21"
+			tasks: [{
+				id: "16C20B9FE552D45C"
+				type: "item"
+				title: "Any #forge:cobblestone"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:cobblestone"
+					}
+				}
+				count: 256L
+			}]
+			rewards: [{
+				id: "6A263D7B0D731829"
+				type: "item"
+				item: {
+					id: "adfinders:mineral_finder"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "I Like, Gooooolllldd!"
+			x: -12.0d
+			y: -20.0d
+			subtitle: "1 Million gold"
+			dependencies: ["738D5A665B1919DD"]
+			id: "5807CC904C88DC2C"
+			tasks: [{
+				id: "2D0771A34809E6BB"
+				type: "item"
+				title: "Any #forge:ores/gold"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "forge:ores/gold"
+					}
+				}
+				count: 18L
+			}]
+			rewards: [{
+				id: "04E51077F77623E6"
+				type: "item"
+				item: {
+					id: "adfinders:metal_finder"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Shine!"
+			x: -12.0d
+			y: -19.0d
+			subtitle: "Let them wonder what you got..."
+			dependencies: ["738D5A665B1919DD"]
+			id: "3FC95EB48BD2A963"
+			tasks: [{
+				id: "2A328D7C8FBC0F1E"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 12L
+			}]
+			rewards: [{
+				id: "0DA985E0EC036495"
+				type: "item"
+				item: {
+					id: "adfinders:gem_finder"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "A Moo Moo, I Love You"
+			x: -13.5d
+			y: -18.0d
+			subtitle: "I know your a cow but steak will do!"
+			dependencies: ["738D5A665B1919DD"]
+			id: "6A3865CF3D736A89"
+			tasks: [{
+				id: "2619DC7EDB11C874"
+				type: "item"
+				item: "minecraft:leather"
+				count: 12L
+			}]
+			rewards: [{
+				id: "6D86D3949BF5D47B"
+				type: "item"
+				item: "minecraft:cooked_beef"
+				count: 24
+			}]
+		}
+		{
+			title: "Pour some sugar on me!"
+			x: -13.5d
+			y: -16.5d
+			subtitle: "Or make some paper...."
+			dependencies: ["6A3865CF3D736A89"]
+			id: "37229BBBA0B5154E"
+			tasks: [
+				{
+					id: "17BD625F6DC2D252"
+					type: "item"
+					item: "minecraft:sugar_cane"
+				}
+				{
+					id: "24D66CCCA5A7D188"
+					type: "item"
+					item: "quark:sugar_cane_block"
+					count: 3L
+				}
+				{
+					id: "0D1B65D68C0CC875"
+					type: "item"
+					item: "minecraft:sugar"
+					count: 9L
+				}
+			]
+			rewards: [
+				{
+					id: "78128418130EE16E"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "21A546879B98845F"
+					type: "item"
+					item: "minecraft:book"
+					count: 3
+				}
+				{
+					id: "16F525AFC21A7CF7"
+					type: "item"
+					item: "minecraft:writable_book"
+				}
+			]
+		}
+		{
+			title: "Library Card"
+			icon: "minecraft:bookshelf"
+			x: -12.0d
+			y: -17.0d
+			subtitle: "I will take them all!"
+			dependencies: ["37229BBBA0B5154E"]
+			id: "3D8D67997D10B6BB"
+			tasks: [
+				{
+					id: "5D9B378CFA396B34"
+					type: "item"
+					item: "minecraft:book"
+					count: 12L
+				}
+				{
+					id: "62D9989ADB27FE75"
+					type: "item"
+					item: "minecraft:carrot"
+				}
+				{
+					id: "593F7A4569123E57"
+					type: "item"
+					item: "minecraft:bookshelf"
+					count: 2L
+				}
+				{
+					id: "649519D947EC81C3"
+					type: "item"
+					item: "minecraft:iron_ingot"
+				}
+				{
+					id: "68BCE0400E3C47FA"
+					type: "item"
+					item: "pamhc2foodcore:saltitem"
+				}
+				{
+					id: "5EFC38D8D08F80B8"
+					type: "item"
+					item: "minecraft:diamond"
+				}
+			]
+			rewards: [
+				{
+					id: "48EC8865AA42BAC1"
+					type: "item"
+					item: {
+						id: "patchouli:guide_book"
+						Count: 1b
+						tag: {
+							"patchouli:book": "pneumaticcraft:book"
+						}
+					}
+				}
+				{
+					id: "7E1EDEF45204BC21"
+					type: "item"
+					item: "immersiveengineering:manual"
+				}
+				{
+					id: "185CCE061A9ACB01"
+					type: "item"
+					item: {
+						id: "patchouli:guide_book"
+						Count: 1b
+						tag: {
+							"patchouli:book": "twilightforest:guide"
+						}
+					}
+				}
+				{
+					id: "77C2A3D33E9C1755"
+					type: "item"
+					item: "minecraft:writable_book"
+				}
+				{
+					id: "7B07EB463B99CD7D"
+					type: "item"
+					item: "solcarrot:food_book"
+				}
+				{
+					id: "791F4E6B5911FCB7"
+					type: "item"
+					item: "cookingforblockheads:no_filter_edition"
+				}
+				{
+					id: "145D394D11C36FE5"
+					type: "item"
+					item: "cookingforblockheads:recipe_book"
+				}
+				{
+					id: "4D5BE3AA59337A24"
+					type: "item"
+					item: "cookingforblockheads:crafting_book"
+				}
+				{
+					id: "52B420C96764442F"
+					type: "item"
+					item: "tconstruct:puny_smelting"
+				}
+				{
+					id: "056CF44473B49E44"
+					type: "item"
+					item: "tconstruct:mighty_smelting"
+				}
+				{
+					id: "3F272BD2FF1E1179"
+					type: "item"
+					item: "tconstruct:tinkers_gadgetry"
+				}
+				{
+					id: "5D8345D19EFE5359"
+					type: "item"
+					item: "tconstruct:encyclopedia"
+				}
+				{
+					id: "102E88C7C0FC79F5"
+					type: "item"
+					item: "tconstruct:fantastic_foundry"
+				}
+				{
+					id: "51BA10CF8D9A3779"
+					type: "item"
+					item: "storagedrawers:birch_half_drawers_4"
+					count: 4
+				}
+				{
+					id: "0787537A80B26BFF"
+					type: "item"
+					item: {
+						id: "xpbook:xp_tome"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			title: "Oh It's Magic!"
+			icon: "minecraft:enchanting_table"
+			x: -12.0d
+			y: -16.0d
+			dependencies: ["37229BBBA0B5154E"]
+			id: "4DF4DCB7152A9928"
+			tasks: [{
+				id: "661CCAEE9C03D31A"
+				type: "item"
+				item: "minecraft:bookshelf"
+				count: 15L
+			}]
+			rewards: [
+				{
+					id: "5F9C434418F82582"
+					type: "item"
+					item: "minecraft:enchanting_table"
+				}
+				{
+					id: "65B0198C06745100"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "6B070F2A8C0F1F94"
+					type: "item"
+					item: "minecraft:lapis_lazuli"
+					count: 32
+				}
+			]
+		}
+		{
+			x: -16.5d
+			y: -14.5d
+			description: ["Just a note to say the best is yet to come"]
+			id: "0E85669EE156075A"
+			tasks: [{
+				id: "49A3BAA9272FE00C"
+				type: "custom"
+				title: "More to come.."
+				icon: "pamhc2crops:peanutitem"
+			}]
+		}
+	]
+}

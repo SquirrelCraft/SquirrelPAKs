@@ -1,0 +1,80 @@
+{
+	id: "4B02BD9C45C5B602"
+	order_index: 2
+	title: "Loot Level 3"
+	icon: "minecraft:diamond"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:diamond", count: 128, weight: 3 }
+		{
+			item: {
+				id: "minecraft:netherite_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 2
+		}
+		{
+			item: {
+				id: "minecraft:netherite_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 2
+		}
+		{
+			item: {
+				id: "minecraft:netherite_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 2
+		}
+		{
+			item: {
+				id: "minecraft:netherite_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 2
+		}
+		{
+			item: {
+				id: "minecraft:netherite_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 2
+		}
+		{
+			item: {
+				id: "minecraft:netherite_boots"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 2
+		}
+		{
+			xp_levels: 30
+			type: "xp_levels"
+			weight: 2
+		}
+		{
+			xp_levels: 60
+			type: "xp_levels"
+			weight: 2
+		}
+	]
+}

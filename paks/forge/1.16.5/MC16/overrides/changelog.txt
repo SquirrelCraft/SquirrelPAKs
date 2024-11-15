@@ -1,0 +1,16 @@
+================================================================================
+SquirrelPAK MC16 Change Log
+================================================================================
+
+
+SquirrelPAK MC16 1.0
+================================================================================
+File Version 1.0.0+1.16.5
+
+
+This will be the last update to this PAK. I am going to focus on 1.18.X PAKs
+
+- Upgraded to Forge 36.2.22
+- All Mods up to date as of this release date
+
+
