@@ -1,0 +1,21 @@
+
+#Balance Settings
+[balance]
+	#How much forge energy per tick should each connection allow?
+	#Keep in mind that multiple pipes can be connected to each block (up to 64), and pipes have unlimited throughput.
+	#(default: 256 fe/tick)
+	#Range: > 1
+	fe_per_tick = 256
+	#How many millibuckets of fluid per second should each connection allow? (1000mB = 1 bucket)
+	#Keep in mind that multiple pipes can be connected to each block (up to 64), and pipes have unlimited throughput.
+	#(default: 500mB per second, which is about 25mB per tick)
+	#Range: > 4
+	mb_per_second = 500
+	#How many items per second can each connection transfer?
+	#Keep in mind that multiple pipes can be connected to each block (up to 64), and pipes have unlimited throughput.
+	#Also, items move through pipes instantaneously.
+	#For context, vanilla hoppers transfer 2.5 items per second.
+	#(default: 2 items/second)
+	#Range: 1 ~ 64
+	items_per_second = 2
+

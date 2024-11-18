@@ -1,0 +1,7 @@
+{
+	"name": "Legacy Packs",
+	"description": "These are our legacy packs, for MC 1.12, 1.16, and 1.17!",
+	"icon": "squirrelpak:textures/logos/legacy_logo_thumb.png",
+	"parent": "patchouli:other_packs",
+	"sortnum":0
+}

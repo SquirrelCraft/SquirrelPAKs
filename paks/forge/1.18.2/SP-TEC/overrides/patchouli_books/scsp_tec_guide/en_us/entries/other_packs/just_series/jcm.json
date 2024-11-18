@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK JCM",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:other_packs/118_packs/just_series",
+  "sortnum": 4,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just Create Mod is currently under development "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Just.. Create Mod",
+      "images": ["squirrelpak:textures/logos/under_dev_patch.png"
+      ]
+    }
+    ]
+}

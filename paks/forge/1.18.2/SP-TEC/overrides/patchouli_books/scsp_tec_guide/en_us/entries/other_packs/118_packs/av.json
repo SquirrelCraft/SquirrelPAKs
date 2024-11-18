@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK AV",
+    "icon": "squirrelpak:textures/logos/scsp_av_thumb.png",
+    "category": "patchouli:other_packs/118_packs",
+  "sortnum": 1,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Almost Vanilla is just what is says. Vanilla Minecraft with a dash of squirrels. That dash includes life improvement mods including JourneyMap, MouseTweaks, JEI, and others. Also included are mods that we here at SquirrelHQ think add a little extra that makes this pack 'Almost Vanilla' like SimpleVoice Chat, AmbientSounds 5 and others that we think gives it a litte extra. $(br)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-av)SquirrelPAK AV Info$(/l) "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Almost Vanilla",
+      "images": ["squirrelpak:textures/logos/scsp_av_logo_patch.png"
+      ]
+    }
+    ]
+}

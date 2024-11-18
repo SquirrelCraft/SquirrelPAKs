@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK BAM",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:other_packs/118_packs/pick3_series",
+  "sortnum": 1,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Pick 3 - BAM: Botania, Applied Energistics 2, & Mekanism built on SquirrelPAK AVP (BAM) is currently under development!"
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Pick 3 - B.A.M.",
+      "images": ["squirrelpak:textures/logos/under_dev_patch.png"
+      ]
+    }
+    ]
+}

@@ -1,0 +1,206 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  scale = 3
+  randomonlyfirsttime = false
+  backgroundcolor = #011400
+}
+
+customization {
+  visible = false
+  x = -6
+  action = editlogo
+  y = -107
+}
+
+customization {
+  visible = false
+  action = editprogressbar
+}
+
+customization {
+  orientation = top-centered
+  shape = rectangle
+  color = #055c00
+  x = 0
+  width = 307
+  action = addshape
+  actionid = 8ac9e994-05ed-4778-b5f8-be921e8f07621650119892984
+  y = 15
+  height = 50
+}
+
+customization {
+  orientation = top-centered
+  x = 0
+  width = 307
+  actionid = 7ff071bd-0220-4327-bad6-600046a298e81639856720858
+  y = 64
+  action = addcustomprogressbar
+  height = 5
+  direction = right
+  barcolor = #0dff00
+  backgroundcolor = #000000
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 0
+  textcolor = #0dff00
+  action = addtext
+  actionid = 60165916-eb65-4130-baa5-3c03ec527fe01639857338467
+  y = 23
+  scale = 4.0
+  alignment = left
+  value = SquirrelCraft
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  x = 0
+  textcolor = #ff0000
+  action = addtext
+  actionid = d716887a-9007-4111-a363-bbd5a2e5c82e1639856807296
+  y = 0
+  scale = 1.5
+  alignment = left
+  value = Mojang Studios
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -14
+  textcolor = #FFAA00
+  action = addtext
+  actionid = 0da8f963-06ae-4ef6-8220-db618ee7e4261639857352410
+  y = 0
+  scale = 3.5
+  alignment = left
+  value = SquirrelPAK
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = 103
+  textcolor = #FF5555
+  action = addtext
+  actionid = 6c720ad5-937c-4389-a7c7-f40a6d13f7541639858700387
+  y = -10
+  scale = 1.5
+  alignment = left
+  value = TEC
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -89
+  textcolor = #FF5555
+  action = addtext
+  actionid = 2f397cba-9956-4580-9925-fc29398255411654355801698
+  y = 24
+  scale = 2.0
+  alignment = left
+  value = T
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -76
+  textcolor = #ffffff
+  action = addtext
+  actionid = 72326258-0aee-4d1f-a61c-8a331240ab121654355801698
+  y = 24
+  scale = 2.0
+  alignment = left
+  value = el
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -61
+  textcolor = #FF5555
+  action = addtext
+  actionid = aa2a0cd4-90bc-4e26-8ab2-1064595801461654355801698
+  y = 24
+  scale = 2.0
+  alignment = left
+  value = E
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -17
+  textcolor = #ffffff
+  action = addtext
+  actionid = 7319a0d9-6662-43e9-bbdd-f5528ee42f581654355801698
+  y = 24
+  scale = 2.0
+  alignment = left
+  value = communi
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 29
+  textcolor = #FF5555
+  action = addtext
+  actionid = 41b8fc30-a758-4714-9aab-655dbf62b5e21654355801698
+  y = 24
+  scale = 2.0
+  alignment = left
+  value = C
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = 66
+  textcolor = #ffffff
+  action = addtext
+  actionid = 24148e05-5ffa-4dc9-be0f-527aed152a571654355801698
+  y = 24
+  scale = 2.0
+  alignment = left
+  value = ations
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 1
+  textcolor = #b5c900
+  action = addtext
+  actionid = 0b0d3619-9d71-40ba-bfe0-359bd83c1fe71639857491553
+  y = 76
+  scale = 2.0
+  alignment = left
+  value = Presents
+}
+
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 3
+  textcolor = #ffffff
+  action = addtext
+  actionid = 9d7ced11-80d7-4d63-a236-c15192f615391653050220795
+  y = -2
+  scale = 1.0
+  alignment = left
+  value = Loading: %loadingprogress%%
+}
+

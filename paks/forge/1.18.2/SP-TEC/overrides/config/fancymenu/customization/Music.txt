@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 56
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 6acbe185-1832-4b3e-9aae-7391430b6f761654728487253
+  y = 53
+  once_per_session = false
+  audio_source:0be64e7d-1517-4949-a1b5-708462b6df261654728492831 = config/fancymenu/music/Arpanauts.ogg;EXTERNAL_LOCAL;21;0
+  height = 50
+}
+

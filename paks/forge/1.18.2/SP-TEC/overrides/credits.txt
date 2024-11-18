@@ -1,0 +1,41 @@
+================================================================================
+SquirrelPAK TEC - TelEcommuniCations
+Credits
+================================================================================
+
+Music Used in this PAK:
+
+Loading Screen
+  We're the Resistors - SquirrelCraft Edit
+  Eric Skiff - We're the Resistors - Resistor Anthems
+  Available at http://EricSkiff.com/music
+  Licensed under Creative Commons: By Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+
+ Main Menu 
+  Eric Skiff - Arpanauts - Resistor Anthems
+  Available at http://EricSkiff.com/music
+  Licensed under Creative Commons: By Attribution 4.0
+  https://creativecommons.org/licenses/by/4.0/
+
+
+Logo Credits:
+
+ The SquirrelCraft logo created with textcraft
+  https://textcraft.net
+
+
+ Network Switch
+  https://commons.wikimedia.org/wiki/File:Gorilla-network-switch.svg
+  https://creativecommons.org/licenses/by-sa/3.0/deed.en
+
+ Computer
+  https://commons.wikimedia.org/wiki/File:DEC_VT100_terminal_transparent.png
+  https://creativecommons.org/licenses/by-sa/4.0/deed.en
+  
+
+ Network Squirrel skin inspired by the work by bigoodie
+  https://www.minecraftskins.com/profile/4053405/bigoodie
+  https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
+
+

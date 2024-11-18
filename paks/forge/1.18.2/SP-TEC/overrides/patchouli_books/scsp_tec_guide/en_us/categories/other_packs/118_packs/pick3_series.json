@@ -1,0 +1,7 @@
+{
+	"name": "The Pick 3 Series",
+	"description": "In the Pick 3 Series we pick three core mods that we think would be fun to play together. We then place them on top of our AVP or TEC mod packs. Here are the ones that are published or under development",
+	"icon": "squirrelpak:textures/logos/pick3_logo_thumb.png",
+	"parent": "patchouli:other_packs/118_packs",
+	"sortnum":0
+}

@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK MC17",
+    "icon": "squirrelpak:textures/logos/scsp_mc17_thumb.png",
+    "category": "patchouli:other_packs/legacy",
+  "sortnum": 2,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just as we started MC16, Minecraft 1.17 was released. We wanted to support this as well and since at the time Forge support was lagging behind we took a switch to Fabric. Since there are not as many tech heavy mods out there yet for Fabric this is a low tech adventure mod pack this time around, but with 1.17!$(br)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-mc17)SquirrelPAK MC17 Info$(/l) "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Fabulous Squirrels",
+      "images": ["squirrelpak:textures/logos/scsp_mc17_logo_patch.png"
+      ]
+    }
+    ]
+}

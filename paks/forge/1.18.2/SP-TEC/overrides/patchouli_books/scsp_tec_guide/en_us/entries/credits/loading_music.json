@@ -1,0 +1,18 @@
+{
+    "name": "Loading Screen Music",
+    "icon": "minecraft:music_disc_far",
+    "category": "patchouli:the_credits",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The music your hear on the loading screen is a remix of the track titled We're the Resistors by Eric Skiff found on the album Resistor Anthems. You can check out all the music on his website. $(br2)$(l:https://creativecommons.org/licenses/by/4.0/) Licensed under Creative Commons: By Attribution 4.0 $(/l)"
+        }
+  ,
+    {
+      "type": "patchouli:link",
+      "text": "Click the button below to hear more of Eric's music!",
+      "url": "http://EricSkiff.com/music",
+      "link_text": "Resistor Anthems"
+    }
+    ]
+}

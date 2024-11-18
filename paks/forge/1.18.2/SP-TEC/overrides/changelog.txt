@@ -1,0 +1,186 @@
+================================================================================
+SquirrelPAK TEC - TelEcommuniCations
+Change Log
+
+SquirrelPAK TEC - v1.0.1
+File Version 1.18.2+1.0.1
+================================================================================
+
+Quick changes
+
+This update, we have updated the mods that needed updated, updated the in game manual, and bumped the forge version due to mod requirements
+
+
+Known Issues:
+
+We have disabled the loading music due to crashes, If you experience crashes please open an issue!
+
+There is an issue that is with the options.txt file. There are issues
+with the mods I usually use so until we get that fix I will ship a options 
+file. Before updating to new versions if you make changes to your options file 
+ make a backup copy first and replace it after updating. 
+ 
+
+
+Issues/Questions/Documentation/Source
+
+Issues: Submit and issue on our GitHub tracker
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/issues
+
+Questions: Ask it on our discussions on GitHub
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/discussions/categories/sp-tec
+
+Docs: Check out the Wiki
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/wiki/TelEcommuniCations
+
+Source: Source code can be found on GitHub
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/tree/SP-TEC
+
+
+
+-=-=-=-=-=-=-=-= Social Media =-=-=-=-=-=-=-=-=-
+
+Connect with us on Social Media!
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+FaceBook Group:
+https://www.facebook.com/groups/squirrelcraft
+
+YouTube Channel - SquirrelCraft MP:
+https://www.youtube.com/channel/UCrDZ3ifO2-lbDjm7a-8jQbA
+
+Twitch:
+https://www.twitch.tv/network_squirrel
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+Added:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+AdChimneys-1.18.2-8.3.3.0-build.1088
+AdFinders-1.18.2-7.0.2.0-build.1061
+advancednetherite-1.12.4-1.18.2
+AdvancementPlaques-1.18.2-1.4.5.1
+AI-Improvements-1.18.2-0.5.2
+alexsdelight-1.18.2-1.3.3
+alexsmobs-1.18.6
+appleskin-forge-mc1.18.2-2.4.1
+architectury-4.9.84-forge
+areas_1.18.2-3.1
+fm_audio_extension_forge_1.1.1_MC_1.18-1.18.2
+balm-3.2.0+0
+BetterAdvancements-1.18.2-0.2.1.132
+BetterCompatibilityChecker-1.1.15-build.29+mc1.18.2
+biomeinfo-1.18.2-1.5
+Bookshelf-Forge-1.18.2-13.2.50
+cc-tweaked-1.18.2-1.100.10
+ceilingtorch-1.18.2-1.22.1
+chalk-1.18.2-1.3.2
+cloth-config-6.4.90-forge
+Clumps-forge-1.18.2-8.0.0+15
+collective-1.18.2-5.7
+compactmachines-4.5.0
+configured-2.0.0-1.18.2
+Controlling-forge-1.18.2-9.0+22
+corn_delight-1.0.6-1.18.2
+CraftTweaker-forge-1.18.2-9.1.195
+CreativeCore_FORGE_v2.6.15_mc1.18.2
+curios-forge-1.18.2-5.0.7.1
+drippyloadingscreen_forge_1.6.4_MC_1.18-1.18.2
+DungeonCrawl-1.18.2-2.3.10
+easy_villagers-1.18.2-1.0.11
+eccentrictome-1.18.2-1.8.0
+EnchantmentDescriptions-Forge-1.18.2-10.0.9
+EnderMail-1.18.2-1.2.5
+enderchests-1.18-1.9.6
+endertanks-1.18-1.11.7
+ExplorersCompass-1.18.2-1.3.0-forge
+extremesoundmuffler-3.29_forge-1.18.2
+fancymenu_forge_2.12.2-1_MC_1.18.2
+FarmersDelight-1.18.2-1.2.0
+FarmersRespite-1.18.2-1.3.0
+ForgeEndertech-1.18.2-9.0.5.0-build.1061
+FramedBlocks-5.8.0
+ftb-chunks-forge-1802.3.6-build.170
+ftb-library-forge-1802.3.6-build.140
+ftb-teams-forge-1802.2.6-build.69
+functionalstorage-1.18.2-1.0.6
+rsgauges-1.18.2-1.2.16
+geckolib-forge-1.18-3.0.43
+Iceberg-1.18.2-forge-1.0.48
+ironchests-2.0.4-forge
+ItShallNotTick-1.0.22-build.34
+item-filters-forge-1802.2.8-build.40
+JEITweaker-1.18.2-3.0.0.9
+jei-1.18.2-9.7.1.255
+JustEnoughResources-1.18.2-0.14.1.171
+konkrete_forge_1.5.2_MC_1.18-1.18.2
+laserio-1.4.3
+lightmanscurrency-1.18.2-2.0.0.3
+lootr-1.18.2-0.2.21.58
+mcw-bridges-2.0.5-mc1.18.2forge
+mcw-doors-1.0.7-mc1.18.2
+mcw-fences-1.0.6-mc1.18.2
+mcw-furniture-3.0.2-mc1.18.2
+mcw-lights-1.0.4-mc1.18.2
+mcw-paintings-1.0.4-mc1.18.2
+mcw-paths-1.0.1-mc1.18.2
+mcw-roofs-2.2.1-mc1.18.2-forge
+mcw-trapdoors-1.0.7-mc1.18.2
+Mantle-1.18.2-1.9.27
+MapFrontiers-1.18.2-2.3.4
+mcjtylib-1.18-6.0.17
+selene-1.18.2-1.17.9
+morevillagers-forge-1.18.2-3.3.2
+mmlib-1.1.3-1.18.2
+NaturesCompass-1.18.2-1.9.7-forge
+NekosEnchantedBooks-1.18.2-1.8.0
+Ore Creeper-1.18.2-1.1.10
+panoramica_forge_1.2.1_MC_1.18-1.18.2
+Patchouli-1.18.2-71.1
+Placebo-1.18.2-6.6.5
+randomvillagenames_1.18.2-2.0
+realisticbees_1.18.2-2.8
+redstonepen-1.18.2-1.0.11
+refinedstorage-1.10.3
+rftoolsbase-1.18-3.0.11
+shetiphiancore-1.18-3.10.10
+SimpleBackups-1.18.2-1.1.12
+voicechat-forge-1.18.2-2.3.10
+sophisticatedbackpacks-1.18.2-3.18.29.718
+sophisticatedcore-1.18.2-0.5.13.132
+stackrefill_1.18.2-3.2
+supermartijn642configlib-1.1.6-forge-mc1.18
+supermartijn642corelib-1.0.19-forge-mc1.18
+supplementaries-1.18.2-1.5.10
+Terralith_v2.2.2
+The_Graveyard_1.9.2_(FORGE)_for_1.18.2
+theoneprobe-1.18-5.1.2
+TConstruct-1.18.2-3.5.2.40
+tinyredstone-1.18.2-3.2.2
+ToastControl-1.18.2-6.0.3
+toms_storage-1.18.2-1.3.5
+villagespawnpoint_1.18.2-2.6
+villagernames_1.18.2-4.1
+waystones-forge-1.18.2-10.1.0
+WorldPreGenerator-1.18.2-3.0.1
+xnet-1.18-4.0.7
+xptome-1.18.2-2.1.6
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 
+
+

@@ -1,0 +1,22 @@
+{
+    "name": "A Warm Welcome",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:general",
+  "sortnum": 0,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hello there $(playername)! Welcome to the SquirrelPAK TEC. This pack will be the base of our tech mod series of 1.18.2 mods. So kick off those boots, sit by the campfire toss on a steak or a potato and enjoy the pack!"
+        }
+    ,
+    {
+      "type": "patchouli:entity",
+      "entity": "minecraft:villager",
+      "scale": 1.0,
+      "name": "Can you hear me now?",
+      "text": "This villager welcomes you with a cell phone, well not really.",
+      "rotate": false,
+      "default_rotation": 20
+    }
+  ]
+}
