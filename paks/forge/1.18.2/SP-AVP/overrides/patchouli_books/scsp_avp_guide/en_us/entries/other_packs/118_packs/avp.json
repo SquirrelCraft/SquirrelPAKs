@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK AVP",
+    "icon": "squirrelpak:textures/logos/scsp_avp_thumb.png",
+    "category": "patchouli:other_packs/118_packs",
+  "sortnum": 2,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In this release, SquirrelPAK AVP Almost Vanilla PLUS! is Vanilla Minecraft PLUS a barrel of squirrels. Well ok not really, but what it does have is mods that we here at SquirrelHQ think will be a good base for our upcoming 1.18.2 +Plus mod PAKs. We took our 'Almost Vanilla' PAK and gave it a good sprinkle of mods.!$(br)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-avp)SquirrelPAK AVP Info$(/l) "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Almost Vanilla PLUS!",
+      "images": ["squirrelpak:textures/logos/scsp_avp_logo_patch.png"
+      ]
+    }
+    ]
+}

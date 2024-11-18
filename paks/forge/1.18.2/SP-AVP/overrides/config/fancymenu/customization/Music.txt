@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = %fancymenu:universal_layout%
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  audio_source:45cbe363-eb05-4b96-b312-59f0bbfcdaab1652382195027 = config/fancymenu/music/Underclocked.ogg;EXTERNAL_LOCAL;35;0
+  loop = true
+  channel = master
+  x = 116
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = fe8e3f4b-4076-4353-b293-318b58f076f11652037657469
+  y = 86
+  once_per_session = false
+  height = 50
+}
+
