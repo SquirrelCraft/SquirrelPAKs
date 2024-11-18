@@ -1,0 +1,11 @@
+{
+    "name": "Logo Design",
+    "icon": "minecraft:item_frame",
+    "category": "patchouli:the_credits",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The SquirrelCraft logo created with $(l:https://textcraft.net)Textcraft$(/l)$(br2)Network Squirrel skin $(l:https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/)inspired$(/l) by the work by $(l:https://www.minecraftskins.com/profile/4053405/bigoodie)bigoodie$(/l)"
+        }
+  ]
+}

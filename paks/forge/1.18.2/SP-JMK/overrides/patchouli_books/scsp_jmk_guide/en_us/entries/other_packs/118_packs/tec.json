@@ -1,0 +1,22 @@
+{
+    "name": "SquirrelPAK TEC",
+    "icon": "squirrelpak:textures/logos/scsp_tec_thumb.png",
+    "category": "patchouli:other_packs/118_packs",
+  "sortnum": 3,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In this release, SquirrelPAK $(c)TEC$() - $(c)$(l)T$()el$(c)$(l)E$()communi$(c)$(l)C$()ations is our Redstone, Network and Computers PAK. We took our AVP PAK then added redstone mods for automation, LaserIO and Xnet for networking, then CCTweaked for computer fun. The TEC PAK will be the base pack of all the upcoming tech mods we will be releasing!$(br)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-tec)SquirrelPAK TEC Info$(/l) "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "TelEcommuniCations",
+      "images": ["squirrelpak:textures/logos/scsp_tec_logo_patch.png"
+      ]
+    }
+    ]
+}
+
+

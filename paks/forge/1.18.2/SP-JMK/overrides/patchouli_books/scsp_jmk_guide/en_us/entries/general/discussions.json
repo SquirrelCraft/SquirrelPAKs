@@ -1,0 +1,19 @@
+{
+    "name": "Requests & Help",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:general",
+  "sortnum": 3,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "If you have suggestions or need help click on over to our GitHub discussions page and give us a shout."
+        }
+  ,
+    {
+      "type": "patchouli:link",
+      "text": "Click the button below to link to our GitHub Discussions page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-MC18/discussions/categories/sp-jmk",
+      "link_text": "Join Discussions"
+    }
+  ]
+}

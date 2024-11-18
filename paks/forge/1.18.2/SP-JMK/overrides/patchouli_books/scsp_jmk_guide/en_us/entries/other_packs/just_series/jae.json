@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK JAE",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:other_packs/118_packs/just_series",
+  "sortnum": 3,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just Applied Energistics 2 is currently under development "
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Just.. AE2",
+      "images": ["squirrelpak:textures/logos/under_dev_patch.png"
+      ]
+    }
+    ]
+}

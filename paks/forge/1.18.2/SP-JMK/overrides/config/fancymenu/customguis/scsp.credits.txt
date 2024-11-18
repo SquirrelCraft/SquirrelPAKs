@@ -1,0 +1,3 @@
+identifier = scsp.credits
+title = SquirrelPAK - Credits
+allowesc = true

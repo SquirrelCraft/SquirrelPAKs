@@ -1,0 +1,20 @@
+{
+    "name": "SquirrelPAK JMK",
+    "icon": "squirrelpak:textures/logos/scsp_jmk_thumb.png",
+    "category": "patchouli:other_packs/118_packs/just_series",
+  "sortnum": 1,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "In this release, SquirrelPAK $(2)JMK$() - $(2)J$()ust.. $(2)M$()e$(2)K$()anism is our first in our Just Series of PAKs. We took the TEC PAK as a base then we added Mekanism mods, and thats it. Feel the power of just Mekanism!.. with a good base of life improvement mods"
+        }
+  ,
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Just.. MeKanism",
+      "images": ["squirrelpak:textures/logos/scsp_jmk_logo_patch.png"
+      ]
+    }
+    ]
+}

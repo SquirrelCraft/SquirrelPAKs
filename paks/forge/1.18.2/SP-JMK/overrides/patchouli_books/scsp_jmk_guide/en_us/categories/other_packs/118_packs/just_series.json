@@ -1,0 +1,7 @@
+{
+	"name": "The Just... Series",
+	"description": "In this series of mod packs, we spot light one mod or mod series. Depending on the mod it is based on our AVP or TEC pack.",
+	"icon": "squirrelpak:textures/logos/just_logo_thumb.png",
+	"parent": "patchouli:other_packs/118_packs",
+	"sortnum":0
+}

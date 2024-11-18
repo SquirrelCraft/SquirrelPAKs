@@ -1,0 +1,100 @@
+================================================================================
+SquirrelPAK JMK - Just.. MeKanism
+Change Log
+
+SquirrelPAK JMK - v0.2.0
+File Version 1.18.2+0.2.0
+Forge Version: 40.1.84
+================================================================================
+
+Beta 2 - TECed Out
+
+Ok, so in this Beta 2, we have decided that instead of being based on AVP, we have will base it on the TEC pack instead. My notes said AVP however my son told me it was to be TEC... I blame the squirrels. Well enjoy the TEC upgrade!
+
+Also in this update we fixed the music levels of the loading and menu screens, was a bit to high for the squirrels ears. We also added a Beta text on the menu to remind everyone this is beta right now.
+
+
+If you find a bug that we patch we will put your minecraft username in the Credits
+
+
+Known Issues:
+ - There is one known issue and that is with the options.txt file. There are issues with the mods I usually use so until we get that fix I will ship a options  file. Before updating to new versions if you make changes to your options file  make a backup copy first and replace it after updating. 
+ 
+ - Running on a server you will need to enable command blocks. A few mods use them to set things up. Disable them and a few of the mods break on servers.
+ 
+
+
+Issues/Questions/Documentation/Source
+Issues: Submit and issue on our GitHub tracker
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/issues
+
+Questions: Ask it on our discussions on GitHub
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/discussions/categories/sp-jmk
+
+Docs: Check out the Wiki
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/wiki/Just..-MeKanism
+
+Source: Source code can be found on GitHub
+https://github.com/SquirrelCraft/SquirrelPAK-MC18/tree/SP-JMK
+
+
+-=-=-=-=-=-=-=-= Social Media =-=-=-=-=-=-=-=-=-
+
+Connect with us on Social Media!
+
+FaceBook Page:
+https://www.FaceBook.com/SquirrelCraftMP
+
+FaceBook Group:
+https://www.facebook.com/groups/squirrelcraft
+
+YouTube Channel - SquirrelCraft MP:
+https://www.youtube.com/channel/UCrDZ3ifO2-lbDjm7a-8jQbA
+
+Twitch:
+https://www.twitch.tv/network_squirrel
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+
+Added:
+------------------------------------------- 
+cc-tweaked-1.18.2-1.100.10
+xnet-1.18-4.0.7
+laserio-1.4.3
+rangedwirelessredstone-1.18-2.0.1
+redstonepen-1.18.2-1.0.11
+SuperCircuitMaker2-0.2.9+1.18.2
+tinyredstone-1.18.2-3.2.2
+tinygates-2.0.0
+wlrs-1.12.5-1.18.2
+tinypipes-2.0.2
+rsgauges-1.18.2-1.2.16
+SolarFluxReborn-1.18.2-18.2.4
+refinedstorage-1.10.3
+refinedstorageaddons-0.8.2
+rsrequestify-2.2.0
+entangled-1.3.11-forge-mc1.18
+compactmachines-4.5.0
+rftoolsbase-1.18-3.0.11
+------------------------------------------- 
+
+
+Updated:
+------------------------------------------- 
+ceilingtorch-1.18.2-1.23
+collective-1.18.2-5.10
+extremesoundmuffler-3.30_forge-1.18.2
+fancymenu_forge_2.12.5_MC_1.18.2
+geckolib-forge-1.18-3.0.45
+konkrete_forge_1.5.3_MC_1.18-1.18.2
+Compressium-1.4.2-build.9+mc1.18.2
+------------------------------------------- 
+
+
+Removed:
+------------------------------------------- 
+N/A
+------------------------------------------- 

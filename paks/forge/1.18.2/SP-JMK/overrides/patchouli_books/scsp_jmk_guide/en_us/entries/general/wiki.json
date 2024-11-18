@@ -1,0 +1,19 @@
+{
+    "name": "Pack Details",
+    "icon": "minecraft:spyglass",
+    "category": "patchouli:general",
+  "sortnum": 2,
+  "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "For all the details on what mods are in this pack and other things, all those details can be found on our wiki page on GitHub."
+        }
+  ,
+    {
+      "type": "patchouli:link",
+      "text": "Click the button below to link to our GitHub Wiki page.",
+      "url": "https://github.com/SquirrelCraft/SquirrelPAK-MC18/wiki/Just..-MeKanism",
+      "link_text": "Open Wiki"
+    }
+    ]
+}

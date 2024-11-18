@@ -1,0 +1,20 @@
+{
+    "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "SquirrelPAK MC16 Creative Adventure is medium tech mod pack focused around four main mods: Create, Immersive Engineering/Petroleum, and PneumaticCraft. With a heavy dose of building mods that will make your base look amazing, and the quality of life mods you come to know.Oh by the way there may be things hiding, just a warning there be dragons, really!$(br)$(l:https://www.curseforge.com/minecraft/modpacks/squirrelpak-mc16)SquirrelPAK MC16 Info$(/l) "
+    },
+    {
+      "type": "patchouli:image",
+      "border": true,
+      "title": "Creative Adventure",
+      "images": [
+        "squirrelpak:textures/logos/scsp_mc16_logo_patch.png"
+      ]
+    }
+  ],
+    "sortnum": 1,
+    "category": "patchouli:other_packs/legacy",
+  "name": "SquirrelPAK MC16",
+  "icon": "squirrelpak:textures/logos/scsp_mc16_thumb.png"
+}
