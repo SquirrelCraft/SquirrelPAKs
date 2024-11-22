@@ -1,0 +1,35 @@
+================================================================================
+SquirrelPAK 1201 - Tech Squirrels
+Credits
+================================================================================
+
+Music Used in this PAK:
+
+ Main Menu
+  Now We Ride (Metal Version) by Alexander Nakarada (www.creatorchords.com)
+  Licensed to use by Alexander Nakarada via Patreon
+  https://www.patreon.com/anakarada
+   
+
+Logo Credits:
+
+ The SquirrelCraft logo created with textcraft
+  https://textcraft.net
+
+ Network Squirrel skin inspired by the work by bigoodie
+  https://www.minecraftskins.com/profile/4053405/bigoodie
+  https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
+
+ Matrix Base 
+  Isaiah van Hunen - https://www.flickr.com/photos/isaiah115/7301506118
+  License: CC BY-SA 2.0 DEED
+  https://creativecommons.org/licenses/by-sa/2.0/
+
+=-=-=-= Towns and Towers =-=-=-=
+ Thanks to Biban_Auriu (https://www.curseforge.com/members/biban_auriu/projects)
+
+ Project on CurseForge 
+  https://www.curseforge.com/minecraft/mc-mods/towns-and-towers
+- - - - - - - -
+
+

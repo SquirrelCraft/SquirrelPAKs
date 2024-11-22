@@ -1,0 +1,3 @@
+#Whether to display enchantment levels in Enchanter's Workbench and Precision Grindstone as roman numerals (false) or plain numbers (true)
+displayLevelsAsNumbers = false
+
