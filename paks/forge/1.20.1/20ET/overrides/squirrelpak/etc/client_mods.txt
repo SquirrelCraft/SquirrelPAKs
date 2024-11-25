@@ -1,0 +1,40 @@
+# Start client mods for SquirrelPAK 20ET
+# AutoTools (by lukaz)
+autotools*
+# Auudio [Forge] (by Keksuccino)
+auudio_forge*
+# Better Advancements (by way2muchnoise)
+BetterAdvancements*
+# Better Third Person (by Socolio)
+BetterThirdPerson*
+# Compass Coords (by Insane96MCP)
+CompassCoords*
+# Controlling (by Jaredlll08)
+Controlling*
+# Distinguished Potions
+DistinguishedPotions*
+# Drippy Loading Screen [Forge] (by Keksuccino)
+drippyloadingscreen*
+# Durability Tooltip (by SuperMartijn642)
+durabilitytooltip*
+# Experimental Settings Disabler (By Eruannie_9 )
+experimentalsettingsdisabler*
+# FancyMenu [Forge] (by Keksuccino)
+fancymenu*
+# Farsight [Forge] (by someaddon)
+farsight*
+# JourneyMap Integration (by frankv_)
+jmi-forge*
+# Light Overlay (Rift/Forge/Fabric) (by shedaniel)
+light-overlay*
+# Mouse Tweaks (by YaLTeR)
+MouseTweaks*
+# Spyglass Improvements: Zoom, Quick Access (by Im_JC52)
+spyglass_improvements*
+# Panoramica [Forge]
+panoramica*
+# TipTheScales (by Jaredlll08)
+TipTheScales*
+# Load My Resources
+loadmyresources*
+# Blank Line
