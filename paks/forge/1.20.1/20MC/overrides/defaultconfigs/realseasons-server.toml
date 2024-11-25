@@ -1,0 +1,7 @@
+#Duration of a season (in seconds) #default 86400 (1 day)
+season_duration = 86400
+#Always start the season cycle of a world at 00:00 (midnight, in local time) #default true
+start_midnight = true
+#(*Only active if start_midnight is true) when starting midnight, should the timezone be UTC (true) or local (false) #default false
+start_utc = false
+
