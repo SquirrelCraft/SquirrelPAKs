@@ -1,0 +1,142 @@
+SquirrelPAK LP20 - Lets Play MC20! v11.0.0-1.20.1
+=====================================================
+SquirrelPAK LP20 Release 11.0.0
+File Version 11.0.0-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+End of the line
+
+Summary:
+Last major update only critical bug fixes now
+
+Updated all mods - requires forge 47.3.7
+
+Did we skip a few numbers? Yeah its the hot thing to
+do now right Windows 9?
+ 
+-------------------------------------------
+ Mod Changes from v10.0.1-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK LP20 - Lets Play MC20! v11.0.0-1.20.1             |  SquirrelPAK LP20 - Lets Play MC20! v10.0.1-1.20.1
+AdChimneys-1.20.1-10.1.13.1-build.0782.jar                     | AdChimneys-1.20.1-10.1.11.0-build.0620.jar
+AdFinders-1.20.1-9.1.10.0-build.0804.jar                       | AdFinders-1.20.1-9.1.8.0-build.0584.jar
+AdLods-1.20.1-8.1.2.1-build.0782.jar                           | AdLods-1.20.1-8.1.2.0-build.0424.jar
+Aquaculture-1.20.1-2.5.2.jar                                   | Aquaculture-1.20.1-2.5.1.jar
+BadMobs-1.20.1-19.0.4.jar                                      | BadMobs-1.20.1-19.0.2.jar
+Colony4ComputerCraft-1.20.1-2.6.4.jar                          | Colony4ComputerCraft-1.20.1-2.6.3.jar
+CommonCapabilities-1.20.1-2.9.3.jar                            | CommonCapabilities-1.20.1-2.9.1.jar
+CraftTweaker-forge-1.20.1-14.0.43.jar                          | CraftTweaker-forge-1.20.1-14.0.40.jar
+Cucumber-1.20.1-7.0.11.jar                                     | Cucumber-1.20.1-7.0.9.jar
+CyclopsCore-1.20.1-1.19.5.jar                                  | CyclopsCore-1.20.1-1.19.2.jar
+ExtremeReactors2-1.20.1-2.0.84.jar                             | ExtremeReactors2-1.20.1-2.0.82.jar
+FramedBlocks-9.3.1.jar                                         | FramedBlocks-9.3.0.jar
+IntegratedCrafting-1.20.1-1.1.8.jar                            | IntegratedCrafting-1.20.1-1.1.7.jar
+IntegratedDynamics-1.20.1-1.23.2.jar                           | IntegratedDynamics-1.20.1-1.22.1.jar
+IntegratedTerminals-1.20.1-1.5.0.jar                           | IntegratedTerminals-1.20.1-1.4.15.jar
+IntegratedTunnels-1.20.1-1.8.31.jar                            | IntegratedTunnels-1.20.1-1.8.28.jar
+JustEnoughMekanismMultiblocks-1.20.1-4.5.jar                   | JustEnoughMekanismMultiblocks-1.20.1-4.2.jar
+                                                               > SWPlanets-forge-1.20.1-1.2.3.jar
+TofuCraftReload-1.20.1-5.13.2.1.jar                            | TofuCraftReload-1.20.1-5.13.0.1.jar
+ZeroCore2-1.20.1-2.1.45.jar                                    | ZeroCore2-1.20.1-2.1.44.jar
+ad_astra-forge-1.20.1-1.15.18.jar                              | ad_astra-forge-1.20.1-1.15.5.jar
+appliedenergistics2-forge-15.2.13.jar                          | appliedenergistics2-forge-15.2.8.jar
+areas-1.20.1-6.0.jar                                           | areas-1.20.1-5.9.jar
+ars_nouveau-1.20.1-4.12.4-all.jar                              | ars_nouveau-1.20.1-4.12.1-all.jar
+bagus_lib-1.20.1-5.2.2.jar                                     | balm-forge-1.20.1-7.3.6-all.jar
+balm-forge-1.20.1-7.3.9-all.jar                                < 
+camera-forge-1.20.1-1.0.14.jar                                 | camera-1.20.1-1.0.6.jar
+cc-tweaked-1.20.1-forge-1.113.0.jar                            | cc-tweaked-1.20.1-forge-1.111.0.jar
+citadel-2.6.0-1.20.1.jar                                       | citadel-2.5.4-1.20.1.jar
+collective-1.20.1-7.84.jar                                     | collective-1.20.1-7.70.jar
+createaddition-1.20.1-1.2.4e.jar                               | createaddition-1.20.1-1.2.4c.jar
+cyclepaintings-1.20.1-3.6.jar                                  | cyclepaintings-1.20.1-3.5.jar
+dimdungeons-194-forge-1.20.1.jar                               | dimdungeons-191-forge-1.20.1.jar
+easy-piglins-forge-1.20.1-1.0.11.jar                           | easy-piglins-forge-1.20.1-1.0.5.jar
+easy-villagers-forge-1.20.1-1.1.17.jar                         | easy-villagers-forge-1.20.1-1.1.13.jar
+elytraslot-forge-6.4.3+1.20.1.jar                              | elytraslot-forge-6.4.0+1.20.1.jar
+endrem_forge-5.3.3-R-1.20.1.jar                                | endrem_forge-5.2.3-R-1.20.X.jar
+everycomp-1.21-2.6.72.jar                                      | everycomp-1.20-2.6.66.jar
+farsight-1.20.1-3.7.jar                                        | farsight-1.20.1-3.6.jar
+ftb-library-forge-2001.2.4.jar                                 | ftb-library-forge-2001.2.2.jar
+jei-1.20.1-forge-15.12.3.55.jar                                | jei-1.20.1-forge-15.3.0.8.jar
+jmi-forge-1.20.1-0.14-48.jar                                   | jmi-forge-1.20.1-0.14-45.jar
+journeymap-1.20.1-5.10.1-forge.jar                             | journeymap-1.20.1-5.10.0-forge.jar
+justmobheads-1.20.1-8.3.jar                                    | justmobheads-1.20.1-8.1.jar
+justplayerheads-1.20.1-4.1.jar                                 | justplayerheads-1.20.1-4.0.jar
+lightmanscurrency-1.20.1-2.2.3.1.jar                           | lightmanscurrency-1.20.1-2.2.2.3.jar
+lootr-forge-1.20-0.7.34.89.jar                                 | lootr-forge-1.20-0.7.34.86.jar
+lostcities-1.20-7.3.2.jar                                      | lostcities-1.20-7.1.8.jar
+lostsouls-1.20-4.1.0.jar                                       | lostsouls-1.20-4.0.4.jar
+mcjtylib-1.20-8.0.6.jar                                        | mcjtylib-1.20-8.0.5.jar
+mcw-furniture-3.3.0-mc1.20.1forge.jar                          | mcw-furniture-3.2.2-mc1.20.1forge.jar
+mcw-roofs-2.3.1-mc1.20.1forge.jar                              | mcw-roofs-2.3.0-mc1.20.1forge.jar
+mcw-windows-2.3.0-mc1.20.1forge.jar                            | mcw-windows-2.2.1-mc1.20.1forge.jar
+moonlight-1.20-2.12.16-forge.jar                               | moonlight-1.20-2.12.6-forge.jar
+new_shield_variants-merged-1.20.1-1.3.0.jar                    | newshieldvariants-merged-1.20.1-1.2.0.jar
+pneumaticcraft-repressurized-6.0.16+mc1.20.1.jar               | pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar
+randomvillagenames-1.20.1-3.7.jar                              | randomvillagenames-1.20.1-3.5.jar
+realisticbees-1.20.1-4.0.jar                                   | realisticbees-1.20.1-3.8.jar
+resourcefullib-forge-1.20.1-2.1.28.jar                         | resourcefullib-forge-1.20.1-2.1.25.jar
+rftoolsbase-1.20-5.0.5.jar                                     | rftoolsbase-1.20-5.0.4.jar
+rftoolsdim-1.20-11.0.9.jar                                     | rftoolsdim-1.20-11.0.7.jar
+sophisticatedbackpacks-1.20.1-3.20.6.1064.jar                  | sophisticatedbackpacks-1.20.1-3.20.5.1044.jar
+sophisticatedcore-1.20.1-0.6.25.632.jar                        | sophisticatedcore-1.20.1-0.6.22.611.jar
+stackrefill-1.20.1-4.5.jar                                     | stackrefill-1.20.1-4.4.jar
+starterkit-1.20.1-7.1.jar                                      | starterkit-1.20.1-7.0.jar
+starterstructure-1.20.1-3.9.jar                                | starterstructure-1.20.1-3.6.jar
+swplanets-forge-1.20.1-1.4.4.jar                               | tetra-1.20.1-6.3.0.jar
+tetra-1.20.1-6.4.0.jar                                         < 
+tfmg-0.9.1b-1.20.1.jar                                         | tfmg-0.9.0d-1.20.1.jar
+tofudelight-1.20.1-3.1.0.jar                                   | tofudelight-1.20.1-2.5.0.jar
+toms_storage-1.20-1.6.8.jar                                    | toms_storage-1.20-1.6.7.jar
+travelersbackpack-forge-1.20.1-9.1.15.jar                      | travelersbackpack-forge-1.20.1-9.1.14.jar
+villagernames-1.20.1-8.1.jar                                   | villagernames-1.20.1-8.0.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/LP20-v11.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Current Mod List
+https://docs.google.com/spreadsheets/d/1VCyfoTtybiYy7f5nuYzFpcdIOij6730H_hzJweLUhqw/edit?usp=sharing
+
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+
+
+
+= = = = = = = 
+
+
+
