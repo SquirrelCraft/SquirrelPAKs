@@ -1,0 +1,152 @@
+SquirrelPAK 20PA - Pressure Arising v3.0.0-1.20.1
+=====================================================
+SquirrelPAK 20PA Release 3.0.0
+File Version 3.0.0-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+v3.0 - End of the line
+
+Summary:
+Last major update only critical bug fixes now
+
+Updated all mods - requires forge 47.3.7
+
+Did we skip a few numbers? Yeah its the hot thing to
+do now right Windows 9?
+
+Removed the pinned FTB mods as they are now working on the latest
+ 
+-------------------------------------------
+ Mod Changes from v1.0.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 20PA - Pressure Arising v3.0.0-1.20.1             |  SquirrelPAK 20PA - Pressure Arising v1.0.0-1.20.1
+AdChimneys-1.20.1-10.1.13.1-build.0782.jar                     | AdChimneys-1.20.1-10.1.6.0-build.0496.jar
+AdFinders-1.20.1-9.1.10.0-build.0804.jar                       | AdFinders-1.20.1-9.1.6.0-build.0424.jar
+AdLods-1.20.1-8.1.2.1-build.0782.jar                           | AdLods-1.20.1-8.1.2.0-build.0424.jar
+AdvancedPeripherals-1.20.1-0.7.40r.jar                         | AdvancedPeripherals-1.20.1-0.7.39r.jar
+Aquaculture-1.20.1-2.5.2.jar                                   | Aquaculture-1.20.1-2.5.1.jar
+CommonCapabilities-1.20.1-2.9.3.jar                            | CommonCapabilities-1.20.1-2.9.1.jar
+CraftTweaker-forge-1.20.1-14.0.43.jar                          | CraftTweaker-forge-1.20.1-14.0.40.jar
+CreateTweaker-forge-1.20.1-4.0.10.jar                          | CreateTweaker-forge-1.20.1-4.0.9.jar
+Cucumber-1.20.1-7.0.11.jar                                     | Cucumber-1.20.1-7.0.8.jar
+CyclopsCore-1.20.1-1.19.5.jar                                  | CyclopsCore-1.20.1-1.19.1.jar
+ForgeEndertech-1.20.1-11.1.4.0-build.0572.jar                  | ForgeEndertech-1.20.1-11.1.3.1-build.0496.jar
+FramedBlocks-9.3.1.jar                                         | FramedBlocks-9.2.2.jar
+HammerLib-1.20.1-20.1.32.jar                                   | HammerLib-1.20.1-20.1.29.jar
+IronJetpacks-1.20.1-7.0.6.jar                                  | IronJetpacks-1.20.1-7.0.3.jar
+MapFrontiers-1.20.1-2.6.0p4-forge.jar                          | MapFrontiers-1.20.1-2.6.0p1-forge.jar
+PuzzlesLib-v8.1.21-1.20.1-Forge.jar                            | PuzzlesLib-v8.1.20-1.20.1-Forge.jar
+TaxOceanVillager+M.1.20.1+ForM+3.1.2.jar                       | TaxOceanVillager+M.1.20.1+ForM+3.1.1.jar
+Terralith_1.20.x_v2.5.4.jar                                    | Terralith_1.20_v2.5.1.jar
+TofuCraftReload-1.20.1-5.13.2.1.jar                            | TofuCraftReload-1.20.1-5.12.1.0.jar
+[1.20.1] SecurityCraft v1.9.10.jar                             | [1.20.1] SecurityCraft v1.9.9.jar
+advancednetherite-forge-2.1.3-1.20.1.jar                       | advancednetherite-forge-2.1.0-1.20.1.jar
+almostunified-forge-1.20.1-0.9.4.jar                           | almostunified-forge-1.20.1-0.9.3.jar
+amendments-1.20-1.2.8.jar                                      | amendments-1.20-1.1.31.jar
+areas-1.20.1-6.0.jar                                           | areas-1.20.1-5.6.jar
+bagus_lib-1.20.1-5.2.2.jar                                     | balm-forge-1.20.1-7.2.2.jar
+balm-forge-1.20.1-7.3.9-all.jar                                < 
+camera-forge-1.20.1-1.0.14.jar                                 | camera-1.20.1-1.0.6.jar
+cc-tweaked-1.20.1-forge-1.113.0.jar                            | cc-tweaked-1.20.1-forge-1.111.0.jar
+citadel-2.6.0-1.20.1.jar                                       | citadel-2.5.4-1.20.1.jar
+collective-1.20.1-7.84.jar                                     | collective-1.20.1-7.61.jar
+comforts-forge-6.4.0+1.20.1.jar                                | comforts-forge-6.3.5+1.20.1.jar
+connectivity-1.20.1-5.6.jar                                    | connectivity-1.20.1-5.5.jar
+cookingforblockheads-forge-1.20.1-16.0.6.jar                   | cookingforblockheads-forge-1.20.1-16.0.4.jar
+createaddition-1.20.1-1.2.4e.jar                               | createaddition-1.20.1-1.2.3.jar
+cupboard-1.20.1-2.7.jar                                        | cupboard-1.20.1-2.6.jar
+cyclepaintings-1.20.1-3.6.jar                                  | cyclepaintings-1.20.1-3.5.jar
+easy-piglins-forge-1.20.1-1.0.11.jar                           | easy-piglins-forge-1.20.1-1.0.5.jar
+easy-villagers-forge-1.20.1-1.1.17.jar                         < 
+                                                               > easy_villagers-1.20.1-1.0.17.jar
+elytraslot-forge-6.4.3+1.20.1.jar                              | elytraslot-forge-6.3.0+1.20.1.jar
+ends_delight-1.20.1-2.4.jar                                    | ends_delight-1.20.1-1.0.1.jar
+everycomp-1.21-2.6.72.jar                                      | everycomp-1.20-2.6.55.jar
+farsight-1.20.1-3.7.jar                                        | farsight-1.20.1-3.6.jar
+flib-1.20.1-0.0.14.jar                                         | flib-1.20.1-0.0.13.jar
+ftb-chunks-forge-2001.3.1.jar                                  | ftb-chunks-forge-2001.2.7.jar
+ftb-library-forge-2001.2.4.jar                                 | ftb-library-forge-2001.1.5.jar
+ftb-teams-forge-2001.3.0.jar                                   | ftb-teams-forge-2001.2.0.jar
+geckolib-forge-1.20.1-4.4.7.jar                                | geckolib-forge-1.20.1-4.4.4.jar
+jei-1.20.1-forge-15.12.3.55.jar                                | jei-1.20.1-forge-15.3.0.4.jar
+jmi-forge-1.20.1-0.14-48.jar                                   | jmi-forge-1.20.1-0.14-45.jar
+journeymap-1.20.1-5.10.1-forge.jar                             | journeymap-1.20.1-5.9.21-forge.jar
+justmobheads-1.20.1-8.3.jar                                    | justmobheads-1.20.1-7.8.jar
+justplayerheads-1.20.1-4.1.jar                                 | justplayerheads-1.20.1-4.0.jar
+kotlinforforge-4.11.0-all.jar                                  | kotlinforforge-4.10.0-all.jar
+lightmanscurrency-1.20.1-2.2.3.1.jar                           | lightmanscurrency-1.20.1-2.2.1.3b.jar
+lootr-forge-1.20-0.7.34.89.jar                                 | lootr-forge-1.20-0.7.34.85.jar
+lostcities-1.20-7.3.2.jar                                      | lostcities-1.20-7.1.7.jar
+lostsouls-1.20-4.1.0.jar                                       | lostsouls-1.20-4.0.4.jar
+mcjtylib-1.20-8.0.6.jar                                        | mcjtylib-1.20-8.0.5.jar
+mcw-doors-1.1.1forge-mc1.20.1.jar                              | mcw-doors-1.1.0forge-mc1.20.1.jar
+mcw-fences-1.1.2-mc1.20.1forge.jar                             | mcw-fences-1.1.1-mc1.20.1forge.jar
+mcw-furniture-3.3.0-mc1.20.1forge.jar                          | mcw-furniture-3.2.2-mc1.20.1forge.jar
+mcw-lights-1.1.0-mc1.20.1forge.jar                             | mcw-lights-1.0.6-mc1.20.1forge.jar
+mcw-roofs-2.3.1-mc1.20.1forge.jar                              | mcw-roofs-2.3.0-mc1.20.1forge.jar
+mcw-windows-2.3.0-mc1.20.1forge.jar                            | mcw-windows-2.2.1-mc1.20.1forge.jar
+monolib-forge-1.20.1-1.3.0.jar                                 | monolib-forge-1.20.1-1.1.0.jar
+moonlight-1.20-2.12.16-forge.jar                               | moonlight-1.20-2.11.31-forge.jar
+mysterious_mountain_lib-1.4.7-1.20.1.jar                       | mysterious_mountain_lib-1.4.5-1.20.1.jar
+new_shield_variants-merged-1.20.1-1.3.0.jar                    | newshieldvariants-merged-1.20.1-1.2.0.jar
+pneumaticcraft-repressurized-6.0.16+mc1.20.1.jar               | pneumaticcraft-repressurized-6.0.15+mc1.20.1.jar
+randomvillagenames-1.20.1-3.7.jar                              | randomvillagenames-1.20.1-3.5.jar
+realisticbees-1.20.1-4.0.jar                                   | realisticbees-1.20.1-3.8.jar
+rftoolsbase-1.20-5.0.5.jar                                     | rftoolsbase-1.20-5.0.3.jar
+sawmill-1.20-1.4.3.jar                                         | sawmill-1.20-1.4.1.jar
+sophisticatedbackpacks-1.20.1-3.20.6.1064.jar                  | sophisticatedbackpacks-1.20.1-3.20.5.1044.jar
+sophisticatedcore-1.20.1-0.6.25.632.jar                        | sophisticatedcore-1.20.1-0.6.22.611.jar
+stackrefill-1.20.1-4.5.jar                                     | stackrefill-1.20.1-4.4.jar
+starterkit-1.20.1-7.1.jar                                      | starterkit-1.20.1-6.7.jar
+starterstructure-1.20.1-3.9.jar                                | starterstructure-1.20.1-3.6.jar
+supplementaries-1.20-2.8.17.jar                                | supplementaries-1.20-2.8.11.jar
+titanium-1.20.1-3.8.32.jar                                     | titanium-1.20.1-3.8.28.jar
+tofudelight-1.20.1-3.1.0.jar                                   | tofudelight-1.20.1-2.5.0.jar
+toms_storage-1.20-1.6.8.jar                                    | toms_storage-1.20-1.6.6.jar
+travelersbackpack-forge-1.20.1-9.1.15.jar                      | travelersbackpack-forge-1.20.1-9.1.14.jar
+villagernames-1.20.1-8.1.jar                                   | villagernames-1.20.1-7.3.jar
+waystones-forge-1.20-14.1.4.jar                                | waystones-forge-1.20-14.1.3.jar
+xnet-1.20-6.1.4.jar                                            | xnet-1.20-6.1.2.jar
+xptome-1.20.1-2.2.1.jar                                        | xptome-1.20.1-2.2.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20PA-v3.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAK-MC120/issues)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = =
+
+
+

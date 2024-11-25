@@ -1,0 +1,176 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1720736453687
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:d53a343e-a6fc-4736-928b-ba1f3b461121-1720736414412] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  shape = rectangle
+  color = #080F0B
+  element_type = shape
+  instance_identifier = 1f7a375b-af3d-4a10-9477-4ecb8de92ee7-1713807214378
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-centered
+  x = -77
+  y = -8
+  width = 100
+  height = 14
+  stretch_x = true
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 71f03cb3-5ce1-418e-8a28-16ace560d8e0-1713180366750
+  [loading_requirement_container_meta:71f03cb3-5ce1-418e-8a28-16ace560d8e0-1713180366750] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-song-title.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFAA00
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = false
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = false
+  element_type = text_v2
+  instance_identifier = 8971bf68-4e6f-4b4f-9cf0-9e447fc38783-1713807214378
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-left
+  x = -10
+  y = -29
+  width = 344
+  height = 17
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 527fb902-6d5d-4bae-951e-d8c3987993a2-1712708681404
+  [loading_requirement_container_meta:527fb902-6d5d-4bae-951e-d8c3987993a2-1712708681404] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-short-name-ane-version.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = false
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = 034dce60-b1cf-4e87-bca2-59e59a715346-1713807268654
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = top-right
+  x = -100
+  y = -19
+  width = 173
+  height = 18
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020
+  [loading_requirement_container_meta:a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020] = [groups:][instances:]
+}
+
+element {
+  interactable = false
+  source = RAM Used: {"placeholder":"usedram"}MB
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFF00FF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = false
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = false
+  element_type = text_v2
+  instance_identifier = be0ee258-9d7a-4fb9-a68f-7346672a400c-1716751518723
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = element
+  anchor_point_element = 1f7a375b-af3d-4a10-9477-4ecb8de92ee7-1713807214378
+  x = 429
+  y = -11
+  width = 102
+  height = 15
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = a1381d60-993b-4d4a-bde8-ee366e2776f6-1712708847403
+  [loading_requirement_container_meta:a1381d60-993b-4d4a-bde8-ee366e2776f6-1712708847403] = [groups:][instances:]
+}
+
