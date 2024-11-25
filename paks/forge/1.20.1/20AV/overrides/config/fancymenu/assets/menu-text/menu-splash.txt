@@ -1,0 +1,16 @@
+SplashTXT v1.1 - Yeah this is to be shown!
+Rocking the {"placeholder":"gpuinfo"} GPU!
+WOW! You got a {"placeholder":"cpuinfo"} CPU!?
+Nice minecraft skin {"placeholder":"playername"}
+Running {"placeholder":"osname"} I see?
+Your cup of Java looks like {"placeholder":"javaver"}
+{"placeholder":"jvmname"} JVM it is, um
+Network_Squirrel likes pancakes
+Network_Squirrel likes bacon
+Check out https://SquirrelCraft.live
+Follow on Twitter/X @SquirrelCraftMP
+Follow on Instagram @ squirrelcraftmp
+Facebook? https://www.facebook.com/SquirrelCraftMP
+You picked a great mod pack!
+This is a splash tex...... SQUIRREL! 
+Thanks to our beta testers, my SquirrelFAM
