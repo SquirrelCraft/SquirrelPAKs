@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "compressium:diamond_1"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_diamond",
+      "amount": 11664
+    }
+  ],
+  "energy": 1350000
+}

@@ -1,0 +1,17 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "steam_powered:zinc_ore"
+  },
+  "result": [
+    {
+      "item": "lemon_core:zinc_dust",
+      "chance": 2.5
+    },
+    {
+      "item": "minecraft:gravel",
+      "chance": 0.2
+    }
+  ],
+  "experience": 0.2
+}

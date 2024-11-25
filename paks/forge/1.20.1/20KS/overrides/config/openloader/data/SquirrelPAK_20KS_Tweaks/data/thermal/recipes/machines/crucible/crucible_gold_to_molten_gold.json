@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:ingots/gold"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_gold",
+      "amount": 144
+    }
+  ],
+  "energy": 7000
+}

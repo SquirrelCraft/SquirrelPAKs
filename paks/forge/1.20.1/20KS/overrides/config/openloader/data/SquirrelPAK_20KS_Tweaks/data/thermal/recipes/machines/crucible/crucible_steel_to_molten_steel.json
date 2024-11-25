@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:ingots/steel"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_steel",
+      "amount": 144
+    }
+  ],
+  "energy": 15000
+}

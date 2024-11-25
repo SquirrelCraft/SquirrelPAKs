@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "dustrial_decor:rusty_iron_block"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_iron",
+      "amount": 1260
+    }
+  ],
+  "energy": 40500
+}

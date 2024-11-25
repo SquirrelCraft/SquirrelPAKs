@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "dustrial_decor:rusty_iron_ingot"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_iron",
+      "amount": 140
+    }
+  ],
+  "energy": 9000
+}

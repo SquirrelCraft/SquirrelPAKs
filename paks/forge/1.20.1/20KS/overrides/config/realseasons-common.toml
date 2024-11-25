@@ -1,0 +1,3 @@
+##Duration of a season (in seconds) #default 86400 (1 day)
+season_duration = 86400
+

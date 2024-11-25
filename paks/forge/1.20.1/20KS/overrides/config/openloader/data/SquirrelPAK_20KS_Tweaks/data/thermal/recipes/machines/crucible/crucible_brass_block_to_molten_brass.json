@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:storage_blocks/brass"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_brass",
+      "amount": 1296
+    }
+  ],
+  "energy": 36000
+}

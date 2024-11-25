@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:ingots/zinc"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_zinc",
+      "amount": 144
+    }
+  ],
+  "energy": 5000
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:storage_blocks/netherite"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_netherite",
+      "amount": 1296
+    }
+  ],
+  "energy": 199998
+}

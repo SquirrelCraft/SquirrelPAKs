@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:ingots/brass"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_brass",
+      "amount": 144
+    }
+  ],
+  "energy": 8000
+}

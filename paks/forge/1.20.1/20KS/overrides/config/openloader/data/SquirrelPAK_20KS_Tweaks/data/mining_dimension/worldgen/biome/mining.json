@@ -1,0 +1,86 @@
+{
+  "temperature": 0.6,
+  "downfall": 0,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 0,
+    "fog_color": 0,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    }
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 6
+      },
+      {
+        "type": "ore_creeper:diamond_creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 6
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 6
+      }
+    ],
+    "creature": [],
+    "ambient": [
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave"
+    ]
+  },
+  "features": [[
+            "mining_dimension:plc_scsp_ds_diamond_ore",
+            "mining_dimension:plc_scsp_ds_uranium_ore",
+            "mining_dimension:plc_scsp_slod_yellorite_ore",
+            "mining_dimension:plc_scsp_lod_certus_quartz_ore",
+            "mining_dimension:plc_scsp_lod_iron_ore",
+            "mining_dimension:plc_scsp_lod_gold_ore",
+            "mining_dimension:plc_scsp_lod_diamond_ore",
+            "mining_dimension:plc_scsp_lod_redstone_ore",
+            "mining_dimension:plc_scsp_br_diamond_ore",
+            "mining_dimension:plc_scsp_br_uranium_ore",
+            "mining_dimension:plc_scsp_br_redstone_ore",
+            "mining_dimension:plc_scsp_br_lapis_ore",
+            "mining_dimension:plc_scsp_br_emerald_ore",
+            "mining_dimension:plc_scsp_br_thorium_ore",
+            "mining_dimension:plc_scsp_evry_coal_ore",
+            "mining_dimension:plc_scsp_evry_copper_ore",
+            "mining_dimension:plc_scsp_evry_zinc_ore",
+            "mining_dimension:plc_scsp_evry_gold_ore",
+            "mining_dimension:plc_scsp_evry_iron_ore",
+            "mining_dimension:plc_scsp_evry_silver_ore",
+            "mining_dimension:plc_scsp_evry_lead_ore",
+            "mining_dimension:plc_scsp_evry_nickel_ore",
+            "mining_dimension:plc_scsp_evry_apatite_ore",
+            "mining_dimension:plc_scsp_evry_cinnabar_ore",
+            "mining_dimension:plc_scsp_evry_niter_ore",
+            "mining_dimension:plc_scsp_evry_ruby_ore",
+            "mining_dimension:plc_scsp_evry_sapphire_ore",
+            "mining_dimension:plc_scsp_evry_sulfur_ore",
+            "mining_dimension:plc_scsp_evry_tin_ore",
+            "mining_dimension:plc_scsp_evry_fluorite_ore",
+            "mining_dimension:plc_scsp_evry_osmium_ore",
+            "mining_dimension:plc_scsp_evry_anglesite_ore",
+            "mining_dimension:plc_scsp_evry_benitoite_ore",
+            "mining_dimension:plc_scsp_evry_lithium_ore",
+            "mining_dimension:plc_scsp_ds_yellorite_ore"]
+  ]
+}

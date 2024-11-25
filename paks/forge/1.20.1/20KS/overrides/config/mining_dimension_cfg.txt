@@ -1,0 +1,86 @@
+This file only displays the config that is done in the datapack
+config/openloader/data/SquirrelPAK_20KS_Tweaks/mining_dimension
+
+
+
+- - - - - - Deep Slate Blocks - 16 Blocks 1/2 chance (-32 to -64) - - - - - - -
+<block:minecraft:deepslate_diamond_ore>
+<block:mekanism:deepslate_uranium_ore>
+
+
+- - - - - - Super Large Dep 64 Blocks 1/5 chance (200 to 320) - - - - - - -
+<block:bigreactors:yellorite_ore>
+
+
+
+- - - - - - Large Dep 32 Blocks 1/5 chance (100 to 200) - - - - - - -
+<block:better_certus_quartz:certus_quartz_ore>
+minecraft:diamond_ore
+minecraft:gold_ore
+minecraft:iron_ore
+minecraft:redstone_ore
+
+
+
+- - - - - - Deep Slate 7 Blocks 1/3 chance (-2 to -63) - - - - - - -
+-2 to -44
+<block:bigreactors:deepslate_yellorite_ore>
+
+
+
+
+- - - - - - Old Bed Rock 12 Blocks 1/2 Chance  (0 to 11) - - - - - - -
+minecraft:diamond_ore
+minecraft:emerald_ore
+minecraft:lapis_ore
+minecraft:redstone_ore
+create_new_age:thorium_ore
+mekanism:uranium_ore
+
+
+
+
+- - - - - - Other Ores 16 Blocks 1/1 Chance  - - - - - - -
+0-30
+<block:create_new_age:thorium_ore>
+<block:minecraft:diamond_ore>
+<block:minecraft:emerald_ore>
+<block:minecraft:lapis_ore>
+<block:minecraft:redstone_ore>
+<block:mekanism:uranium_ore>
+
+0-160
+<block:minecraft:coal_ore>
+<block:minecraft:copper_ore>
+
+160-200
+<block:thermal:apatite_ore>
+<block:thermal:cinnabar_ore>
+
+180-200
+<block:thermal:nickel_ore>
+<block:thermal:niter_ore>
+
+200-220
+<block:thermal:ruby_ore>
+<block:thermal:sapphire_ore>
+
+220-240
+<block:thermal:sulfur_ore>
+<block:thermal:tin_ore>
+
+240-260
+<block:mekanism:fluorite_ore>
+<block:mekanism:osmium_ore>
+
+260-280
+<block:minecraft:gold_ore>
+<block:minecraft:iron_ore>
+
+280-300
+<block:bigreactors:anglesite_ore>
+<block:bigreactors:benitoite_ore>
+
+300-320
+<block:tfmg:lithium_ore>
+<block:create:zinc_ore>

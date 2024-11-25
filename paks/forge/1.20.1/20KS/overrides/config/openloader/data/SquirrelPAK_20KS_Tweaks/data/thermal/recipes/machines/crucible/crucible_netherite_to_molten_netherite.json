@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:ingots/netherite"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_netherite",
+      "amount": 144
+    }
+  ],
+  "energy": 44444
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "dustrial_decor:cast_iron_billet"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_iron",
+      "amount": 35
+    }
+  ],
+  "energy": 3000
+}
