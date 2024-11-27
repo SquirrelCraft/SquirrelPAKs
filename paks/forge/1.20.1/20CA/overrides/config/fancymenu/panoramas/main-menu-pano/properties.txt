@@ -1,0 +1,8 @@
+type = panorama
+
+panorama-meta {
+  name = main-menu-pano
+  speed = 3.0
+  fov = 88
+  angle = -30
+}

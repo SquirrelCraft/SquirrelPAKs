@@ -1,0 +1,7 @@
+# This file is auto created by ready_for_export.sh
+#
+# Do not edit directly, bad things could happen
+#
+#
+PAK_Current_Version=20ME-v3.0.0-1.20.1-ModsList.txt
+PAK_CUR_VER=3.0.0

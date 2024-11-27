@@ -1,0 +1,10 @@
+{
+    "name": "Squirr....",
+    "landing_text": "  ...  .   .  ...  ..  . ",
+    "version": 1,
+  "show_progress": false,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "model": "patchouli:book_green",
+  "subtitle": "A very old book",
+  "use_resource_pack": false
+}

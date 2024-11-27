@@ -1,0 +1,7 @@
+# This file is auto created by ready_for_export.sh
+#
+# Do not edit directly, bad things could happen
+#
+#
+PAK_Previous_Version=20HT-v1.0.1-1.20.1-ModsList.txt
+PAK_PREV_VER=1.0.1

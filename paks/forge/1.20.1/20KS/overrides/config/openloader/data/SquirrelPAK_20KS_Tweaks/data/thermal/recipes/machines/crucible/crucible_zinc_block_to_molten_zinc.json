@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:storage_blocks/zinc"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_zinc",
+      "amount": 1296
+    }
+  ],
+  "energy": 22500
+}

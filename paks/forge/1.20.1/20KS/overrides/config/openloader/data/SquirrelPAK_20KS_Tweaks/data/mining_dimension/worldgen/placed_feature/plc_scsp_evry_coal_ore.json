@@ -1,0 +1,27 @@
+{
+  "feature": "mining_dimension:cfg_scsp_evry_coal_ore",
+  "placement": [
+        {
+            "chance": 1,
+            "type": "minecraft:rarity_filter"
+        },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "absolute": 160
+        },
+        "min_inclusive": {
+          "absolute": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

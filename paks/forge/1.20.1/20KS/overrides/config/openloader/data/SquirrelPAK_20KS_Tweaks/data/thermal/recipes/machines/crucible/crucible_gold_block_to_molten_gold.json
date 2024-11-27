@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:storage_blocks/gold"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_gold",
+      "amount": 1296
+    }
+  ],
+  "energy": 31500
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:storage_blocks/steel"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_steel",
+      "amount": 1296
+    }
+  ],
+  "energy": 67500
+}

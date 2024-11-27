@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_diamond",
+      "amount": 144
+    }
+  ],
+  "energy": 33333
+}

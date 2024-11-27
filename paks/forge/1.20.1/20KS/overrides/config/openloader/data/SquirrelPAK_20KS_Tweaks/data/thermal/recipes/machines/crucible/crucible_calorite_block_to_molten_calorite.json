@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:storage_blocks/calorite"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_calorite",
+      "amount": 1296
+    }
+  ],
+  "energy": 31500
+}

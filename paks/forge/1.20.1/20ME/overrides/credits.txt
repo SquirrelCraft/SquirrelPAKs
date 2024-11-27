@@ -1,0 +1,51 @@
+================================================================================
+SquirrelPAK 20ME - Medieval Everquesting
+Credits
+================================================================================
+
+Music Used in this PAK:
+
+Main Menu
+  Townsong by Alexander Nakarada (www.creatorchords.com)
+  Licensed to use by Alexander Nakarada via Patreon
+
+
+Logo Credits:
+
+ The SquirrelCraft logo created with textcraft
+  https://textcraft.net
+
+ Network Squirrel skin inspired by the work by bigoodie
+  https://www.minecraftskins.com/profile/4053405/bigoodie
+  https://www.minecraftskins.com/skin/13790582/squirrel-with-glasses--edit-/
+
+
+Special thanks to the following mod authors for allowing us to use their mod
+in this SquirrelPAK!
+
+=-=-=-= When Dungeons Arise - Forge! =-=-=-=
+ Thanks to Aureljz (https://www.curseforge.com/members/aureljz/projects)
+
+ Project on CurseForge 
+  https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise
+- - - - - - - -
+
+=-=-=-= Towns and Towers =-=-=-=
+ Thanks to Biban_Auriu (https://www.curseforge.com/members/biban_auriu/projects)
+
+ Project on CurseForge 
+  https://www.curseforge.com/minecraft/mc-mods/towns-and-towers
+- - - - - - - -
+
+=-=-=-= Pams HarvestCraft =-=-=-=
+ Thank you to Pamela Collins (MatrexsVigil, PamHarvestCraft) 
+ and Rhodox of the Painterly Pack
+ https://www.curseforge.com/members/pamharvestcraft/projects
+
+ Projects on CurseForge
+  https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core
+  https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended
+  https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees
+  https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops
+- - - - - - - -
+

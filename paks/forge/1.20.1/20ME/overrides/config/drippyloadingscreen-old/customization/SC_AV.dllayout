@@ -1,0 +1,156 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  autoscale_baseheight = 1050
+  renderorder = foreground
+  autoscale_basewidth = 1680
+  randommode = false
+  scale = 3
+  randomonlyfirsttime = false
+  backgroundcolor = #011400
+}
+
+customization {
+  visible = false
+  x = -6
+  action = editlogo
+  y = -107
+}
+
+customization {
+  visible = false
+  action = editprogressbar
+}
+
+customization {
+  orientation = top-centered
+  shape = rectangle
+  color = #055c00
+  x = 0
+  width = 307
+  action = addshape
+  actionid = 8ac9e994-05ed-4778-b5f8-be921e8f07621650119892984
+  y = 15
+  height = 50
+}
+
+customization {
+  orientation = top-centered
+  x = 0
+  width = 307
+  actionid = 7ff071bd-0220-4327-bad6-600046a298e81639856720858
+  y = 64
+  action = addcustomprogressbar
+  height = 5
+  direction = right
+  barcolor = #0dff00
+  backgroundcolor = #000000
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 0
+  textcolor = #0dff00
+  action = addtext
+  actionid = 60165916-eb65-4130-baa5-3c03ec527fe01639857338467
+  y = 23
+  scale = 4.0
+  alignment = left
+  value = SquirrelCraft
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  x = 0
+  textcolor = #ff0000
+  action = addtext
+  actionid = d716887a-9007-4111-a363-bbd5a2e5c82e1639856807296
+  y = 0
+  scale = 1.5
+  alignment = left
+  value = Mojang Studios
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = -9
+  textcolor = #FFAA00
+  action = addtext
+  actionid = 0da8f963-06ae-4ef6-8220-db618ee7e4261639857352410
+  y = 0
+  scale = 3.5
+  alignment = left
+  value = SquirrelPAK
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  x = 106
+  textcolor = #ffffff
+  action = addtext
+  actionid = 6c720ad5-937c-4389-a7c7-f40a6d13f7541639858700387
+  y = -10
+  scale = 2.0
+  alignment = left
+  value = 20AV
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -4
+  textcolor = #ffffff
+  action = addtext
+  actionid = fc3b1954-9cd5-4b00-bc1c-f8b59450d7851639859580632
+  y = 26
+  scale = 2.0
+  alignment = left
+  value = Almost Vanilla
+}
+
+customization {
+  orientation = top-centered
+  shadow = true
+  x = 11
+  textcolor = #b5c900
+  action = addtext
+  actionid = 0b0d3619-9d71-40ba-bfe0-359bd83c1fe71639857491553
+  y = -153
+  scale = 2.0
+  alignment = left
+  value = Presents
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = 3dc54c01-9947-4a8a-a2be-2756e3c48fcb1653257255913
+  y = 0
+  scale = 1.0
+  alignment = left
+  value = Loading %loadingprogress%%
+}
+
+customization {
+  orientation = top-left
+  loop = false
+  channel = master
+  x = 53
+  width = 50
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = a52a7a61-ed1d-458d-ab29-bd1ec29051041654348661574
+  y = 81
+  audio_source:9f39cf96-8cd3-4db8-8296-1b8e54fde35b1654348818699 = config/drippyloadingscreen/music/Were the Resistors Squirrel Edit.ogg;EXTERNAL_LOCAL;21;0
+  once_per_session = false
+  height = 50
+}
+

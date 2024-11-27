@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "tag": "forge:ingots/desh"
+  },
+  "result": [
+    {
+      "fluid": "create_wt:molten_desh",
+      "amount": 144
+    }
+  ],
+  "energy": 7000
+}
