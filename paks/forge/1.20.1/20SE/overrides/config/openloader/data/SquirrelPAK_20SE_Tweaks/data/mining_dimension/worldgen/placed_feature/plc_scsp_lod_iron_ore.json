@@ -1,0 +1,27 @@
+{
+  "feature": "mining_dimension:cfg_scsp_lod_iron_ore",
+  "placement": [
+        {
+            "chance": 5,
+            "type": "minecraft:rarity_filter"
+        },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "absolute": 240
+        },
+        "min_inclusive": {
+          "absolute": 160
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

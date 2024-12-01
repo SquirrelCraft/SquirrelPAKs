@@ -1,0 +1,46 @@
+SquirrelPAK 20SE - Special Edition v1.0.0-1.20.1
+=====================================================
+SquirrelPAK 20SE Release 1.0.0
+File Version 1.0.0-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+First Release 
+
+Summary:
+It's here! Fist release of 20SE. If you find any issues
+with the PAK raise and issue on our GitHub Page
+ 
+ 
+ 
+ 
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/20SE-v1.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/20SE)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+

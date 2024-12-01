@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Fluorite Ore",
+    "blockName": "mekanism:fluorite_ore",
+    "order": 16,
+    "color": 6114519,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Zinc Ore",
+    "blockName": "create:deepslate_zinc_ore",
+    "order": 29,
+    "color": 16034559,
+    "drawing": false
+  },
+  {
+    "name": "Tin Ore",
+    "blockName": "thermal:tin_ore",
+    "order": 26,
+    "color": 5875199,
+    "drawing": false
+  },
+  {
+    "name": "Lapis Lazuli Ore",
+    "blockName": "minecraft:lapis_ore",
+    "order": 19,
+    "color": 255,
+    "drawing": false
+  },
+  {
+    "name": "Sulfur Ore",
+    "blockName": "thermal:sulfur_ore",
+    "order": 25,
+    "color": 15786823,
+    "drawing": false
+  },
+  {
+    "name": "Diamond Ore",
+    "blockName": "minecraft:diamond_ore",
+    "order": 4,
+    "color": 42495,
+    "drawing": false
+  },
+  {
+    "name": "Sapphire Ore",
+    "blockName": "thermal:sapphire_ore",
+    "order": 24,
+    "color": 42495,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Redstone Ore",
+    "blockName": "minecraft:deepslate_redstone_ore",
+    "order": 27,
+    "color": 13762560,
+    "drawing": false
+  },
+  {
+    "name": "Nickel Ore",
+    "blockName": "thermal:nickel_ore",
+    "order": 17,
+    "color": 11382655,
+    "drawing": false
+  },
+  {
+    "name": "Niter Ore",
+    "blockName": "thermal:niter_ore",
+    "order": 22,
+    "color": 16770789,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Diamond Ore",
+    "blockName": "minecraft:deepslate_diamond_ore",
+    "order": 3,
+    "color": 42495,
+    "drawing": false
+  },
+  {
+    "name": "Osmium Ore",
+    "blockName": "mekanism:osmium_ore",
+    "order": 18,
+    "color": 12953087,
+    "drawing": false
+  },
+  {
+    "name": "Lead Ore",
+    "blockName": "thermal:lead_ore",
+    "order": 8,
+    "color": 12625407,
+    "drawing": false
+  },
+  {
+    "name": "Uranium Ore",
+    "blockName": "mekanism:uranium_ore",
+    "order": 12,
+    "color": 12182528,
+    "drawing": false
+  },
+  {
+    "name": "Copper Ore",
+    "blockName": "minecraft:copper_ore",
+    "order": 11,
+    "color": 16744448,
+    "drawing": true
+  },
+  {
+    "name": "Deepslate Emerald Ore",
+    "blockName": "minecraft:deepslate_emerald_ore",
+    "order": 27,
+    "color": 49152,
+    "drawing": false
+  },
+  {
+    "name": "Cinnabar Ore",
+    "blockName": "thermal:cinnabar_ore",
+    "order": 15,
+    "color": 16716288,
+    "drawing": false
+  },
+  {
+    "name": "Zinc Ore",
+    "blockName": "create:zinc_ore",
+    "order": 28,
+    "color": 14090211,
+    "drawing": false
+  },
+  {
+    "name": "Yellorite Ore",
+    "blockName": "bigreactors:yellorite_ore",
+    "order": 1,
+    "color": 16776963,
+    "drawing": false
+  },
+  {
+    "name": "Coal Ore",
+    "blockName": "minecraft:coal_ore",
+    "order": 13,
+    "color": 16777215,
+    "drawing": true
+  },
+  {
+    "name": "Gold Ore",
+    "blockName": "minecraft:gold_ore",
+    "order": 5,
+    "color": 16743936,
+    "drawing": false
+  },
+  {
+    "name": "Apatite Ore",
+    "blockName": "thermal:apatite_ore",
+    "order": 21,
+    "color": 55807,
+    "drawing": false
+  },
+  {
+    "name": "Iron Ore",
+    "blockName": "minecraft:iron_ore",
+    "order": 6,
+    "color": 11035136,
+    "drawing": false
+  },
+  {
+    "name": "Ruby Ore",
+    "blockName": "thermal:ruby_ore",
+    "order": 23,
+    "color": 12124160,
+    "drawing": false
+  },
+  {
+    "name": "Benitoite Ore",
+    "blockName": "bigreactors:benitoite_ore",
+    "order": 20,
+    "color": 56320,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Yellorite Ore",
+    "blockName": "bigreactors:deepslate_yellorite_ore",
+    "order": 2,
+    "color": 16776960,
+    "drawing": false
+  },
+  {
+    "name": "Deepslate Uranium Ore",
+    "blockName": "mekanism:deepslate_uranium_ore",
+    "order": 12,
+    "color": 13172480,
+    "drawing": false
+  },
+  {
+    "name": "Redstone Ore",
+    "blockName": "minecraft:redstone_ore",
+    "order": 10,
+    "color": 16711680,
+    "drawing": false
+  },
+  {
+    "name": "Silver Ore",
+    "blockName": "thermal:silver_ore",
+    "order": 7,
+    "color": 7373443,
+    "drawing": false
+  }
+]
