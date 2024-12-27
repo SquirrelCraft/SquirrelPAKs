@@ -3,13 +3,24 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1728741059087
+  last_edited_time = 1733023943114
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:252a562d-f459-4103-8785-e76c2f2d4758-1728740992124] = [groups:][instances:]
+  [loading_requirement_container_meta:3e3e29d8-84f6-47f8-94f7-66849c7fd70f-1733023757118] = [groups:][instances:]
+}
+
+customization {
+  action = setscale
+  scale = 2.0
+}
+
+customization {
+  action = autoscale
+  basewidth = 1920
+  baseheight = 1080
 }
 
 customization {
@@ -33,8 +44,15 @@ element {
   instance_identifier = 76de6f64-61cd-4bae-8787-4046ea5b8b20-1728738761578
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 3456
+  auto_sizing_base_screen_height = 1990
+  sticky_anchor = false
   anchor_point = top-centered
   x = -72
   y = -7
@@ -49,7 +67,7 @@ element {
 
 element {
   interactable = false
-  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-song-title.txt
+  source = [source:local]/config/fancymenu/assets/menu-text/menu_r2-pak-song-title.txt
   source_mode = resource
   shadow = true
   scale = 1.0
@@ -75,12 +93,19 @@ element {
   instance_identifier = 8971bf68-4e6f-4b4f-9cf0-9e447fc38783-1713807214378
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 3456
+  auto_sizing_base_screen_height = 1990
+  sticky_anchor = false
   anchor_point = top-left
   x = -2
   y = 4
-  width = 344
+  width = 352
   height = 17
   stretch_x = false
   stretch_y = false
@@ -91,7 +116,7 @@ element {
 
 element {
   interactable = false
-  source = [source:local]/config/fancymenu/assets/menu-text/menu-pak-short-name-ane-version.txt
+  source = [source:local]/config/fancymenu/assets/menu-text/menu_r2-pak-full-name-ver.txt
   source_mode = resource
   shadow = true
   scale = 1.0
@@ -117,12 +142,19 @@ element {
   instance_identifier = 034dce60-b1cf-4e87-bca2-59e59a715346-1713807268654
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 3456
+  auto_sizing_base_screen_height = 1990
+  sticky_anchor = false
   anchor_point = top-right
-  x = -173
+  x = -248
   y = 4
-  width = 173
+  width = 248
   height = 18
   stretch_x = false
   stretch_y = false
@@ -132,50 +164,8 @@ element {
 }
 
 element {
-  interactable = false
-  source = RAM Used: {"placeholder":"usedram"}MB
-  source_mode = direct
-  shadow = true
-  scale = 1.0
-  base_color = #FFFF00FF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = false
-  auto_line_wrapping = false
-  remove_html_breaks = false
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = false
-  element_type = text_v2
-  instance_identifier = be0ee258-9d7a-4fb9-a68f-7346672a400c-1716751518723
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in = false
-  fade_in_speed = 1.0
-  anchor_point = bottom-right
-  x = -90
-  y = -25
-  width = 102
-  height = 15
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = a1381d60-993b-4d4a-bde8-ee366e2776f6-1712708847403
-  [loading_requirement_container_meta:a1381d60-993b-4d4a-bde8-ee366e2776f6-1712708847403] = [groups:][instances:]
-}
-
-element {
   interactable = true
-  source = [source:local]/config/fancymenu/assets/menu-text/menu-beta.txt
+  source = [source:local]/config/fancymenu/assets/menu-text/menu_r2-beta-tagline.txt
   source_mode = resource
   shadow = true
   scale = 1.0
@@ -201,11 +191,18 @@ element {
   instance_identifier = 37fc34f0-5889-414b-bc55-0b38a7c07439-1727999629060
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 3456
+  auto_sizing_base_screen_height = 1990
+  sticky_anchor = false
   anchor_point = bottom-right
-  x = -240
-  y = -37
+  x = -239
+  y = -25
   width = 255
   height = 16
   stretch_x = false

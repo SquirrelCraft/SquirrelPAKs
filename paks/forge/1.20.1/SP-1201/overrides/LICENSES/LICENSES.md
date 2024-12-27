@@ -2,9 +2,9 @@
 
 ## SquirrelCraft SquirrelPAK Source Files
 
-All code/files that are created by SquirrelCraft/Network_Squirrel are licensed under the [GPL-3.0-only license](LICENSE_SquirrelPAK-1201) 
+All code/files that are created by SquirrelCraft/Network_Squirrel are licensed under the [GPL-3.0-only license](https://opensource.org/license/gpl-3-0) 
 
-#### Links
+### Links
 - Website: https://modrinth.com/organization/squirrelcraft
 - Source: https://github.com/SquirrelCraft/SquirrelPAKs/tree/prod/paks/forge/1.20.1/SP-1201
 - License: https://opensource.org/license/gpl-3-0
@@ -16,7 +16,7 @@ The below mods are not hosted on Modrinth and the jar files are being included w
 - - -
 
 ### Engineer's Decor Ported
-Visit Engineer's Decor Ported website for details, see the Github page for source code. [Copy of the MIT License](LICENSE_engineers-decor) included in this folder. 
+Visit Engineer's Decor Ported website for details, see the Github page for source code. Copy of the [MIT License](https://opensource.org/license/mit) included in this folder. 
 
 #### Links
 - Website: https://www.curseforge.com/minecraft/mc-mods/engineers-decor-ported
@@ -26,7 +26,7 @@ Visit Engineer's Decor Ported website for details, see the Github page for sourc
 - - -
 
 ### Gauges and Switches Ported
-Visit the projects website for details, see the Github page for source code. [Copy of the MIT License](LICENSE_rsgauges) included in this folder. 
+Visit the projects website for details, see the Github page for source code. Copy of the [MIT License](https://opensource.org/license/mit) included in this folder. 
 
 #### Links
 - Website: https://www.curseforge.com/minecraft/mc-mods/gauges-and-switches-ported

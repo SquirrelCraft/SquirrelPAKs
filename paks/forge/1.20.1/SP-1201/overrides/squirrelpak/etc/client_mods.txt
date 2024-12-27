@@ -1,0 +1,30 @@
+# Start client mods for SquirrelPAK 1201
+# Better Advancements (by way2muchnoise)
+BetterAdvancements*
+# Better Modlist [(Neo)Forge] (by 1foxy2)
+Better_Modlist*
+# Colorful Hearts (by Terrails)
+colorfulhearts*
+# Controlling (by Jaredlll08)
+Controlling*
+# Distinguished Potions
+DistinguishedPotions*
+# Drippy Loading Screen [Forge] (by Keksuccino)
+drippyloadingscreen*
+# Durability Tooltip (by SuperMartijn642)
+durabilitytooltip*
+# Enchantment Descriptions By DarkhaxDev
+EnchantmentDescriptions*
+# Experimental Settings Disabler (By Eruannie_9 )
+experimentalsettingsdisabler*
+# FancyMenu [Forge] (by Keksuccino)
+fancymenu*
+# JourneyMap Integration (by frankv_)
+jmi-forge*
+# More Overlays
+moreoverlays*
+# Mouse Tweaks (by YaLTeR)
+MouseTweaks*
+# TipTheScales (by Jaredlll08)
+TipTheScales*
+# Blank Line

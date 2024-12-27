@@ -1,0 +1,31 @@
+# SquirrelCraft SquirrelPAK Version File - v2.0
+#
+
+PAK_NAME_INIT_PFX=12
+PAK_NAME_INIT=01
+
+PAK_RELEASE=0.0.0.0
+PAK_MC_VER=1.20.1
+
+PAK_DESC="Tech Squirrels"
+
+PAK_FORGE_VER=47.3.7
+
+PAK_Menu3_Music_Title="Party Pirates by Alexander Nakarada (Squirrel Remix)"
+
+
+PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
+
+PAK_NAME="$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
+PAK_VER="$PAK_RELEASE-$PAK_MC_VER"
+
+# Legacy Var
+PAK_Menu_Beta_Text=""
+
+# - - - - Fancy Menu Vars - - - - -
+PAK_Menu3_Name="$PAK_DESC"
+PAK_Menu3_Version="v$PAK_VER"
+PAK_Menu3_INIT_PFX=$PAK_NAME_INIT_PFX
+PAK_Menu3_INIT=$PAK_NAME_INIT
+PAK_Menu3_INIT_FULL="$PAK_Menu3_INIT_PFX$PAK_Menu3_INIT"
+PAK_Menu3_ShortName_And_Version="&6SquirrelPAK &a$PAK_Menu3_INIT_PFX&f$PAK_Menu3_INIT - v$PAK_RELEASE&f-&2$PAK_MC_VER"

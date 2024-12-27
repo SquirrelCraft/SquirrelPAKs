@@ -1,0 +1,9 @@
+# Start of Pak Tools mods for SquirrelPAK 1201
+# Panoramica [Forge]
+panoramica*
+# Advanced Xray 
+advanced-xray*
+# World Edit
+worldedit-mod*
+# - - - - -
+# Blank Line

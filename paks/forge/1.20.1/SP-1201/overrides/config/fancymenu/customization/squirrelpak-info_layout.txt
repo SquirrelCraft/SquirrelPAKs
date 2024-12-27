@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = squirrelpak-info
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1713024018858
+  last_edited_time = 1733021325605
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:401010a1-3f3d-4037-adc6-b027fca1a382-1713024005818] = [groups:][instances:]
+  [loading_requirement_container_meta:6599e568-db37-42bf-b866-85f4bcc9b066-1733023536683] = [groups:][instances:]
 }
 
 customization {
@@ -48,12 +48,21 @@ element {
   nine_slice_border_y = 5
   label = Close Window
   navigatable = true
+  widget_active_state_requirement_container_identifier = 10b5abb9-6ff8-40eb-82a3-86ea016aa051-1733016306463
+  [loading_requirement_container_meta:10b5abb9-6ff8-40eb-82a3-86ea016aa051-1733016306463] = [groups:][instances:]
   element_type = custom_button
   instance_identifier = e938d470-5d1e-4854-ab05-7933670d8c55-1710791904446
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = bottom-centered
   x = -89
   y = -29
@@ -76,8 +85,15 @@ element {
   instance_identifier = 5cbf744a-5e84-4826-8374-6fba58fa826e-1713024016527
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = bottom-left
   x = 5
   y = -53
