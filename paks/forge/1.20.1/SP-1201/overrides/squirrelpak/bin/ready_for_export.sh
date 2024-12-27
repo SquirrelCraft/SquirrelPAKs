@@ -113,6 +113,7 @@ PAK_FM3_ASSET_DIR=./config/fancymenu/assets
 PAK_CreditsFile=./credits.md
 PAK_LicenseFile=./LICENSES/LICENSES.md
 PAK_Tools_Save_Dir=./zz-do-not-export/squirrelpak-tools
+PAK_Tools_Config_Save_Dir=./zz-do-not-export/squirrelpak-tools-config
 
 echo " Local vars Set!"
 echo " Script_Dir=$Script_Dir"
@@ -130,6 +131,7 @@ echo " PAK_LicenseFile=$PAK_LicenseFile"
 echo " PAK_Export_Timestamp_File=$PAK_Export_Timestamp_File"
 echo " PAK_Removed_Files_Base_Dir=$PAK_Removed_Files_Base_Dir"
 echo " PAK_Tools_Save_Dir=$PAK_Tools_Save_Dir"
+echo " PAK_Tools_Config_Save_Dir=$PAK_Tools_Config_Save_Dir"
 echo " "
 echo " ----------------------------------------------------------------------------"
 
@@ -396,6 +398,9 @@ echo " "
 echo " Moving saved..."
 mv -v saves $PAK_Removed_Files_Export_Dir/
 
+echo " "
+echo " Copy saved games..."
+cp -vr $PAK_Removed_Files_Export_Dir/saves/ ./zz-do-not-export/saved-games/
 
 # Remove DS_Store files
 echo " Removing DS_Store files..."
@@ -485,11 +490,25 @@ while IFS= read -r file; do
 
 done < "$input"
 
+echo " Moving Pak Tools Config to $PAK_Tools_Config_Save_Dir"
+echo " "
+# Move PAK Tools Config
+
+mv -v ./config/worldedit $PAK_Tools_Config_Save_Dir
+mv -v ./config/xray $PAK_Tools_Config_Save_Dir
+mv -v ./config/panoramica $PAK_Tools_Config_Save_Dir
+mv -v ./config/xray-client.toml $PAK_Tools_Config_Save_Dir
 
 # End mod tools removal
+echo " "
 echo " Pak Tools Removed"
 echo " "
 echo " ---------------------------------------- "
+
+
+
+
+
 
 
 echo " "

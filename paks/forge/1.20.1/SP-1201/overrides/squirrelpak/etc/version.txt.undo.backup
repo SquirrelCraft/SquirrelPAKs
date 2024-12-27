@@ -1,7 +1,7 @@
 # SquirrelCraft SquirrelPAK Version File - v3.0
 #
 
-PAK_RELEASE=0.0.0.1
+PAK_RELEASE=0.0.1
 PAK_MC_VER=1.20.1
 
 
@@ -26,9 +26,9 @@ PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
 
 # Beta/Alpha Settings
 PAK_IS_BETA=true
-PAK_Beta_Text="&cPre-Alpha"
-PAK_Beta_Header="&cPre-Alpha &eVersion &f#1"
-PAK_Beta_Tagline="&fIt's &cPre-Alpha &fIt be &cbroken &feh?"
+PAK_Beta_Text="&cAlpha"
+PAK_Beta_Header="&cAlpha &eVersion &f#1"
+PAK_Beta_Tagline="&fIt's &cAlpha &fIt be &cbroken &feh?"
 
 
 # Do not change anything below this line!

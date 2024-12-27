@@ -40,6 +40,8 @@ PAK_ChangeLog=./changelog.txt
 PAK_Removed_Files_Base_Dir=./zz-do-not-export
 PAK_Export_Timestamp_File=$PAK_Removed_Files_Base_Dir/exported.timestamp
 PAK_Tools_Save_Dir=$Script_Dir/squirrelpak/pak-tools
+PAK_Tools_Config_Save_Dir=./zz-do-not-export/squirrelpak-tools-config
+
 
 # We should be in the root dir where the changelog is
 # located, if not exit
@@ -85,6 +87,7 @@ if [ "$PAK_Debug " == "true " ]; then
     echo "PAK_Export_Timestamp_File=$PAK_Export_Timestamp_File"
 	echo "PAK_Removed_Files_Base_Dir=$PAK_Removed_Files_Base_Dir"
 	echo "PAK_Tools_Save_Dir=$PAK_Tools_Save_Dir"
+	echo " PAK_Tools_Config_Save_Dir=$PAK_Tools_Config_Save_Dir"
     echo " "
 fi
 
@@ -146,11 +149,41 @@ nano ./config/bcc-common.toml
 echo "     done"
 echo " "
 
+# Resource version.txt
+echo 
+echo "   - Reload version file"
+source $PAK_etc_dir/version.txt
+echo "     done"
+echo " "
+
 
 # Move Pak Tools back
 echo " "
 echo "   - Move Pak Tools back to mods dir"
 mv -v ./zz-do-not-export/squirrelpak-tools/* ./mods
+echo " "
+echo " Script Complete"
+echo " "
+echo " ----------------------------------------------------------------------------"
+
+# Move Pak Tools Config back
+echo " "
+echo "   - Move Pak Tools Config back to config dir"
+mv -v $PAK_Tools_Config_Save_Dir/* ./config
+echo " "
+echo " Script Complete"
+echo " "
+echo " ----------------------------------------------------------------------------"
+
+
+
+
+
+# Move Saved games back!
+echo " "
+echo "   - Move Saved games back!"
+mkdir saves
+mv -v ./zz-do-not-export/saved-games/* ./saves/
 echo " "
 echo " Script Complete"
 echo " "

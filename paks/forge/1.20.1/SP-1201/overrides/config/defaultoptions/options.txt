@@ -1,4 +1,7 @@
 version:3465
+prometheusShowNotifications:false
+prometheusNotificationSound:0
+prometheusShowStuckButton:false
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -34,9 +37,9 @@ gamma:1.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:2
+guiScale:0
 particles:0
-maxFps:120
+maxFps:60
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
@@ -54,7 +57,7 @@ textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
-pauseOnLostFocus:true
+pauseOnLostFocus:false
 overrideWidth:0
 overrideHeight:0
 chatHeightFocused:1.0
