@@ -1,19 +1,19 @@
-SquirrelPAK 1201 - Tech Squirrels v0.0.3-1.20.1
+SquirrelPAK 1201 - Tech Squirrels v0.1.0-1.20.1
 =====================================================
-SquirrelPAK 1201 Release 0.0.3
-File Version 0.0.3-1.20.1
+SquirrelPAK 1201 Release 0.1.0
+File Version 0.1.0-1.20.1
 
 Required Forge Version: 47.3.7
 =====================================================
 
  
-Alpha 3 
+Beta 1
 
 Summary:
-Updated Mods and scripts
+First Beta Release
  
 -------------------------------------------
- Mod Changes from v0.0.2-1.20.1
+ Mod Changes from v0.0.3-1.20.1
 -------------------------------------------
  
  
@@ -24,30 +24,17 @@ Updated Mods and scripts
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 1201 - Tech Squirrels v0.0.3-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.0.2-1.20.1
-BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar                | BetterAdvancements-NeoForge-1.20.1-0.4.2.10.jar
-CreativeCore_FORGE_v2.12.27_mc1.20.1.jar                       | CreativeCore_FORGE_v2.12.26_mc1.20.1.jar
-Mekanism-1.20.1-10.4.12.68.jar                                 | Mekanism-1.20.1-10.4.11.67.jar
-MekanismAdditions-1.20.1-10.4.12.68.jar                        | MekanismAdditions-1.20.1-10.4.11.67.jar
-MekanismGenerators-1.20.1-10.4.12.68.jar                       | MekanismGenerators-1.20.1-10.4.11.67.jar
-MekanismTools-1.20.1-10.4.12.68.jar                            | MekanismTools-1.20.1-10.4.11.67.jar
-PineappleDelight-Forge-1.20-1.0.8-Fix2.jar                     | PineappleDelight-Forge-1.20-1.0.8-Fix.jar
-appliedenergistics2-forge-15.3.1-beta.jar                      | appliedenergistics2-forge-15.2.16.jar
-balm-forge-1.20.1-7.3.10-all.jar                               | balm-forge-1.20.1-7.3.9-all.jar
-citadel-2.6.1-1.20.1.jar                                       | citadel-2.6.0-1.20.1.jar
-easy_mob_farm-forge-1.20.1-8.9.1.jar                           | easy_mob_farm-forge-1.20.1-8.8.0.jar
-flib-1.20.1-0.0.14.jar                                         | fruitsdelight-1.0.14.jar
-fruitsdelight-1.0.15.jar                                       < 
-lithostitched-forge-1.20.1-1.3.10.jar                          | lithostitched-forge-1.20.1-1.3.9.jar
-moonlight-1.20-2.13.41-forge.jar                               | moonlight-1.20-2.13.37-forge.jar
-packedup-0.5.4-beta.jar                                        | packedup-0.5.3-beta.jar
-sophisticatedcore-1.20.1-1.0.1.809.jar                         | sophisticatedcore-1.20.1-1.0.0.807.jar
-tinylightbulbs-1.20.1-0.0.2.jar                                < 
-voicechat-forge-1.20.1-2.5.27.jar                              | voicechat-forge-1.20.1-2.5.26.jar
+ SquirrelPAK 1201 - Tech Squirrels v0.1.0-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.0.3-1.20.1
+Mekanism-1.20.1-10.4.13.69.jar                                 | Mekanism-1.20.1-10.4.12.68.jar
+MekanismAdditions-1.20.1-10.4.13.69.jar                        | MekanismAdditions-1.20.1-10.4.12.68.jar
+MekanismGenerators-1.20.1-10.4.13.69.jar                       | MekanismGenerators-1.20.1-10.4.12.68.jar
+MekanismTools-1.20.1-10.4.13.69.jar                            | MekanismTools-1.20.1-10.4.12.68.jar
+appliedenergistics2-forge-15.3.2-beta.jar                      | appliedenergistics2-forge-15.3.1-beta.jar
+workshop_for_handsome_adventurer--mc1.20.1--1.32.3.jar         | workshop_for_handsome_adventurer--mc1.20.1--1.32.0.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/1201-v0.0.3-1.20.1-ModsList.txt
+squirrelpak/versions/1201-v0.1.0-1.20.1-ModsList.txt
 -------------------------------------------
 
  

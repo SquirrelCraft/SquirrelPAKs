@@ -1,3 +1,65 @@
+SquirrelPAK 1201 - Tech Squirrels v0.1.0-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 0.1.0
+File Version 0.1.0-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+Beta 1
+
+Summary:
+First Beta Release
+ 
+-------------------------------------------
+ Mod Changes from v0.0.3-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v0.1.0-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.0.3-1.20.1
+Mekanism-1.20.1-10.4.13.69.jar                                 | Mekanism-1.20.1-10.4.12.68.jar
+MekanismAdditions-1.20.1-10.4.13.69.jar                        | MekanismAdditions-1.20.1-10.4.12.68.jar
+MekanismGenerators-1.20.1-10.4.13.69.jar                       | MekanismGenerators-1.20.1-10.4.12.68.jar
+MekanismTools-1.20.1-10.4.13.69.jar                            | MekanismTools-1.20.1-10.4.12.68.jar
+appliedenergistics2-forge-15.3.2-beta.jar                      | appliedenergistics2-forge-15.3.1-beta.jar
+workshop_for_handsome_adventurer--mc1.20.1--1.32.3.jar         | workshop_for_handsome_adventurer--mc1.20.1--1.32.0.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v0.1.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 1201 - Tech Squirrels v0.0.3-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.0.3
