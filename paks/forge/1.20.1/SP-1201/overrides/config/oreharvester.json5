@@ -19,5 +19,5 @@
 	"increaseHarvestingTimePerOre": true,
 	// How much longer it takes to harvest an ore vein with 'increaseHarvestingTimePerOre' enabled. The actual speed is: newSpeed = originalSpeed / (1 + (logCount * increasedHarvestingTimePerOreModifier)).
 	// min: 0.01, max: 10.0
-	"increasedHarvestingTimePerOreModifier": 0.2
+	"increasedHarvestingTimePerOreModifier": 1
 }

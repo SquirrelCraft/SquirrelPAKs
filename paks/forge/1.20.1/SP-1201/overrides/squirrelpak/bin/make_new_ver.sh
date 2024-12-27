@@ -188,12 +188,12 @@ if [ "$PAK_IS_BETA" == "true" ]; then
 	echo " "
 
 	echo " Setting $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt to:"
-	echo " |||"
+	echo " ^^^"
 	echo " $PAK_Beta_Tagline"
-	echo " |||"
-	echo "|||" > $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
+	echo " ^^^"
+	echo "^^^" > $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
 	echo "$PAK_Beta_Tagline" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
-	echo "|||" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
+	echo "^^^" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
 	echo " done!"
 	echo " "
 

@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1733014043041
+  last_edited_time = 1734188802907
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
   custom_menu_title = Loading
-  [loading_requirement_container_meta:2327d66d-d197-4704-90de-7deb30bbde21-1733013355964] = [groups:][instances:]
+  [loading_requirement_container_meta:076d37b0-b29b-414d-ae1b-7fef561ebdfa-1734188795326] = [groups:][instances:]
 }
 
 customization {
@@ -43,6 +43,38 @@ scroll_list_customization {
   show_scroll_list_header_footer_preview_in_editor = false
   repeat_scroll_list_header_texture = false
   repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/gfx/black-box.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 3a426a42-ead3-4226-acef-502dc8d4b1f6-1734188382926
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = .75
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = 9bf66edd-99a5-4c6b-b7dd-3842dca6fdd2-1732796772211
+  x = -11
+  y = -5
+  width = 368
+  height = 365
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 20c7f61f-572e-4a9e-9cc8-6d5a4ab5eef5-1734188382926
+  [loading_requirement_container_meta:20c7f61f-572e-4a9e-9cc8-6d5a4ab5eef5-1734188382926] = [groups:][instances:]
 }
 
 element {
@@ -80,13 +112,13 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 9bf66edd-99a5-4c6b-b7dd-3842dca6fdd2-1732796772211
   x = 8
-  y = 206
+  y = 199
   width = 333
   height = 39
   stretch_x = false
@@ -101,7 +133,7 @@ element {
   source = [source:local]/config/fancymenu/assets/menu-text/menu_r2-pak-desc.txt
   source_mode = resource
   shadow = true
-  scale = 3.5
+  scale = 4.0
   base_color = #FFFFFF
   text_border = 2
   line_spacing = 2
@@ -130,13 +162,13 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 9bf66edd-99a5-4c6b-b7dd-3842dca6fdd2-1732796772211
-  x = 6
-  y = 265
+  x = 5
+  y = 276
   width = 335
   height = 36
   stretch_x = false
@@ -263,13 +295,13 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -251
-  y = 67
-  width = 497
+  x = -176
+  y = 60
+  width = 354
   height = 42
   stretch_x = false
   stretch_y = false
@@ -312,12 +344,13 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
-  anchor_point = bottom-right
-  x = -149
-  y = -33
+  anchor_point = element
+  anchor_point_element = 3a426a42-ead3-4226-acef-502dc8d4b1f6-1734188382926
+  x = 98
+  y = 364
   width = 173
   height = 18
   stretch_x = false
@@ -361,8 +394,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = bottom-centered
   x = -369
@@ -410,8 +443,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 9bf66edd-99a5-4c6b-b7dd-3842dca6fdd2-1732796772211
@@ -442,8 +475,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = top-centered
   x = -173
@@ -540,47 +573,6 @@ element {
 }
 
 vanilla_button {
-  button_element_executable_block_identifier = 5a172b34-36b9-4cc3-8615-e2f68f82a9a0-1710809100661
-  [executable_block:5a172b34-36b9-4cc3-8615-e2f68f82a9a0-1710809100661][type:generic] = [executables:]
-  restartbackgroundanimations = true
-  loopbackgroundanimations = true
-  nine_slice_custom_background = false
-  nine_slice_border_x = 5
-  nine_slice_border_y = 5
-  navigatable = true
-  widget_active_state_requirement_container_identifier = 1ba0b235-b7ea-4901-bb33-946f61415c44-1732330075547
-  [loading_requirement_container_meta:1ba0b235-b7ea-4901-bb33-946f61415c44-1732330075547] = [groups:][instances:]
-  element_type = vanilla_button
-  instance_identifier = mojang_logo
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 0
-  auto_sizing_base_screen_height = 0
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 345
-  y = 214
-  width = 81
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 08073827-4cc5-45a1-8484-62323b6e3ba6-1710809100661
-  [loading_requirement_container_meta:08073827-4cc5-45a1-8484-62323b6e3ba6-1710809100661] = [groups:][instances:]
-  is_hidden = true
-  automated_button_clicks = 0
-  nine_slice_slider_handle = false
-  nine_slice_slider_handle_border_x = 5
-  nine_slice_slider_handle_border_y = 5
-}
-
-vanilla_button {
   button_element_executable_block_identifier = bea105dd-e9a5-477f-8ab9-ea026b4e2aea-1710809100661
   [executable_block:bea105dd-e9a5-477f-8ab9-ea026b4e2aea-1710809100661][type:generic] = [executables:]
   restartbackgroundanimations = true
@@ -614,6 +606,47 @@ vanilla_button {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 78fe840f-0af2-416a-8c42-5161ac69f77e-1710809100661
   [loading_requirement_container_meta:78fe840f-0af2-416a-8c42-5161ac69f77e-1710809100661] = [groups:][instances:]
+  is_hidden = true
+  automated_button_clicks = 0
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = 5a172b34-36b9-4cc3-8615-e2f68f82a9a0-1710809100661
+  [executable_block:5a172b34-36b9-4cc3-8615-e2f68f82a9a0-1710809100661][type:generic] = [executables:]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 1ba0b235-b7ea-4901-bb33-946f61415c44-1732330075547
+  [loading_requirement_container_meta:1ba0b235-b7ea-4901-bb33-946f61415c44-1732330075547] = [groups:][instances:]
+  element_type = vanilla_button
+  instance_identifier = mojang_logo
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 345
+  y = 214
+  width = 81
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 08073827-4cc5-45a1-8484-62323b6e3ba6-1710809100661
+  [loading_requirement_container_meta:08073827-4cc5-45a1-8484-62323b6e3ba6-1710809100661] = [groups:][instances:]
   is_hidden = true
   automated_button_clicks = 0
   nine_slice_slider_handle = false

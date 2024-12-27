@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = receiving_level_screen
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1716814358224
+  last_edited_time = 1734191633665
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:b4df9884-dbbd-4c10-ba45-70bf3199c015-1716814328306] = [groups:][instances:]
+  [loading_requirement_container_meta:4dc02c40-a647-44d2-aaf2-57d75712f7ce-1734191607181] = [groups:][instances:]
 }
 
 customization {
@@ -21,6 +21,13 @@ customization {
   action = autoscale
   basewidth = 1920
   baseheight = 1080
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/gfx/loading_background.png
+  slide = false
+  repeat_texture = false
+  background_type = image
 }
 
 customization {
@@ -47,8 +54,15 @@ element {
   instance_identifier = 019f4ac0-69fe-4a5c-b1fa-5c5fe9496496-1710812227124
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
   anchor_point = top-centered
   x = -98
   y = 18
@@ -62,27 +76,66 @@ element {
 }
 
 element {
-  source = [source:local]/config/fancymenu/assets/gfx/head_large.png
+  source = [source:local]/config/fancymenu/assets/gfx/squrrel_pick.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
   nine_slice_texture_border_y = 5
   element_type = image
-  instance_identifier = eb31963d-ddd2-4e90-8d92-dba94590d54d-1713013997253
+  instance_identifier = db0500d0-8fe3-4931-ac8c-ffc096d7fe9b-1734191612272
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
-  anchor_point = mid-centered
-  x = -30
-  y = -25
-  width = 58
-  height = 54
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = bottom-right
+  x = -137
+  y = -182
+  width = 140
+  height = 176
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = 02216c64-f623-4b1e-9c34-38c127f7c56a-1713013997253
-  [loading_requirement_container_meta:02216c64-f623-4b1e-9c34-38c127f7c56a-1713013997253] = [groups:][instances:]
+  element_loading_requirement_container_identifier = c141ce8e-6301-43a9-bdee-fdb0baa0d6e9-1710814194657
+  [loading_requirement_container_meta:c141ce8e-6301-43a9-bdee-fdb0baa0d6e9-1710814194657] = [groups:][instances:]
+}
+
+element {
+  source = [source:local]/config/fancymenu/assets/gfx/black-box.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = 8628c7dc-c3f6-4ce2-bbb5-95c6c1ce0cab-1734191612272
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = .75
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = element
+  anchor_point_element = downloading_terrain
+  x = -51
+  y = -22
+  width = 310
+  height = 51
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ea823603-aaef-4fcc-bbd4-1a873cb7c4bd-1734191256158
+  [loading_requirement_container_meta:ea823603-aaef-4fcc-bbd4-1a873cb7c4bd-1734191256158] = [groups:][instances:]
 }
 
 vanilla_button {
@@ -94,16 +147,25 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   navigatable = true
+  widget_active_state_requirement_container_identifier = 0bdf7929-827b-4ded-adbb-f0199ba0db33-1734189566647
+  [loading_requirement_container_meta:0bdf7929-827b-4ded-adbb-f0199ba0db33-1734189566647] = [groups:][instances:]
   element_type = vanilla_button
   instance_identifier = downloading_terrain
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
-  anchor_point = bottom-centered
-  x = -101
-  y = -153
-  width = 200
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -105
+  y = 22
+  width = 208
   height = 9
   stretch_x = false
   stretch_y = false

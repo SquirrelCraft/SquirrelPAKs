@@ -2,7 +2,7 @@
 #
 #     Internal script to ready for Export to CF
 #
-#     v4.1
+#     v4.2
 # 
 
 #     /squrrelpak/bin/ready_for_export.sh
@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Export Script v4.1"
+echo "  SquirrelPAK CF Export Script v4.2"
 echo "  (ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
@@ -110,8 +110,8 @@ PAK_export_history_base_dir=$PAK_Removed_Files_Base_Dir/0-export-history
 PAK_last_export_history=$PAK_export_history_base_dir/last-export
 PAK_Timestamp=`date +"%C%y%m%d%H%M"`
 PAK_FM3_ASSET_DIR=./config/fancymenu/assets
-PAK_CreditsFile=./credits.txt
-PAK_LicenseFile=./LICESNSES/LICESNSES.md
+PAK_CreditsFile=./credits.md
+PAK_LicenseFile=./LICENSES/LICENSES.md
 PAK_Tools_Save_Dir=./zz-do-not-export/squirrelpak-tools
 
 echo " Local vars Set!"
@@ -607,12 +607,12 @@ if [ "$PAK_IS_BETA" == "true" ]; then
 	echo " "
 
 	echo " Setting $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt to:"
-	echo " |||"
+	echo " ^^^"
 	echo " $PAK_Beta_Tagline"
-	echo " |||"
-	echo "|||" > $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
+	echo " ^^^"
+	echo "^^^" > $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
 	echo "$PAK_Beta_Tagline" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
-	echo "|||" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
+	echo "^^^" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
 	echo " done!"
 	echo " "
 
@@ -684,9 +684,9 @@ echo " "
 
 
 echo " Copy credits files to Fancy Menu Assets:"
-echo " Copy to: $PAK_FM3_ASSET_DIR/credits.txt"
+echo " Copy to: $PAK_FM3_ASSET_DIR/credits.md"
 echo " --------------------------------"
-cp -v $PAK_CreditsFile $PAK_FM3_ASSET_DIR/credits.txt
+cp -v $PAK_CreditsFile $PAK_FM3_ASSET_DIR/credits.md
 echo " --------------------------------"
 echo " done"
 echo " "

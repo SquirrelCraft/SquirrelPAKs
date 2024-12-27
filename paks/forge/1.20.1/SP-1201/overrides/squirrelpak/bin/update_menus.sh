@@ -56,8 +56,8 @@ PAK_bin_dir=./squirrelpak/bin
 PAK_etc_dir=./squirrelpak/etc
 PAK_versons_dir=./squirrelpak/versions
 PAK_FM3_ASSET_DIR=./config/fancymenu/assets
-PAK_CreditsFile=./credits.txt
-PAK_LicenseFile=./LICESNSES/LICESNSES.md
+PAK_CreditsFile=./credits.md
+PAK_LicenseFile=./LICENSES/LICENSES.md
 
 echo " Local Vars Set!"
 echo " PAK_bin_dir=$PAK_bin_dir"
@@ -132,12 +132,12 @@ if [ "$PAK_IS_BETA" == "true" ]; then
 	echo " "
 
 	echo " Setting $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt to:"
-	echo " |||"
+	echo " ^^^"
 	echo " $PAK_Beta_Tagline"
-	echo " |||"
-	echo "|||" > $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
+	echo " ^^^"
+	echo "^^^" > $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
 	echo "$PAK_Beta_Tagline" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
-	echo "|||" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
+	echo "^^^" >> $PAK_Menu_Config_Dir/menu_r2-beta-tagline.txt
 	echo " done!"
 	echo " "
 
@@ -208,14 +208,16 @@ echo " "
 echo " "
 
 echo " Copy credits files to Fancy Menu Assets:"
-echo " Copy to: $PAK_FM3_ASSET_DIR/credits.txt"
+echo " Copy file: $PAK_CreditsFile"
+echo " Copy to: $PAK_FM3_ASSET_DIR/credits.md"
 echo " --------------------------------"
-cp -v $PAK_CreditsFile $PAK_FM3_ASSET_DIR/credits.txt
+cp -v $PAK_CreditsFile $PAK_FM3_ASSET_DIR/credits.md
 echo " --------------------------------"
 echo " done"
 echo " "
 
 echo " Copy license file to Fancy Menu Assets:"
+echo " Copy file: $PAK_LicenseFile"
 echo " Copy to: $PAK_FM3_ASSET_DIR/licesnse.md"
 echo " --------------------------------"
 cp -v $PAK_LicenseFile $PAK_FM3_ASSET_DIR/license.md

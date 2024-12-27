@@ -1,31 +1,75 @@
-# SquirrelCraft SquirrelPAK Version File - v2.0
+# SquirrelCraft SquirrelPAK Version File - v3.0
 #
+
+PAK_RELEASE=0.0.0.1
+PAK_MC_VER=1.20.1
+
 
 PAK_NAME_INIT_PFX=12
 PAK_NAME_INIT=01
 
-PAK_RELEASE=0.0.0.0
-PAK_MC_VER=1.20.1
 
+# Should replace above one day until then combine them
+PAK_NAME="$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
+
+# Desc of the pack
 PAK_DESC="Tech Squirrels"
 
+# Req forge version. Should change to loader
 PAK_FORGE_VER=47.3.7
 
-PAK_Menu3_Music_Title="Party Pirates by Alexander Nakarada (Squirrel Remix)"
+# Menu Music Credits
+PAK_Menu_R2_Menu_Music_Credits="Party Pirates by Alexander Nakarada (Squirrel Remix)"
 
-
+# Menu Config Dir
 PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
 
-PAK_NAME="$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
+# Beta/Alpha Settings
+PAK_IS_BETA=true
+PAK_Beta_Text="&cPre-Alpha"
+PAK_Beta_Header="&cPre-Alpha &eVersion &f#1"
+PAK_Beta_Tagline="&fIt's &cPre-Alpha &fIt be &cbroken &feh?"
+
+
+# Do not change anything below this line!
+# - - - - - - - - - - - - - - - - - - - 
+
+# Computed vars
 PAK_VER="$PAK_RELEASE-$PAK_MC_VER"
+PAK_Menu_R2_Name="&a$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
+PAK_Menu_R2_Desc="&f$PAK_DESC"
+PAK_Menu_R2_Ver="v$PAK_RELEASE"
+PAK_Menu_R2_Full_Name_Ver="&6SquirrelPAK $PAK_Menu_R2_Name &f$PAK_Menu_R2_Ver"
 
-# Legacy Var
-PAK_Menu_Beta_Text=""
 
-# - - - - Fancy Menu Vars - - - - -
-PAK_Menu3_Name="$PAK_DESC"
-PAK_Menu3_Version="v$PAK_VER"
-PAK_Menu3_INIT_PFX=$PAK_NAME_INIT_PFX
-PAK_Menu3_INIT=$PAK_NAME_INIT
-PAK_Menu3_INIT_FULL="$PAK_Menu3_INIT_PFX$PAK_Menu3_INIT"
-PAK_Menu3_ShortName_And_Version="&6SquirrelPAK &a$PAK_Menu3_INIT_PFX&f$PAK_Menu3_INIT - v$PAK_RELEASE&f-&2$PAK_MC_VER"
+
+# Color Codes
+# Black = &0	
+# Dark Blue = &1
+# Dark Green = &2	
+# Dark Aqua = &3	
+# Dark Red = &4	
+# Dark Purple = &5	
+# Gold = &6
+# Gray = &7
+# Dark Gray = &8
+# Blue = &9
+# Green = &a
+# Aqua = &b
+# Red = &c
+# Light Purple = &d
+# Yellow &e
+# White &f
+
+
+
+
+# Legacy Settings - Will be removed
+PAK_Menu_Beta_Text="PAK_Menu_Beta_Text Removed"
+PAK_Menu3_Name="PAK_Menu3_Name Removed"
+PAK_Menu3_Version="PAK_Menu3_Version Removed"
+PAK_Menu3_INIT_PFX="PAK_Menu3_INIT_PFX Removed"
+PAK_Menu3_INIT="PAK_Menu3_INIT Removed"
+PAK_Menu3_INIT_FULL="PAK_Menu3_INIT_FULL Removed"
+PAK_Menu3_ShortName_And_Version="PAK_Menu3_ShortName_And_Version Removed"
+

@@ -1,5 +1,5 @@
 #If enabled, players automatically attempt to use sleeping bags when placed.
-autoUse = true
+autoUse = false
 #If enabled, players cannot sleep again for a period of time after sleeping.
 restrictSleeping = false
 #If restrictSleeping is true, this value will determine the length of wait time (larger numbers sleep sooner).
@@ -16,7 +16,7 @@ sleepingBagUse = "NIGHT"
 #A value of less than 0 will default to the playerSleepingPercentage game rule.
 #
 #Range: -1 ~ 100
-daySleepingPercentage = -1
+daySleepingPercentage = 10
 #The amount of time, in ticks, to add or remove from the new time after sleeping through a night.
 #Range: -2000 ~ 2000
 dayWakeTimeOffset = 0

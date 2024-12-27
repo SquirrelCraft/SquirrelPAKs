@@ -3,15 +3,15 @@
 
 	[MachineCoreConfig.LatexProcessingUnitConfig]
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]
-		maxProgress = 100
+		maxProgress = 50
 		#Amount of Power Consumed per Tick - Default: [400FE]
 		powerPerTick = 20
 		#Max Stored Power [FE] - Default: [10000 FE]
-		maxStoredPower = 10000
+		maxStoredPower = 100000
 		#Max Amount of Stored Fluid [Latex] - Default: [8000mB]
-		maxLatexTankSize = 16000
+		maxLatexTankSize = 48000
 		#Max Amount of Stored Fluid [Water] - Default: [8000mB]
-		maxWaterTankSize = 16000
+		maxWaterTankSize = 48000
 
 	[MachineCoreConfig.FluidExtractorConfig]
 		#Cooldown Time in Ticks [20 Ticks per Second] - Default: [100 (5s)]

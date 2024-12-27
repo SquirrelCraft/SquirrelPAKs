@@ -10,9 +10,9 @@
 	CameraFilmFramesTooltip = true
 	#Film Roll fullness bar will be shown on the Camera item. Same as it does on Film Roll item.
 	#Default: false
-	CameraShowsFilmBar = false
+	CameraShowsFilmBar = true
 	#Photographer name will be shown in Photograph's tooltip.
-	PhotographPhotographerNameTooltip = false
+	PhotographPhotographerNameTooltip = true
 	#Crosshair will not get in the way when holding a photograph.
 	PhotographInHandHideCrosshair = true
 	#Album will show how many photographs they contain in a tooltip.
@@ -69,5 +69,5 @@
 	#320/640/960/1280px png image. Be careful with larger frame sizes.
 	#Default: X2
 	#Allowed Values: X1, X2, X3, X4
-	Size = "X2"
+	Size = "X3"
 

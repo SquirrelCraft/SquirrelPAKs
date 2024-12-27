@@ -1,3 +1,86 @@
+SquirrelPAK 1201 - Tech Squirrels v0.0.2-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 0.0.2
+File Version 0.0.2-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+Alpha 2
+
+Summary:
+Lots of Changes. Finished up menu updated
+mods. Setup Startup Packs
+ 
+-------------------------------------------
+ Mod Changes from v0.0.1-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v0.0.2-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.0.1-1.20.1
+CrabbersDelight-1.20.1-1.1.7d.jar                              | CrabbersDelight-1.20.1-1.1.7c.jar
+CraterLib-Forge-1.20-2.1.2+hotfix.1.jar                        | CraterLib-Forge-1.20-2.1.1.jar
+CreativeCore_FORGE_v2.12.26_mc1.20.1.jar                       | CreativeCore_FORGE_v2.12.22_mc1.20.1.jar
+Delightful-1.20.1-3.6.1.jar                                    | Delightful-1.20.1-3.6.jar
+                                                               > EasierSleeping-1.20.1-2.1.3.jar
+EnderIO-1.20.1-6.2.5-beta-all.jar                              | EnderIO-1.20.1-6.2.2-beta-all.jar
+FarmersDelight-1.20.1-1.2.6.jar                                | FarmersDelight-1.20.1-1.2.5.jar
+Mekanism-1.20.1-10.4.11.67.jar                                 | Mekanism-1.20.1-10.4.10.66.jar
+MekanismAdditions-1.20.1-10.4.11.67.jar                        | MekanismAdditions-1.20.1-10.4.10.66.jar
+MekanismGenerators-1.20.1-10.4.11.67.jar                       | MekanismGenerators-1.20.1-10.4.10.66.jar
+MekanismTools-1.20.1-10.4.11.67.jar                            | MekanismTools-1.20.1-10.4.10.66.jar
+                                                               > [forge]ctov-3.4.10.jar
+appliedenergistics2-forge-15.2.16.jar                          | appliedenergistics2-forge-15.2.13.jar
+corpse-forge-1.20.1-1.0.19.jar                                 | corpse-forge-1.20.1-1.0.17.jar
+dynamiclights-v1.8.5-mc1.17x-1.21x-mod.jar                     | dynamiclights-v1.8.4-mc1.17x-1.21x-mod.jar
+easy_mob_farm-forge-1.20.1-8.8.0.jar                           | easy_mob_farm-forge-1.20.1-8.5.1.jar
+fruitsdelight-1.0.14.jar                                       | fruitsdelight-1.0.12.jar
+lightmanscurrency-1.20.1-2.2.4.1b.jar                          | lightmanscurrency-1.20.1-2.2.4.0c.jar
+lithostitched-forge-1.20.1-1.3.9.jar                           | lithostitched-forge-1.20.1-1.3.8.jar
+lootr-forge-1.20-0.7.35.90.jar                                 | lootr-forge-1.20-0.7.34.85.jar
+mcw-trapdoors-1.1.4-mc1.20.1forge.jar                          | mcw-trapdoors-1.1.3-mc1.20.1forge.jar
+moonlight-1.20-2.13.37-forge.jar                               | moonlight-1.20-2.13.32-forge.jar
+sawmill-1.20-1.4.4.jar                                         | sawmill-1.20-1.4.3.jar
+sophisticatedcore-1.20.1-1.0.0.807.jar                         | sophisticatedcore-1.20.1-0.7.11.799.jar
+supplementaries-1.20-3.1.10.jar                                | supplementaries-1.20-3.1.9.jar
+workshop_for_handsome_adventurer--mc1.20.1--1.32.0.jar         | workshop_for_handsome_adventurer--mc1.20.1--1.15.2.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v0.0.2-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 1201 - Tech Squirrels v0.0.1-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.0.1

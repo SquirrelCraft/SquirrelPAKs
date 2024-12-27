@@ -4,26 +4,26 @@
 	#Affects the Injection Rate, Max Temp, and Ignition Temp.
 	energyPerFusionFuel = "10000000"
 	#Peak output for the Solar Generator. Note: It can go higher than this value in some extreme environments.
-	solarGeneration = "50"
+	solarGeneration = "250"
 	#Peak output for the Advanced Solar Generator. Note: It can go higher than this value in some extreme environments.
-	advancedSolarGeneration = "300"
+	advancedSolarGeneration = "700"
 
 	#Bio Generator Settings
 	[generators.bio_generator]
 		#Amount of energy in Joules the Bio Generator produces per tick.
-		bioGeneration = "350"
+		bioGeneration = "650"
 		#The capacity in mB of the fluid tank in the Bio Generator.
 		#Range: > 1
-		tankCapacity = 24000
+		tankCapacity = 48000
 
 	#Heat Generator Settings
 	[generators.heat_generator]
 		#Amount of energy in Joules the Heat Generator produces per tick. heatGeneration + heatGenerationLava * lavaSides + heatGenerationNether. Note: lavaSides is how many sides are adjacent to lava, this includes the block itself if it is lava logged allowing for a max of 7 "sides".
-		heatGeneration = "200"
+		heatGeneration = "400"
 		#Multiplier of effectiveness of Lava that is adjacent to the Heat Generator.
-		heatGenerationLava = "30"
+		heatGenerationLava = "60"
 		#Add this amount of Joules to the energy produced by a heat generator if it is in an 'ultrawarm' dimension, in vanilla this is just the Nether.
-		heatGenerationNether = "100"
+		heatGenerationNether = "200"
 		#The capacity in mB of the fluid tank in the Heat Generator.
 		#Range: > 1
 		tankCapacity = 24000
@@ -37,7 +37,7 @@
 		tankCapacity = 18000
 		#The number of ticks each mB of Ethylene burns for in the Gas-Burning Generator.
 		#Range: > 1
-		ethyleneBurnTicks = 40
+		ethyleneBurnTicks = 80
 		#Multiplier for calculating the energy density of Ethylene (1 mB Hydrogen + 2 * bioGeneration * densityMultiplier).
 		ethyleneDensityMultiplier = "40"
 
@@ -64,9 +64,9 @@
 	#Wind Generator Settings
 	[generators.wind_generator]
 		#Minimum base generation value of the Wind Generator.
-		windGenerationMin = "60"
+		windGenerationMin = "120"
 		#Maximum base generation value of the Wind Generator.
-		generationMax = "480"
+		generationMax = "800"
 		#The minimum Y value that affects the Wind Generators Power generation. This value gets clamped at the world's min height.
 		#Range: -2032 ~ 2030
 		minY = 24

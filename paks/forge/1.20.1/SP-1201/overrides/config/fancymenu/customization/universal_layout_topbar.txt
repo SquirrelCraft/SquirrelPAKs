@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1733023943114
+  last_edited_time = 1734188024470
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:3e3e29d8-84f6-47f8-94f7-66849c7fd70f-1733023757118] = [groups:][instances:]
+  [loading_requirement_container_meta:fa6970b0-75a1-4694-ae4c-e46b70e845a1-1734187862434] = [groups:][instances:]
 }
 
 customization {
@@ -161,54 +161,5 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020
   [loading_requirement_container_meta:a9249779-14d0-4a65-abd0-fd275fbb1d57-1712966517020] = [groups:][instances:]
-}
-
-element {
-  interactable = true
-  source = [source:local]/config/fancymenu/assets/menu-text/menu_r2-beta-tagline.txt
-  source_mode = resource
-  shadow = true
-  scale = 1.0
-  base_color = #FFFFFFFF
-  text_border = 2
-  line_spacing = 2
-  enable_scrolling = false
-  auto_line_wrapping = false
-  remove_html_breaks = true
-  code_block_single_color = #737373FF
-  code_block_multi_color = #565656FF
-  headline_line_color = #A9A9A9FF
-  separation_line_color = #A9A9A9FF
-  hyperlink_color = #0771FCFF
-  quote_color = #818181FF
-  quote_indent = 8.0
-  quote_italic = false
-  bullet_list_dot_color = #A9A9A9FF
-  bullet_list_indent = 8.0
-  bullet_list_spacing = 3.0
-  parse_markdown = true
-  element_type = text_v2
-  instance_identifier = 37fc34f0-5889-414b-bc55-0b38a7c07439-1727999629060
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 3456
-  auto_sizing_base_screen_height = 1990
-  sticky_anchor = false
-  anchor_point = bottom-right
-  x = -239
-  y = -25
-  width = 255
-  height = 16
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = adcb3fb3-e455-4085-b685-84b7961bcd0d-1727999352708
-  [loading_requirement_container_meta:adcb3fb3-e455-4085-b685-84b7961bcd0d-1727999352708] = [groups:][instances:]
 }
 

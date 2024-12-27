@@ -9,5 +9,5 @@
 
 [Toolracks]
 	#If this option is turned on, you'll see a list of enchantments for your tools.
-	"Detailed info for enchanted tools in Jade/TOP/WTHIT" = false
+	"Detailed info for enchanted tools in Jade/TOP/WTHIT" = true
 

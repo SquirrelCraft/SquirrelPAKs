@@ -88,7 +88,7 @@ PAK_export_history_base_dir=$PAK_Removed_Files_Base_Dir/0-export-history
 PAK_last_export_history=$PAK_export_history_base_dir/last-export
 PAK_Timestamp=`date +"%C%y%m%d%H%M"`
 PAK_FM3_ASSET_DIR=./config/fancymenu/assets
-PAK_CreditsFile=./credits.txt
+PAK_CreditsFile=./credits.md
 echo " "
 echo " Local vars Set!"
 echo " Script_Dir=$Script_Dir"

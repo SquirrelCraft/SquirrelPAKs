@@ -5,21 +5,21 @@
 	#Energy Cubes
 	[tier.energy_cubes]
 		#Maximum number of Joules Basic energy cubes can store.
-		basicStorage = "4000000"
+		basicStorage = "8000000"
 		#Output rate in Joules of Basic energy cubes.
-		basicOutput = "4000"
+		basicOutput = "8000"
 		#Maximum number of Joules Advanced energy cubes can store.
-		advancedStorage = "16000000"
+		advancedStorage = "32000000"
 		#Output rate in Joules of Advanced energy cubes.
-		advancedOutput = "16000"
+		advancedOutput = "32000"
 		#Maximum number of Joules Elite energy cubes can store.
-		eliteStorage = "64000000"
+		eliteStorage = "128000000"
 		#Output rate in Joules of Elite energy cubes.
-		eliteOutput = "64000"
+		eliteOutput = "128000"
 		#Maximum number of Joules Ultimate energy cubes can store.
-		ultimateStorage = "256000000"
+		ultimateStorage = "512000000"
 		#Output rate in Joules of Ultimate energy cubes.
-		ultimateOutput = "256000"
+		ultimateOutput = "512000"
 		#Maximum number of Joules Creative energy cubes can store.
 		creativeStorage = "18446744073709551615.9999"
 		#Output rate in Joules of Creative energy cubes.

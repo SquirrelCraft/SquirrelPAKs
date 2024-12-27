@@ -38,7 +38,7 @@ mod_parents = []
 		disable_default_badges = []
 
 [count]
-	count_hidden_mods = true
+	count_hidden_mods = false
 	count_children = true
-	count_libraries = true
+	count_libraries = false
 

@@ -8,14 +8,14 @@ B:force_fullscreen = 'false';
 ##[customization]
 
 B:modpack_mode = 'false';
-B:show_customization_overlay = 'true';
+B:show_customization_overlay = 'false';
 B:advanced_customization_mode = 'true';
 
 
 ##[loading]
 
 B:preload_animations = 'true';
-S:preload_resources = '[cubic_panorama]main-menu-pano%!source_end!%[source:local]config/fancymenu/assets/audio/main_menu_0.ogg%!source_end!%[source:local]config/fancymenu/assets/changelog.txt%!source_end!%[source:local]config/fancymenu/assets/credits.txt%!source_end!%[source:local]config/fancymenu/assets/gfx/bug-eyes.png%!source_end!%[source:local]config/fancymenu/assets/gfx/head_large.png%!source_end!%[source:local]config/fancymenu/assets/gfx/sc_logo.png%!source_end!%[source:local]config/fancymenu/assets/gfx/server-connect.png%!source_end!%[source:local]config/fancymenu/assets/gfx/squirrel_pick2.png%!source_end!%[source:local]config/fancymenu/assets/gfx/squrrel_pick.png%!source_end!%';
+S:preload_resources = '[cubic_panorama]main-menu-pano%!source_end!%[source:local]config/fancymenu/assets/audio/main_menu_0.ogg%!source_end!%[source:local]config/fancymenu/assets/changelog.txt%!source_end!%[source:local]config/fancymenu/assets/credits.txt%!source_end!%[source:local]config/fancymenu/assets/gfx/bug-eyes.png%!source_end!%[source:local]config/fancymenu/assets/gfx/server-connect.png%!source_end!%[source:local]config/fancymenu/assets/gfx/squirrel_pick2.png%!source_end!%[source:local]config/fancymenu/assets/gfx/squrrel_pick.png%!source_end!%[source:local]config/fancymenu/assets/gfx/loading_background.png%!source_end!%[source:local]config/fancymenu/assets/gfx/black-box.png%!source_end!%[source:local]config/fancymenu/assets/gfx/menu-logo-v2.png%!source_end!%[source:local]config/fancymenu/assets/license.md%!source_end!%';
 S:custom_game_intro_skip_text = '';
 B:allow_game_intro_skip = 'true';
 S:game_intro_animation_name = '';

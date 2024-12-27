@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = squirrelpak-info
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1733025157184
-  is_enabled = true
+  last_edited_time = 1734190062853
+  is_enabled = false
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:358f57d2-f9b1-4011-b158-9f28244c23b1-1733026424674] = [groups:][instances:]
+  [loading_requirement_container_meta:79b58de5-b0ae-4784-8b7f-80e956a15293-1734190062907] = [groups:][instances:]
 }
 
 customization {
@@ -258,7 +258,7 @@ element {
 
 element {
   interactable = true
-  source = [source:local]/config/fancymenu/assets/credits.txt
+  source = [source:local]/config/fancymenu/assets/credits.md
   source_mode = resource
   shadow = true
   scale = 1.0
