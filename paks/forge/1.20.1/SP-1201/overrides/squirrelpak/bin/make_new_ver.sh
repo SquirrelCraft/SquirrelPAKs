@@ -141,13 +141,13 @@ nano $PAK_etc_dir/version.txt
 echo "     done"
 echo " "
 
-echo "   - Update bcc-common.toml version via nano/vim"
-echo " "
-printf "%s " "Press enter to continue"
-read ans
-nano ./config/bcc-common.toml
-echo "     done"
-echo " "
+# echo "   - Update bcc-common.toml version via nano/vim"
+# echo " "
+# printf "%s " "Press enter to continue"
+# read ans
+# nano ./config/bcc-common.toml
+# echo "     done"
+# echo " "
 
 # Resource version.txt
 echo 

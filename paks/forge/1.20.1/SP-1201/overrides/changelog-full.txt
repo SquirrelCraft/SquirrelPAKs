@@ -1,3 +1,62 @@
+SquirrelPAK 1201 - Tech Squirrels v0.1.1-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 0.1.1
+File Version 0.1.1-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+Beta 1 - Hotfix 1 
+
+Summary:
+Removed BCC due to issues. Will use Forge checker.
+
+Updated mods that needed updating!
+ 
+-------------------------------------------
+ Mod Changes from v0.1.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v0.1.1-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.1.0-1.20.1
+                                                               > BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v0.1.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 1201 - Tech Squirrels v0.1.0-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.1.0

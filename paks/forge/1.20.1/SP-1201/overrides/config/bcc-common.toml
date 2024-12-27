@@ -1,3 +1,15 @@
+# Not used as of v0.1.1
+#
+
+
+
+
+
+
+
+
+
+
 
 #General settings
 [general]
@@ -7,7 +19,7 @@
 	#The name of the modpack
 	modpackName = "SquirrelPAK 1201 - Tech Squirrels"
 	#The version of the modpack
-	modpackVersion = "v0.1.0"
+	modpackVersion = "v0.1.1"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false

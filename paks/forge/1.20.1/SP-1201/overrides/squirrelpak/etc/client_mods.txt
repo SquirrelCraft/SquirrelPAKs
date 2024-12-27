@@ -4,6 +4,8 @@ BetterAdvancements*
 # Better Modlist [(Neo)Forge] (by 1foxy2)
 Better_Modlist*
 # Colorful Hearts (by Terrails)
+# Better F3
+BetterF3*
 colorfulhearts*
 # Controlling (by Jaredlll08)
 Controlling*
@@ -27,4 +29,6 @@ moreoverlays*
 MouseTweaks*
 # TipTheScales (by Jaredlll08)
 TipTheScales*
+# Zoom
+zume*
 # Blank Line
