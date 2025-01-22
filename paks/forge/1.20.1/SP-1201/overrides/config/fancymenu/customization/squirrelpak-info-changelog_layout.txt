@@ -4,12 +4,12 @@ layout-meta {
   identifier = squirrelpak-info
   render_custom_elements_behind_vanilla = false
   last_edited_time = 1733025536317
-  is_enabled = false
+  is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:85a90c44-b46b-45ef-b9b6-bfdc36609df7-1734803480615] = [groups:][instances:]
+  [loading_requirement_container_meta:6ca04276-e1eb-4f0c-a0db-d93bf6a2fe2a-1735248362730] = [groups:][instances:]
 }
 
 customization {
