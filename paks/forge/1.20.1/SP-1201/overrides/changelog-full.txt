@@ -1,3 +1,95 @@
+SquirrelPAK 1201 - Tech Squirrels v0.4.0-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 0.4.0
+File Version 0.4.0-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+Beta 4 
+
+Summary:
+- Updated mods that had updates
+- Added recipes for log to 4 chest, crafting, 
+  saddles, and wither bones from skulls.
+- Added mod to fix tag errors
+- Added ElevatorMod
+- Tweaked MineDim files	
+ 
+-------------------------------------------
+ Mod Changes from v0.3.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v0.4.0-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.3.0-1.20.1
+AdvancedBackups-forge-1.20-3.6.5.jar                           | AdvancedBackups-forge-1.20-3.6.4.jar
+CraftTweaker-forge-1.20.1-14.0.50.jar                          | CraftTweaker-forge-1.20.1-14.0.46.jar
+CreativeCore_FORGE_v2.12.31_mc1.20.1.jar                       | CreativeCore_FORGE_v2.12.28_mc1.20.1.jar
+Delightful-1.20.1-3.6.2.jar                                    | Delightful-1.20.1-3.6.1.jar
+Jade-1.20.1-Forge-11.12.3.jar                                  | Jade-1.20.1-Forge-11.12.2.jar
+Mekanism-1.20.1-10.4.14.71.jar                                 | Mekanism-1.20.1-10.4.13.69.jar
+MekanismAdditions-1.20.1-10.4.14.71.jar                        | MekanismAdditions-1.20.1-10.4.13.69.jar
+MekanismGenerators-1.20.1-10.4.14.71.jar                       | MekanismGenerators-1.20.1-10.4.13.69.jar
+MekanismTools-1.20.1-10.4.14.71.jar                            | MekanismTools-1.20.1-10.4.13.69.jar
+appliedenergistics2-forge-15.3.3.jar                           | appliedenergistics2-forge-15.3.2-beta.jar
+balm-forge-1.20.1-7.3.11-all.jar                               | balm-forge-1.20.1-7.3.10-all.jar
+cc-tweaked-1.20.1-forge-1.114.3.jar                            | cc-tweaked-1.20.1-forge-1.114.2.jar
+cookingforblockheads-forge-1.20.1-16.0.10.jar                  | cookingforblockheads-forge-1.20.1-16.0.9.jar
+corpse-forge-1.20.1-1.0.20.jar                                 | corpse-forge-1.20.1-1.0.19.jar
+curios-forge-5.11.1+1.20.1.jar                                 | curios-forge-5.11.0+1.20.1.jar
+deltaboxlib-1.1.3.jar                                          | deltaboxlib-1.1.2.jar
+easy_mob_farm-forge-1.20.1-8.11.0.jar                          | easy_mob_farm-forge-1.20.1-8.10.1.jar
+eccentrictome-1.20.1-1.10.3.jar                                | eccentrictome-1.20.1-1.10.2.jar
+elevatorid-1.20.1-1.9.1.jar                                    < 
+fruitsdelight-1.0.16.jar                                       | fruitsdelight-1.0.15.jar
+fusion-1.2.3-forge-mc1.20.1.jar                                | fusion-1.1.1-forge-mc1.20.1.jar
+jei-1.20.1-forge-15.20.0.106.jar                               | jei-1.20.1-forge-15.20.0.105.jar
+lithostitched-forge-1.20.1-1.4.jar                             | lithostitched-forge-1.20.1-1.3.10.jar
+lmft-1.0.4+1.20.1-forge.jar                                    < 
+moonlight-1.20-2.13.53-forge.jar                               | moonlight-1.20-2.13.45-forge.jar
+rusticdelight-forge-1.20.1-1.3.1.jar                           | rusticdelight-forge-1.20.1-1.3.0.jar
+sawmill-1.20-1.4.6.jar                                         | sawmill-1.20-1.4.4.jar
+sophisticatedbackpacks-1.20.1-3.22.5.1179.jar                  | sophisticatedbackpacks-1.20.1-3.21.2.1163.jar
+sophisticatedcore-1.20.1-1.1.5.841.jar                         | sophisticatedcore-1.20.1-1.0.6.824.jar
+swplanets-forge-1.20.1-1.4.6.1.jar                             | swplanets-forge-1.20.1-1.4.6.jar
+veggiesdelight-1.5.jar                                         | veggiesdelight-1.4.2.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v0.4.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 1201 - Tech Squirrels v0.3.0-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.3.0

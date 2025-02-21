@@ -17,3 +17,22 @@ craftingTable.addShaped("sc_dim_shard", <item:rftoolsbase:dimensionalshard>, [
   [<item:ae2:certus_quartz_crystal>, <item:enderio:pulsating_crystal>, <item:ae2:charged_certus_quartz_crystal>],
   [<item:ae2:certus_quartz_crystal>, <item:ae2:charged_certus_quartz_crystal>, <item:ae2:fluix_crystal>]]);	
  
+ 
+craftingTable.addShaped("sc_therm_smelter", <item:thermal:machine_smelter>, [
+  [<item:minecraft:air>, <item:minecraft:blast_furnace>, <item:minecraft:air>],
+  [<tag:items:minecraft:sand>, <item:thermal:machine_frame>, <tag:items:minecraft:sand>],
+  [<item:thermal:invar_gear>, <item:thermal:rf_coil>, <item:thermal:invar_gear>]]);	
+
+craftingTable.addShaped("sc_log2chest", <item:minecraft:chest> * 4, [
+  [<tag:items:minecraft:logs>, <tag:items:minecraft:logs>, <tag:items:minecraft:logs>],
+  [<tag:items:minecraft:logs>, <item:minecraft:air>, <tag:items:minecraft:logs>],
+  [<tag:items:minecraft:logs>, <tag:items:minecraft:logs>, <tag:items:minecraft:logs>]]);	
+
+craftingTable.addShaped("sc_saddle", <item:minecraft:saddle>, [
+  [<item:minecraft:leather> * 2, <item:minecraft:leather> * 2, <item:minecraft:leather> * 2],
+  [<item:engineersdecor:metal_bar>, <item:minecraft:leather> * 2, <item:minecraft:leather> * 2],
+  [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:chain> * 2]]);	
+
+craftingTable.addShapeless("sc_wither_bone", <item:bhc:wither_bone>,
+  [<item:minecraft:wither_skeleton_skull>, <item:minecraft:fire_charge>]);
+
