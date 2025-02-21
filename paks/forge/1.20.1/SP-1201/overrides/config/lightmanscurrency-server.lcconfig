@@ -29,7 +29,7 @@
 	#Whether or not Coin Mint recipes of mintType "MINT" will function.
 	#Defaults to the built-in recipes that turn resources into coins.
 	#Default: true
-	canMint=false
+	canMint=true
 	
 	#Whether or not Coin Mint recipes of mintType "MELT" will function.
 	#Defaults to the built-in recipes that turn coins back into resources.
@@ -40,12 +40,12 @@
 	#Does not apply to Coin Mint recipes with a defined "duration" input.
 	#Range: 1 -> 72000
 	#Default: 100
-	defaultMintDuration=500
+	defaultMintDuration=100
 	
 	#The volume of the noise played whenever the Coin Mint finishes the crafting process.
 	#Range: 0.0 -> 1.0
 	#Default: 0.5
-	soundVolume=0.5
+	soundVolume=0.2
 	
 	#Default Recipes
 	[coin_mint.recipes]
@@ -65,7 +65,7 @@
 			
 			#Whether recipes of mintType "MINT" with an output of emerald coins will function.
 			#Default: true
-			emerald=false
+			emerald=true
 			
 			#Whether recipes of mintType "MINT" with an output of diamond coins will function.
 			#Default: true

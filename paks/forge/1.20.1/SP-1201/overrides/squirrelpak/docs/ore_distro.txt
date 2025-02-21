@@ -1,0 +1,72 @@
+json
+ - calls the place feature
+placed feature
+ - calls configured feature
+ - min/max placement
+config feature 
+ - type of ore
+ - size of vien
+
+Placment File: 
+
+Rare:
+100% = 1
+50% = 2
+33% = 3
+25% = 4
+20% = 5
+16% = 6
+14% = 7
+12% = 8
+11% = 9
+9%% = 10
+
+Min/Max: -64 to 320
+
+Size: 1 to 64
+
+
+320
+# All Size 64 / R:2
+	lead_ore
+	gold_ore
+	lapis_ore
+	silver_ore
+256
+# All Size 32 / R:1
+	tin_ore
+	nickel_ore
+	zinc_ore
+	fluorite_ore
+224
+# All size 32 / R:1
+	apatite_ore
+	cinnabar_ore
+	niter_ore
+	sulfur_ore
+
+192
+# All size 32 / R:1
+	coal_ore
+	copper_ore
+	emerald_ore
+	ruby_ore
+	sapphire_ore
+160
+
+
+
+Done
+
+
+0
+# All Size 64 / R:2
+	ds_uranium_ore
+	ds_yellorite_ore
+	ds_redstone_ore 
+	ds_diamond_ore
+	ds_osmium_ore
+-64
+
+
+

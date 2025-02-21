@@ -1,4 +1,8 @@
 // Custom 
+// craftingTable.addShaped("REC_NAME", ITEM, [
+//  [xxxx, xxxx, xxxx],
+//  [xxxx, xxxx, xxxx],
+//  [xxxx, xxxx, xxxx]]);
 
 craftingTable.addShaped("sc_endertendril_seed", <item:endertendril:ender_tendril_seed>, [
   [<item:delightful:green_tea_leaf>, <item:minecraft:wheat_seeds>, <item:delightful:green_tea_leaf>],
@@ -50,3 +54,57 @@ craftingTable.addShaped("sc_blue_melted_heart", <item:bhc:blue_heart_melted>, [
   [<item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7],
   [<item:moremekanismprocessing:dust_sapphire> * 7, <item:bhc:red_heart_melted>, <item:moremekanismprocessing:dust_sapphire> * 7],
   [<item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7]]);
+
+// AE2 easier ways
+craftingTable.addShapeless("sc_fluix_crystal", 
+		<item:ae2:fluix_crystal>, 
+		[<item:minecraft:redstone>,<item:ae2:charged_certus_quartz_crystal>,<item:minecraft:quartz>,<item:minecraft:water_bucket>.reuse()]);
+
+    
+  
+// Make bulb block easier 
+craftingTable.remove(<item:tinylightbulbs:bulb_block>);
+
+craftingTable.addShaped("sc_bulb_block", <item:tinylightbulbs:bulb_block>, [
+  [<item:minecraft:white_stained_glass_pane>, <item:minecraft:white_stained_glass_pane>, <item:minecraft:white_stained_glass_pane>],
+  [<item:minecraft:white_stained_glass_pane>, <item:tinylightbulbs:bulb>, <item:minecraft:white_stained_glass_pane>],
+  [<item:minecraft:white_stained_glass_pane>, <item:minecraft:white_stained_glass_pane>, <item:minecraft:white_stained_glass_pane>]]);	
+  
+// Fix bag of yurting
+craftingTable.remove(<item:bagofyurting:bag_of_yurting>);
+craftingTable.addShaped("sc_bag_of_yurting", <item:bagofyurting:bag_of_yurting>.withTag({radius: 0}), [
+  [<tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>],
+  [<tag:items:comforts:hammocks>, <tag:items:forge:ender_pearls>, <tag:items:comforts:hammocks>],
+  [<tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>]]);
+  
+  
+// Fix packed up pallets
+craftingTable.remove(<item:packedup:netherite_pallet>);
+craftingTable.addShapeless("sc_palletof_netherite", 
+		<item:packedup:netherite_pallet>, 
+		[<item:packedup:pallet>,<item:minecraft:netherite_block> * 9]);
+
+recipes.remove(<item:packedup:emerald_pallet>);
+craftingTable.addShapeless("sc_palletof_emerald", 
+		<item:packedup:emerald_pallet>, 
+		[<item:packedup:pallet>,<item:minecraft:emerald_block> * 9]);
+
+recipes.remove(<item:packedup:gold_pallet>);
+craftingTable.addShapeless("sc_palletof_gold", 
+		<item:packedup:gold_pallet>, 
+		[<item:packedup:pallet>,<item:minecraft:gold_block> * 9]);
+
+recipes.remove(<item:packedup:iron_pallet>);
+craftingTable.addShapeless("sc_palletof_iron", 
+		<item:packedup:iron_pallet>, 
+		[<item:packedup:pallet>,<item:minecraft:iron_block> * 9]);
+
+recipes.remove(<item:packedup:copper_pallet>);
+craftingTable.addShapeless("sc_palletof_copper", 
+		<item:packedup:copper_pallet>, 
+		[<item:packedup:pallet>,<item:minecraft:copper_block> * 9]);
+
+recipes.remove(<item:packedup:diamond_pallet>);
+craftingTable.addShapeless("sc_palletof_diamond", 
+		<item:packedup:diamond_pallet>, 
+		[<item:packedup:pallet>,<item:minecraft:diamond_block> * 9]);
