@@ -1,3 +1,69 @@
+SquirrelPAK 1201 - Tech Squirrels v0.4.1-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 0.4.1
+File Version 0.4.1-1.20.1
+
+Required Forge Version: 47.3.7
+=====================================================
+
+ 
+Beta 4.Try Agin
+
+Summary:
+- Updated mods that had updates
+- Added recipes for log to 4 chest, crafting,
+  saddles, and wither bones from skulls.
+- Added mod to fix tag errors
+- Added ElevatorMod
+- Tweaked MineDim files
+ 
+Forgot a few file tweaks. 4.0 will not be posted
+
+
+-------------------------------------------
+ Mod Changes from v0.4.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v0.4.1-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.4.0-1.20.1
+Better_Modlist-0.1.11-all.jar                                  | Better_Modlist-0.1.10.jar
+monolib-forge-1.20.1-2.0.0.jar                                 | monolib-forge-1.20.1-1.4.1.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v0.4.1-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+Please report any issues with the mod pack on the issue tracker
+on our github page. See the mod pack description for details
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+
+= = = = = = = 
+
+
+
 SquirrelPAK 1201 - Tech Squirrels v0.4.0-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.4.0
