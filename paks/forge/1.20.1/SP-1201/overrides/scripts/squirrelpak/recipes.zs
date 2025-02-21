@@ -14,7 +14,7 @@ craftingTable.addShaped("sc_endertendril_seed", <item:endertendril:ender_tendril
   
 craftingTable.addShaped("sc_dim_shard", <item:rftoolsbase:dimensionalshard>, [
   [<item:ae2:certus_quartz_crystal>, <item:ae2:certus_quartz_crystal>, <item:ae2:certus_quartz_crystal>],
-  [<item:ae2:certus_quartz_crystal>, <item:enderio:pulsating_crystal>, <item:ae2:charged_certus_quartz_crystal>],
+  [<item:ae2:certus_quartz_crystal>, <item:thermal:ruby>, <item:ae2:charged_certus_quartz_crystal>],
   [<item:ae2:certus_quartz_crystal>, <item:ae2:charged_certus_quartz_crystal>, <item:ae2:fluix_crystal>]]);	
  
  
@@ -36,3 +36,17 @@ craftingTable.addShaped("sc_saddle", <item:minecraft:saddle>, [
 craftingTable.addShapeless("sc_wither_bone", <item:bhc:wither_bone>,
   [<item:minecraft:wither_skeleton_skull>, <item:minecraft:fire_charge>]);
 
+craftingTable.addShaped("sc_dimcell", <item:rftoolspower:dimensionalcell>, [
+  [<item:minecraft:redstone_block>, <item:minecraft:emerald>, <item:minecraft:redstone_block>],
+  [<item:minecraft:emerald>, <item:rftoolspower:dimensionalcell_simple>, <item:minecraft:emerald>],
+  [<item:minecraft:redstone_block>, <item:minecraft:emerald>, <item:minecraft:redstone_block>]]);	
+
+craftingTable.addShaped("sc_red_melted_heart", <item:bhc:red_heart_melted>, [
+  [<item:moremekanismprocessing:dust_ruby> * 7, <item:moremekanismprocessing:dust_ruby> * 7, <item:moremekanismprocessing:dust_ruby> * 7],
+  [<item:moremekanismprocessing:dust_ruby> * 7, <item:minecraft:experience_bottle>, <item:moremekanismprocessing:dust_ruby> * 7],
+  [<item:moremekanismprocessing:dust_ruby> * 7, <item:moremekanismprocessing:dust_ruby> * 7, <item:moremekanismprocessing:dust_ruby> * 7]]);	
+
+craftingTable.addShaped("sc_blue_melted_heart", <item:bhc:blue_heart_melted>, [
+  [<item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7],
+  [<item:moremekanismprocessing:dust_sapphire> * 7, <item:bhc:red_heart_melted>, <item:moremekanismprocessing:dust_sapphire> * 7],
+  [<item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7, <item:moremekanismprocessing:dust_sapphire> * 7]]);

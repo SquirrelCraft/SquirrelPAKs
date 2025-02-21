@@ -1,12 +1,12 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK 20VP Only
+#     Internal Server Script - SquirrelPAK 1201 Only
 #     Post install script for server
 #     cmd_post_upgrade.sh
-#     v1.1
+#     v1.0
 # 
-#     Copyright (C) 2023 The Network Squirrel(SquirrelCraft)
-#     https://github.com/SquirrelCraft/squirrelpak-scripts     
+#     Copyright (C) 2025 The Network Squirrel(SquirrelCraft)
+#     https://github.com/SquirrelCraft     
 #
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
@@ -26,17 +26,25 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20VP Only"
-echo "  (cmd_post_upgrade.sh) - v1.1 - Licnesed under GNU GPLv3"
-echo "  Post install script for server "
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 1201 Only"
+echo "  (cmd_post_upgrade.sh) - v1.0 - Licnesed under GNU GPLv3"
+echo "  Restores config files post server pack upgrade"
 echo " ----------------------------------------------------------------------------"
-echo " | Copyright (C) 2023 The Network Squirrel(SquirrelCraft)                   |"
-echo " | https://github.com/SquirrelCraft/squirrelpak-scripts                     |"
+echo " | Copyright (C) 2025 The Network Squirrel(SquirrelCraft)                   |"
+echo " | https://github.com/SquirrelCraft                                         |"
 echo " | This program comes with ABSOLUTELY NO WARRANTY; This is free software,   |"
 echo " | and you are welcome to redistribute it under certain conditions          |"
 echo " ----------------------------------------------------------------------------"
 echo " "
 
-echo "Edit Server file"
-nano server.properties
+echo "Restore Backup config"
+cp -v ./config.bak/AdvancedBackups.properties ./config/AdvancedBackups.properties
+echo " "
+
+echo "Restore Voicechat Server config"
+mkdir -v ./config/voicechat
+cp -v ./config.bak/voicechat/voicechat-server.properties ./config/voicechat/voicechat-server.properties
+
+# echo "Edit Server file"
+# nano server.properties
 

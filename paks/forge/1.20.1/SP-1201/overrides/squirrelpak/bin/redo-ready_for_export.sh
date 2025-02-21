@@ -2,11 +2,11 @@
 #
 #     Internal script to re-ready for Export to CF
 #
-#     v3.1
+#     v3.2
 # 
 
 #     /squrrelpak/bin/redo-ready_for_export.sh
-#     Copyright (C) 2024 The Network Squirrel(SquirrelCraft)
+#     Copyright (C) 2025 The Network Squirrel(SquirrelCraft)
 #     https://github.com/SquirrelCraft/squirrelpak-scripts     
 #
 #     This program is free software: you can redistribute it and/or modify
@@ -25,10 +25,10 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Re-Export Script v3.1"
+echo "  SquirrelPAK CF Re-Export Script v3.2"
 echo "  (redo-ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
-echo " | Copyright (C) 2024 The Network Squirrel(SquirrelCraft)                   |"
+echo " | Copyright (C) 2025 The Network Squirrel(SquirrelCraft)                   |"
 echo " | https://github.com/SquirrelCraft/squirrelpak-scripts                     |"
 echo " | This program comes with ABSOLUTELY NO WARRANTY; This is free software,   |"
 echo " | and you are welcome to redistribute it under certain conditions          |"
@@ -219,6 +219,10 @@ mv -v hs_err_* $PAK_Removed_Files_Export_Dir/
 echo " "
 echo " Moving backups..."
 mv -v backups $PAK_Removed_Files_Export_Dir/
+
+echo " "
+echo " Moving voicechat..."
+mv -v ./config/voicechat $PAK_Removed_Files_Export_Dir/
 
 echo " "
 echo " Moving patchouli_data.json..."

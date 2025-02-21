@@ -1,12 +1,12 @@
 #!/bin/bash
 #
-#     Internal Server Script - SquirrelPAK 20VP Only
+#     Internal Server Script - SquirrelPAK 1201 Only
 #     Removes restore files created by cmd_restore_from_backup.sh
 #     cmd_cleanup_restore.sh
-#     v1.1
+#     v1.0
 # 
-#     Copyright (C) 2023 The Network Squirrel(SquirrelCraft)
-#     https://github.com/SquirrelCraft/squirrelpak-scripts     
+#     Copyright (C) 2025 The Network Squirrel(SquirrelCraft)
+#     https://github.com/SquirrelCraft     
 #
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by
@@ -26,12 +26,12 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK Internal Server Script - SquirrelPAK 20VP Only"
-echo "  (cmd_cleanup_restore.sh) - v1.1 - Licnesed under GNU GPLv3"
-echo "  Removes restore files created by cmd_restore_from_backup.sh "
+echo "  SquirrelPAK Internal Server Script - SquirrelPAK 1201 Only"
+echo "  (cmd_cleanup_restore.sh) - v1.0 - Licnesed under GNU GPLv3"
+echo "  Cleans up old restore files from restore from backup script"
 echo " ----------------------------------------------------------------------------"
-echo " | Copyright (C) 2023 The Network Squirrel(SquirrelCraft)                   |"
-echo " | https://github.com/SquirrelCraft/squirrelpak-scripts                     |"
+echo " | Copyright (C) 2025 The Network Squirrel(SquirrelCraft)                   |"
+echo " | https://github.com/SquirrelCraft                                         |"
 echo " | This program comes with ABSOLUTELY NO WARRANTY; This is free software,   |"
 echo " | and you are welcome to redistribute it under certain conditions          |"
 echo " ----------------------------------------------------------------------------"

@@ -263,3 +263,19 @@ debugLevel=0
 			#List of Loot Tables that will also spawn loot from the "lightmanscurrency:loot_addons/chest/tier6" loot table.
 			T6=[]
 			
+#Structure Settings
+#Requires a /reload command to be applied correctly
+[structures]
+	#Whether new village structures will have a chance to spawn in vanilla villages
+	#Default: true
+	villageHouses=true
+	
+	#Whether new structures will have a chance to spawn in ancient cities
+	#Default: true
+	ancientCity=true
+	
+	#Whether new special structures designed for Integrated Dungeons and Structures compatibility can spawn
+	#Does nothing if IDAS is not installed
+	#Default: true
+	idasStructures=true
+	

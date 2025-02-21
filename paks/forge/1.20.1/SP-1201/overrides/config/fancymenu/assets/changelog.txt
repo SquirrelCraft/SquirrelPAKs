@@ -1,27 +1,29 @@
-SquirrelPAK 1201 - Tech Squirrels v0.4.1-1.20.1
+SquirrelPAK 1201 - Tech Squirrels v0.5.0-1.20.1
 =====================================================
-SquirrelPAK 1201 Release 0.4.1
-File Version 0.4.1-1.20.1
+SquirrelPAK 1201 Release 0.5.0
+File Version 0.5.0-1.20.1
 
 Required Forge Version: 47.3.7
 =====================================================
 
  
-Beta 4.Try Agin
+Big Beta 5 
 
 Summary:
-- Updated mods that had updates
-- Added recipes for log to 4 chest, crafting,
-  saddles, and wither bones from skulls.
-- Added mod to fix tag errors
-- Added ElevatorMod
-- Tweaked MineDim files
+Updated mods that had updates. Added mod
+Uncrafter. Added recipes for Dimensional Cells,
+melted red and blue hearts. Overhauled the mine
+world ore generation. Fixed issue where ore creepers
+were not spawning.
+
+We are not shipping voicechat config files, fixes the
+upgrade issue were your settings got overwitten (sorry)
+
+Updated the internal server admin scripts. They were old
+and crusty. Now fresh and clean
  
-Forgot a few file tweaks. 4.0 will not be posted
-
-
 -------------------------------------------
- Mod Changes from v0.4.0-1.20.1
+ Mod Changes from v0.4.1-1.20.1
 -------------------------------------------
  
  
@@ -32,13 +34,30 @@ Forgot a few file tweaks. 4.0 will not be posted
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 1201 - Tech Squirrels v0.4.1-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.4.0-1.20.1
-Better_Modlist-0.1.11-all.jar                                  | Better_Modlist-0.1.10.jar
-monolib-forge-1.20.1-2.0.0.jar                                 | monolib-forge-1.20.1-1.4.1.jar
+ SquirrelPAK 1201 - Tech Squirrels v0.5.0-1.20.1               |  SquirrelPAK 1201 - Tech Squirrels v0.4.1-1.20.1
+AdvancedBackups-forge-1.20-3.7.1.jar                           | AdvancedBackups-forge-1.20-3.6.5.jar
+CraftTweaker-forge-1.20.1-14.0.55.jar                          | CraftTweaker-forge-1.20.1-14.0.50.jar
+CraterLib-Forge-1.20-2.1.3.jar                                 | CraterLib-Forge-1.20-2.1.2+hotfix.1.jar
+FarmersDelight-1.20.1-1.2.7.jar                                | FarmersDelight-1.20.1-1.2.6.jar
+amendments-1.20-1.2.16.jar                                     | amendments-1.20-1.2.14.jar
+cc-tweaked-1.20.1-forge-1.114.4.jar                            | cc-tweaked-1.20.1-forge-1.114.3.jar
+lightmanscurrency-1.20.1-2.2.4.2a.jar                          | lightmanscurrency-1.20.1-2.2.4.1c.jar
+lithostitched-forge-1.20.1-1.4.3.jar                           | lithostitched-forge-1.20.1-1.4.jar
+mcw-doors-1.1.2-mc1.20.1forge.jar                              | mcw-doors-1.1.1forge-mc1.20.1.jar
+mcw-stairs-1.0.1-1.20.1forge.jar                               | mcw-stairs-1.0.0-1.20.1forge.jar
+moonlight-1.20-2.13.58-forge.jar                               | moonlight-1.20-2.13.53-forge.jar
+rusticdelight-forge-1.20.1-1.3.2.jar                           | rusticdelight-forge-1.20.1-1.3.1.jar
+sophisticatedbackpacks-1.20.1-3.23.3.1192.jar                  | sophisticatedbackpacks-1.20.1-3.22.5.1179.jar
+sophisticatedcore-1.20.1-1.2.5.855.jar                         | sophisticatedcore-1.20.1-1.1.5.841.jar
+supplementaries-1.20-3.1.12.jar                                | supplementaries-1.20-3.1.10.jar
+uncrafter-forge-1.20.1-1.2.0.jar                               < 
+veggiesdelight-1.6.jar                                         | veggiesdelight-1.5.jar
+waystones-forge-1.20.1-14.1.9.jar                              | waystones-forge-1.20-14.1.6.jar
+workshop_for_handsome_adventurer--mc1.20.1--1.32.4.jar         | workshop_for_handsome_adventurer--mc1.20.1--1.32.3.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/1201-v0.4.1-1.20.1-ModsList.txt
+squirrelpak/versions/1201-v0.5.0-1.20.1-ModsList.txt
 -------------------------------------------
 
  
