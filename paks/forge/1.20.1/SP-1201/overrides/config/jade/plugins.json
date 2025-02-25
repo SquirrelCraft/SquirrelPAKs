@@ -1,10 +1,4 @@
 {
-  "framedblocks": {
-    "framed_item_frame": false
-  },
-  "enderchests": {
-    "hud": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -63,9 +57,6 @@
     "hud.status": true,
     "hud.contents": true
   },
-  "mekanismcardboardtooltip": {
-    "cardboard_box": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -73,12 +64,6 @@
     "coordinates": true,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "mcjtylib": {
-    "jadeaddons": true
-  },
-  "lootr": {
-    "info": true
   },
   "ae2": {
     "part_icon": true,
@@ -92,17 +77,10 @@
     "crafting_monitor": true,
     "part_name": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "workshop_for_handsome_adventurer": {
     "jade_plugin2": true,
     "jade_plugin3": true,
     "jade_plugin1": true
-  },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
   },
   "hammerlib": {
     "root": true
@@ -117,11 +95,6 @@
     "energy": true,
     "tooltip_renderer": true
   },
-  "shetiphiancore": {
-    "hud.rgb16": true,
-    "hud": true,
-    "hud.redstone": true
-  },
   "easy_villagers": {
     "villager": true,
     "converter": true,
@@ -129,14 +102,6 @@
   },
   "appliedcooking": {
     "kitchen_station": true
-  },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true,
-    "mushroom_colony": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "create": {
     "filter": true,
@@ -152,17 +117,56 @@
   "waystones": {
     "waystone": true
   },
-  "corpse": {
-    "corpse": true
-  },
   "cookingforblockheads": {
     "fridge": true,
     "oven": true,
     "sink": true,
+    "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
   },
   "barbequesdelight": {
     "grill": true
+  },
+  "framedblocks": {
+    "framed_item_frame": false
+  },
+  "enderchests": {
+    "hud": true
+  },
+  "mekanismcardboardtooltip": {
+    "cardboard_box": true
+  },
+  "mcjtylib": {
+    "jadeaddons": true
+  },
+  "lootr": {
+    "info": true
+  },
+  "balm": {
+    "jade": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "shetiphiancore": {
+    "hud.rgb16": true,
+    "hud": true,
+    "hud.redstone": true
+  },
+  "delightful": {
+    "crop_progress": true,
+    "pie_icons": true,
+    "mushroom_colony": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }

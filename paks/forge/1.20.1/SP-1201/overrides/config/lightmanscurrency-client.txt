@@ -59,6 +59,10 @@
 	#Default: 16
 	rowLimit=16
 	
+	#A default search filter that will be automatically added to the search parameters
+	#Default: "ready:true"
+	searchFilter="ready:true"
+	
 #Inventory Button Settings
 [inventory_buttons]
 	#The position that the notification & team manager buttons will be placed at in the players inventory.

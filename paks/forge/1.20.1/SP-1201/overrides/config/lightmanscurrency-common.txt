@@ -34,6 +34,75 @@ debugLevel=0
 	#Default: false
 	canCraftATMCard=false
 	
+	#Coin Mint Crafting
+	[crafting.coin_mint]
+		#Whether the Coin Mint machine can be crafted.
+		#Disabling will not remove and exist Coin Mints from the world, nor prevent their use.
+		#Default: true
+		canCraftCoinMint=true
+		
+		#Whether or not built-in coin mint recipes that turn resources into coins will be loaded.
+		#Default: true
+		canMint=true
+		
+		#Whether or not built-in coin mint recipes that turn coins back into resources will be loaded.
+		#Default: false
+		canMelt=false
+		
+		#Specific Minting Options
+		#Does nothing if 'canMint' is already false/disabled.
+		[crafting.coin_mint.mint]
+			#Whether the default mint recipe to mint copper coins from copper ingots will be loaded.
+			#Default: true
+			copper=true
+			
+			#Whether the default mint recipe to mint iron coins from iron ingots will be loaded.
+			#Default: true
+			iron=true
+			
+			#Whether the default mint recipe to mint gold coins from gold ingots will be loaded.
+			#Default: true
+			gold=true
+			
+			#Whether the default mint recipe to mint emerald coins from emeralds will be loaded.
+			#Default: true
+			emerald=true
+			
+			#Whether the default mint recipe to mint diamond coins from diamonds will be loaded.
+			#Default: true
+			diamond=true
+			
+			#Whether the default mint recipe to mint netherite coins from netherite ingots will be loaded.
+			#Default: true
+			netherite=true
+			
+		#Specific Melting Options
+		#Does nothing if 'canMelt' is already false/disabled.
+		[crafting.coin_mint.melt]
+			#Whether the default mint recipe to melt copper coins back into copper ingots will be loaded.
+			#Default: true
+			copper=true
+			
+			#Whether the default mint recipe to melt iron coins back into iron ingots will be loaded.
+			#Default: true
+			iron=true
+			
+			#Whether the default mint recipe to melt gold coins back into gold ingots will be loaded.
+			#Default: true
+			gold=true
+			
+			#Whether the default mint recipe to melt emerald coins back into emeralds will be loaded.
+			#Default: true
+			emerald=true
+			
+			#Whether the default mint recipe to melt diamond coins back into diamonds will be loaded.
+			#Default: true
+			diamond=true
+			
+			#Whether the default mint recipe to melt netherite coins back into netherite ingots will be loaded.
+			#Default: true
+			netherite=true
+			
 	#Money Chest Crafting
 	[crafting.money_chest]
 		#Whether the Money Chest can be crafted.

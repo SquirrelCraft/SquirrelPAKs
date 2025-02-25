@@ -4,6 +4,10 @@
 //  [xxxx, xxxx, xxxx],
 //  [xxxx, xxxx, xxxx]]);
 
+//craftingTable.addShapeless("REC_NAME", 
+//		ITEM_TO_CRAFT), 
+//		[ITEM_1,ITEM_2]);
+
 craftingTable.addShaped("sc_endertendril_seed", <item:endertendril:ender_tendril_seed>, [
   [<item:delightful:green_tea_leaf>, <item:minecraft:wheat_seeds>, <item:delightful:green_tea_leaf>],
   [<item:delightful:green_tea_leaf>, <item:minecraft:ender_eye>, <item:delightful:green_tea_leaf>],
@@ -108,3 +112,21 @@ recipes.remove(<item:packedup:diamond_pallet>);
 craftingTable.addShapeless("sc_palletof_diamond", 
 		<item:packedup:diamond_pallet>, 
 		[<item:packedup:pallet>,<item:minecraft:diamond_block> * 9]);
+
+// Add recipe for indust latex bucket 
+craftingTable.addShaped("sc_thermal_rubber", <item:thermal:rubber> * 12, [
+  [<item:industrialforegoing:latex_bucket>, <item:industrialforegoing:latex_bucket>, <item:minecraft:air>],
+  [<item:industrialforegoing:latex_bucket>, <item:industrialforegoing:latex_bucket>, <item:minecraft:air>],
+  [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
+
+craftingTable.addShaped("sc_thermal_cured_rubber", <item:thermal:cured_rubber> * 10, [
+  [<item:industrialforegoing:latex_bucket>, <item:industrialforegoing:latex_bucket>, <item:minecraft:air>],
+  [<item:industrialforegoing:latex_bucket>, <item:industrialforegoing:latex_bucket>, <item:minecraft:air>],
+  [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:fire_charge>]]);
+
+// Fix iron frame clash
+recipes.remove(<item:advgenerators:iron_frame>);
+craftingTable.addShaped("sc_ironframe", <item:advgenerators:iron_frame>, [
+ [<tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>],
+ [<tag:items:forge:nuggets/iron>, <item:minecraft:air>, <tag:items:forge:nuggets/iron>],
+ [<tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>]]);

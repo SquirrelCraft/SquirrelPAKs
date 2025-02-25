@@ -11,7 +11,7 @@ furnace.addRecipe("sc_std_emerald_coin_piles2nugs",
   <item:minecraft:emerald>, 
   <item:lightmanscurrency:coinpile_emerald>, 
   108, 
-  7200);
+  3600);
   
 # Furnace recipes for emerald coin block (36 coins)
 furnace.addRecipe("sc_std_emerald_coin_blocks2nugs", 
@@ -19,7 +19,7 @@ furnace.addRecipe("sc_std_emerald_coin_blocks2nugs",
   <item:minecraft:emerald> * 4, 
   <item:lightmanscurrency:coinblock_emerald>, 
   432, 
-  28800);
+  14400);
 
 
 
@@ -30,7 +30,7 @@ blastFurnace.addRecipe("sc_blast_emerald_coin_piles2nugs",
   <item:minecraft:emerald>, 
   <item:lightmanscurrency:coinpile_emerald>, 
   27, 
-  1800);
+  900);
   
 # Blast Furnace recipes for emerald coin block (36 coins)
 blastFurnace.addRecipe("sc_blast_emerald_coin_blocks2nugs", 
@@ -38,4 +38,4 @@ blastFurnace.addRecipe("sc_blast_emerald_coin_blocks2nugs",
   <item:minecraft:emerald> * 4, 
   <item:lightmanscurrency:coinblock_emerald>, 
   108, 
-  7200);
+  3600);
