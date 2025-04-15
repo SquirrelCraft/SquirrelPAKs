@@ -81,8 +81,40 @@ craftingTable.addShaped("sc_bag_of_yurting", <item:bagofyurting:bag_of_yurting>.
   [<tag:items:comforts:hammocks>, <tag:items:forge:ender_pearls>, <tag:items:comforts:hammocks>],
   [<tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>]]);
   
+craftingTable.addShaped("sc_bag_of_yurting3", <item:bagofyurting:bag_of_yurting>.withTag({radius: 1}), [
+  [<tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>],
+  [<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}), <tag:items:forge:ender_pearls>, <item:bagofyurting:bag_of_yurting>.withTag({radius: 0})],
+  [<tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>, <tag:items:comforts:hammocks>]]);
+
+
+craftingTable.addShapeless("sc_bag_of_yurting5", 
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 2}), 
+		[<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 1})]);
+
+craftingTable.addShapeless("sc_bag_of_yurting7", 
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 3}), 
+		[<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 2})]);
+
+craftingTable.addShapeless("sc_bag_of_yurting9", 
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 4}), 
+		[<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 3})]);
+
+craftingTable.addShapeless("sc_bag_of_yurting11", 
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 5}), 
+		[<item:bagofyurting:bag_of_yurting>.withTag({radius: 2}),<item:bagofyurting:bag_of_yurting>.withTag({radius: 2}),
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 1})]);
+
+craftingTable.addShapeless("sc_bag_of_yurting13", 
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 6}), 
+		[<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),<item:bagofyurting:bag_of_yurting>.withTag({radius: 0}),
+		<item:bagofyurting:bag_of_yurting>.withTag({radius: 1})]);
+
+
   
-// Fix packed up pallets
+// Fix packed up pallets and bags
 craftingTable.remove(<item:packedup:netherite_pallet>);
 craftingTable.addShapeless("sc_palletof_netherite", 
 		<item:packedup:netherite_pallet>, 
@@ -113,6 +145,14 @@ craftingTable.addShapeless("sc_palletof_diamond",
 		<item:packedup:diamond_pallet>, 
 		[<item:packedup:pallet>,<item:minecraft:diamond_block> * 9]);
 
+recipes.remove(<item:packedup:gravel_bag>);
+craftingTable.addShapeless("sc_bagof_gravel", 
+		<item:packedup:gravel_bag>, 
+		[<item:supplementaries:sack>,<item:minecraft:gravel> * 9]);
+
+
+
+
 // Add recipe for indust latex bucket 
 craftingTable.addShaped("sc_thermal_rubber", <item:thermal:rubber> * 12, [
   [<item:industrialforegoing:latex_bucket>, <item:industrialforegoing:latex_bucket>, <item:minecraft:air>],
@@ -130,3 +170,5 @@ craftingTable.addShaped("sc_ironframe", <item:advgenerators:iron_frame>, [
  [<tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>],
  [<tag:items:forge:nuggets/iron>, <item:minecraft:air>, <tag:items:forge:nuggets/iron>],
  [<tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>, <tag:items:forge:nuggets/iron>]]);
+
+ 

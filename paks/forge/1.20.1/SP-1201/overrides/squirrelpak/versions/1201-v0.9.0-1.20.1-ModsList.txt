@@ -1,4 +1,4 @@
-Current Directory Snapshot
+ SquirrelPAK 1201 - Tech Squirrels v0.9.0-1.20.1
 AEInfinityBooster-1.20.1-1.0.0+20.jar
 AdvancedAE-1.1.2-1.20.1.jar
 AdvancedBackups-forge-1.20-3.7.1.jar
@@ -64,7 +64,6 @@ Towns-and-Towers-1.12-Fabric+Forge.jar
 XeKr's Decoration-1.20.1-Forge-0.8.5.jar
 ZeroCore2-1.20.1-2.1.45.jar
 ad_astra-forge-1.20.1-1.15.19.jar
-advanced-xray-forge-1.20.1-2.18.1-build.22.jar
 advancednetherite-forge-2.1.3-1.20.1.jar
 advgenerators-1.6.0.6-mc1.20.1.jar
 ae2insertexportcard-1.20.1-1.3.0.jar
@@ -176,7 +175,6 @@ new_shield_variants-merged-1.20.1-2.0.0.jar
 onlyhammersandexcavators-com.blocklegend001.jar
 oreharvester-1.20.1-1.5.jar
 packedup-0.5.4-beta.jar
-panoramica_forge_1.2.1_MC_1.19-1.19.2.jar
 precisionenchanter-1.20.1-1.1.jar
 prometheus-forge-1.20.1-1.2.5.jar
 randomvillagenames-1.20.1-3.8.jar
@@ -230,7 +228,6 @@ voicechat-forge-1.20.1-2.5.29.jar
 void_lib-1.1.5.jar
 waystones-forge-1.20.1-14.1.11.jar
 workshop_for_handsome_adventurer--mc1.20.1--1.32.5.jar
-worldedit-mod-7.2.15.jar
 xnet-1.20-6.1.6.jar
 xnetgases-1.20.1-5.1.4.jar
 xptome-1.20.1-2.2.1.jar
