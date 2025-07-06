@@ -1,4 +1,5 @@
-Mod List for SquirrelPAK 1201
+Mod List for SquirrelPAK 1201 - Beta 10.2
+
 
 [Ad Astra](https://modrinth.com/mod/ad-astra)
 [Advanced Backups](https://modrinth.com/mod/advanced-backups)
@@ -9,6 +10,8 @@ Mod List for SquirrelPAK 1201
 [AE2 Import Export Card](https://modrinth.com/mod/ae2-import-export-card)
 [AE2 QoL Recipes](https://modrinth.com/mod/ae2-qol-recipes)
 [AEInfinityBooster](https://modrinth.com/mod/aeinfinitybooster)
+[Alchemistry by Dark_Arcana](https://www.curseforge.com/minecraft/mc-mods/alchemistry/files/4770614)
+[AlchemyLib by Dark_Arcana](https://www.curseforge.com/minecraft/mc-mods/alchemylib/files/5037781)
 [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
 [Amendments](https://modrinth.com/mod/amendments)
 [AppleSkin](https://modrinth.com/mod/appleskin)
@@ -17,7 +20,6 @@ Mod List for SquirrelPAK 1201
 [Applied Energistics 2](https://modrinth.com/mod/ae2)
 [Architectury API](https://modrinth.com/mod/architectury-api)
 [Areas](https://modrinth.com/mod/areas)
-[Argonauts (Parties & Guilds)](https://modrinth.com/mod/argonauts)
 [Artemis' Laboratory Blocks](https://modrinth.com/mod/artemis-laboratory-blocks)
 [Bag of Yurting](https://modrinth.com/mod/bag-of-yurting)
 [Balm](https://modrinth.com/mod/balm)
@@ -33,11 +35,11 @@ Mod List for SquirrelPAK 1201
 [Botarium](https://modrinth.com/mod/botarium)
 [Butcher's Delight Foods](https://modrinth.com/mod/butchers-delight-foods)
 [Butcher's Delight](https://modrinth.com/mod/butchers-delight)
-[Cadmus (Land Claiming)](https://modrinth.com/mod/cadmus)
 [Caelus API](https://modrinth.com/mod/caelus)
 [Carry On](https://modrinth.com/mod/carry-on)
 [CB: Compressed Blocks](https://modrinth.com/mod/cb-compressed-blocks)
 [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
+[ChemLib by Dark_Arcana](https://www.curseforge.com/minecraft/mc-mods/chemlib)
 [Citadel](https://modrinth.com/mod/citadel)
 [Cloth Config API](https://modrinth.com/mod/cloth-config)
 [Clumps](https://modrinth.com/mod/clumps)
@@ -57,7 +59,6 @@ Mod List for SquirrelPAK 1201
 [Create: Applied Kinetics](https://modrinth.com/mod/create-applied-kinetics)
 [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)
 [Create: New Age](https://modrinth.com/mod/create-new-age)
-[Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 [Create](https://modrinth.com/mod/create)
 [CreativeCore](https://modrinth.com/mod/creativecore)
 [Cristel Lib](https://modrinth.com/mod/cristel-lib)
@@ -83,8 +84,10 @@ Mod List for SquirrelPAK 1201
 [Ender Tendril](https://modrinth.com/mod/ender-tendril)
 [EnderChests](https://modrinth.com/mod/enderchests)
 [EnderTanks](https://modrinth.com/mod/endertanks)
+[Engineer's Decor Ported](https://www.curseforge.com/minecraft/mc-mods/engineers-decor-ported)
 [Experimental Settings Disabler](https://modrinth.com/mod/experimental-settings-disabler)
 [Exposure](https://modrinth.com/mod/exposure)
+[Extended AE](https://modrinth.com/mod/extended-ae)
 [Extreme Reactors](https://modrinth.com/mod/extreme-reactors)
 [FancyMenu](https://modrinth.com/mod/fancymenu)
 [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
@@ -95,11 +98,12 @@ Mod List for SquirrelPAK 1201
 [Fruits Delight](https://modrinth.com/mod/fruits-delight)
 [Functional Storage](https://modrinth.com/mod/functional-storage)
 [Fusion (Connected Textures)](https://modrinth.com/mod/fusion-connected-textures)
+[Gauges and Switches Ported](https://www.curseforge.com/minecraft/mc-mods/gauges-and-switches-ported)
 [Geckolib](https://modrinth.com/mod/geckolib)
 [GlitchCore](https://modrinth.com/mod/glitchcore)
 [Glodium](https://modrinth.com/mod/glodium)
+[GuideME](https://modrinth.com/mod/guideme)
 [HammerLib](https://modrinth.com/mod/hammer-lib)
-[Heracles (Questing)](https://modrinth.com/mod/heracles)
 [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing)
 [Iron Chests](https://modrinth.com/mod/iron-chests)
 [Iron Shulker Boxes](https://modrinth.com/mod/iron-shulker-boxes)
@@ -127,9 +131,9 @@ Mod List for SquirrelPAK 1201
 [Macaw's Paintings](https://modrinth.com/mod/macaws-paintings)
 [Macaw's Paths and Pavings](https://modrinth.com/mod/macaws-paths-and-pavings)
 [Macaw's Roofs](https://modrinth.com/mod/macaws-roofs)
+[Macaw's Stairs](https://modrinth.com/mod/macaws-stairs)
 [Macaw's Trapdoors](https://modrinth.com/mod/macaws-trapdoors)
 [Macaw's Windows](https://modrinth.com/mod/macaws-windows)
-[Macaws Stairs](https://modrinth.com/mod/macaws-stairs)
 [Maintenance Mode](https://modrinth.com/mod/maintenancemode)
 [McJtyLib](https://modrinth.com/mod/mcjtylib)
 [ME Requester](https://modrinth.com/mod/merequester)
@@ -150,6 +154,10 @@ Mod List for SquirrelPAK 1201
 [Mysterious Mountain Lib](https://modrinth.com/mod/mmlib)
 [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
 [New Shield Variants](https://modrinth.com/mod/new-shield-variants)
+[Odyssey Allies](https://modrinth.com/mod/odyssey-allies)
+[Odyssey Claims](https://modrinth.com/mod/odyssey-claims)
+[Odyssey Quests](https://modrinth.com/mod/odyssey-quests)
+[Odyssey Roles](https://modrinth.com/mod/odyssey-roles)
 [Only Hammers And Excavators](https://modrinth.com/mod/only-hammers-and-excavators)
 [Open Loader](https://modrinth.com/mod/open-loader)
 [Ore Creeper](https://modrinth.com/mod/ore-creeper)
@@ -158,7 +166,6 @@ Mod List for SquirrelPAK 1201
 [Patchouli](https://modrinth.com/mod/patchouli)
 [Pineapple Delight](https://modrinth.com/mod/pineapple-delight)
 [Precision Enchanter](https://modrinth.com/mod/precision-enchanter)
-[Prometheus (Permissions & Utilities)](https://modrinth.com/mod/prometheus)
 [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 [Random Village Names](https://modrinth.com/mod/random-village-names)
 [Realistic Bees](https://modrinth.com/mod/realistic-bees)
@@ -228,11 +235,3 @@ Mod List for SquirrelPAK 1201
 [XP Tome](https://modrinth.com/mod/xp-tome)
 [ZeroCore](https://modrinth.com/mod/zerocore)
 [Zume](https://modrinth.com/mod/zume)
-advanced-xray-forge-1.20.1-2.18.1-build.22.jar
-alchemistry-1.20.1-2.3.4.jar
-alchemylib-1.20.1-1.0.30.jar
-chemlib-1.20.1-2.0.18.jar
-engineersdecor-1.3.31.jar
-panoramica_forge_1.2.1_MC_1.19-1.19.2.jar
-rsgauges-1.2.22.jar
-worldedit-mod-7.2.15.jar

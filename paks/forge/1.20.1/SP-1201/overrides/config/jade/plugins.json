@@ -51,11 +51,24 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
   "endertanks": {
     "hud.basic": true,
     "hud": true,
     "hud.status": true,
     "hud.contents": true
+  },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -103,17 +116,6 @@
   "appliedcooking": {
     "kitchen_station": true
   },
-  "create": {
-    "filter": true,
-    "backtank_capacity": true,
-    "goggles.requires_goggles": true,
-    "goggles": true,
-    "blaze_burner": true,
-    "exact_block": true,
-    "crafting_blueprint": true,
-    "goggles.detailed": false,
-    "placard": true
-  },
   "waystones": {
     "waystone": true
   },
@@ -134,14 +136,20 @@
   "enderchests": {
     "hud": true
   },
+  "lightmanscurrency": {
+    "model_variant": true,
+    "model_variant.locked": false,
+    "paygate": true
+  },
   "mekanismcardboardtooltip": {
     "cardboard_box": true
   },
-  "mcjtylib": {
-    "jadeaddons": true
+  "expatternprovider": {
+    "jade_chamber": true,
+    "jade_wireless": true
   },
-  "lootr": {
-    "info": true
+  "functionalstorage": {
+    "armory": true
   },
   "balm": {
     "jade": true
@@ -152,6 +160,9 @@
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
   },
   "shetiphiancore": {
     "hud.rgb16": true,

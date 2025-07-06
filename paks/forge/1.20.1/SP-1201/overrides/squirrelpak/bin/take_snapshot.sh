@@ -122,7 +122,7 @@ echo "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
 # Create current state file
 if [ "$PAK_Debug " == "true " ]; then echo "Create Mod List File"; fi
-echo "Current Directory Snapshot" > $PAK_versons_dir/$PAK_Snapshot_ModListName
+echo "Current Directory Snapshot - $PAK_Snapshot_Time " > $PAK_versons_dir/$PAK_Snapshot_ModListName
 ls -y ./mods >> $PAK_versons_dir/$PAK_Snapshot_ModListName
 if [ "$PAK_Debug " == "true " ]; then echo "Temp File $PAK_Snapshot_ModListName created"; fi
 echo " "

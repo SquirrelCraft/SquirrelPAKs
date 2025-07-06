@@ -20,7 +20,7 @@
 	reverseHUD = false
 	#Scale of the text displayed on the HUD.
 	#Range: 0.25 ~ 1.0
-	hudScale = 0.6
+	hudScale = 1
 	#Enable item information HUD during gameplay
 	enableHUD = true
 	#Color of energy in item durability display.
@@ -50,7 +50,7 @@
 	[client.gui]
 		#Opacity of HUD used by MekaSuit.
 		#Range: 0.0 ~ 1.0
-		hudOpacity = 0.4000000059604645
+		hudOpacity = 0.7000000059604645
 		#Color (RGB) of HUD used by MekaSuit.
 		#Range: 0 ~ 16777215
 		hudColor = 4257264
@@ -70,8 +70,8 @@
 		[client.gui.window]
 
 			[client.gui.window.color]
-				x = 2147483647
-				y = 2147483647
+				x = 44
+				y = 33
 
 			[client.gui.window.confirmation]
 				x = 2147483647
@@ -90,8 +90,8 @@
 				y = 2147483647
 
 			[client.gui.window.mekaSuitHelmet]
-				x = 2147483647
-				y = 2147483647
+				x = 54
+				y = 48
 
 			[client.gui.window.rename]
 				x = 2147483647
@@ -102,16 +102,16 @@
 				y = 2147483647
 
 			[client.gui.window.sideConfig]
-				x = 2147483647
-				y = 2147483647
+				x = 10
+				y = 15
 
 			[client.gui.window.transporterConfig]
-				x = 2147483647
-				y = 2147483647
+				x = 10
+				y = 15
 
 			[client.gui.window.upgrade]
-				x = 2147483647
-				y = 2147483647
+				x = 10
+				y = 15
 
 	#QIO Config
 	[client.qio]
