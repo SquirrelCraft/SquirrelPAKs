@@ -1,3 +1,159 @@
+SquirrelPAK 1201 - Tech Squirrels v0.11.0-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 0.11.0
+File Version 0.11.0-1.20.1
+
+Required Forge Version: 47.4.3
+=====================================================
+
+ 
+Update 2026! 
+
+Summary:
+We have updated mods and fixed some scripts while we were at it...
+
+I know about time huh?
+ 
+-------------------------------------------
+ Mod Changes from v0.10.2-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v0.11.0-1.20.1               |   SquirrelPAK 1201 - Tech Squirrels v0.10.2-1.20.1
+AdvancedAE-1.3.2-1.20.1.jar                                     |  AdvancedAE-1.1.2-1.20.1.jar
+ae2wtlib-15.3.3-forge.jar                                       |  ae2wtlib-15.2.3-forge.jar
+amendments-1.20-2.2.5.jar                                       |  amendments-1.20-1.2.19.jar
+appliedenergistics2-forge-15.4.10.jar                           |  appliedenergistics2-forge-15.4.5.jar
+balm-forge-1.20.1-7.3.38-all.jar                                |  balm-forge-1.20.1-7.3.31-all.jar
+Better_Modlist-0.1.14-all.jar                                   |  Better_Modlist-0.1.12-all.jar
+BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar            |  BetterCompatibilityChecker-3.0.3-build.65+mc1.20.1.jar
+cc-tweaked-1.20.1-forge-1.117.0.jar                             |  cc-tweaked-1.20.1-forge-1.116.0.jar
+citadel-2.6.3-1.20.1.jar                                        |  citadel-2.6.2-1.20.1.jar
+collective-1.20.1-8.13.jar                                      |  collective-1.20.1-8.3.jar
+connectedglass-1.1.14-forge-mc1.20.1.jar                        |  connectedglass-1.1.13-forge-mc1.20.1.jar
+cookingforblockheads-forge-1.20.1-16.0.15.jar                   |  cookingforblockheads-forge-1.20.1-16.0.13.jar
+corn_delight-1.1.9-1.20.1.jar                                   |  corn_delight-1.1.8-1.20.1.jar
+corpse-forge-1.20.1-1.0.23.jar                                  |  corpse-forge-1.20.1-1.0.21.jar
+crabbersdelight-1.20.1-1.2.3.jar                                |  CrabbersDelight-1.20.1-1.1.7e.jar
+CraftTweaker-forge-1.20.1-14.0.59.jar                           |  CraftTweaker-forge-1.20.1-14.0.57.jar
+CraterLib-Forge-1.20-3.0.1.jar                                  |  CraterLib-Forge-1.20-2.1.5.jar
+create-1.20.1-6.0.8.jar                                         |  create-1.20.1-6.0.6.jar
+create-new-age-1.1.7f+forge-mc1.20.1.jar                        |  create-new-age-forge-1.20.1-1.1.4.jar
+defaultoptions-forge-1.20.1-18.0.4.jar                          |  defaultoptions-forge-1.20-18.0.1.jar
+Delightful-1.20.1-3.7.8.jar                                     |  Delightful-1.20.1-3.7.3.jar
+durabilitytooltip-1.1.6-forge-mc1.20.jar                        |  durabilitytooltip-1.1.5-forge-mc1.20.jar
+dynamiclights-v1.9-mc1.17-1.21.9-mod.jar                        |  dynamiclights-v1.8.6-mc1.17-1.21.5-mod.jar
+easy_mob_farm-forge-1.20.1-10.3.0.jar                           |  easy_mob_farm-forge-1.20.1-10.0.0.jar
+easy-villagers-forge-1.20.1-1.1.39.jar                          |  easy-villagers-forge-1.20.1-1.1.33.jar
+EnchantmentDescriptions-Forge-1.20.1-17.1.20.jar                |  EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar
+enderchests-forge-1.20.1-1.4.jar                                |  enderchests-forge-1.20.1-1.3.jar
+EnderIO-1.20.1-6.2.17-beta-all.jar                              |  EnderIO-1.20.1-6.2.11-beta-all.jar
+endertanks-forge-1.20.1-1.5.jar                                 |  endertanks-forge-1.20.1-1.4.jar
+ExtendedAE-1.20-1.4.9-forge.jar                                 |  ExtendedAE-1.20-1.4.2-forge.jar
+fancymenu_forge_3.7.0_MC_1.20.1.jar                             |  fancymenu_forge_3.6.2_MC_1.20.1.jar
+FarmersDelight-1.20.1-1.2.9.jar                                 |  FarmersDelight-1.20.1-1.2.8.jar
+farmingforblockheads-forge-1.20.1-14.0.4.jar                    |  farmingforblockheads-forge-1.20.1-14.0.2.jar
+fastconfigapi-2.1.2.jar                                         |  fastconfigapi-2.1.0.jar
+FramedBlocks-9.4.3.jar                                          |  FramedBlocks-9.4.2.jar
+fruitsdelight-1.1.1.jar                                         |  fruitsdelight-1.0.22.jar
+fusion-1.2.12-forge-mc1.20.1.jar                                |  fusion-1.2.7b-forge-mc1.20.1.jar
+geckolib-forge-1.20.1-4.8.2.jar                                 |  geckolib-forge-1.20.1-4.7.2.jar
+guideme-20.1.14.jar                                             |  guideme-20.1.11.jar
+industrial-foregoing-1.20.1-3.5.21.jar                          |  industrial-foregoing-1.20.1-3.5.20.jar
+Jade-1.20.1-Forge-11.13.2.jar                                   |  Jade-1.20.1-Forge-11.13.1.jar
+jei-1.20.1-forge-15.20.0.129.jar                                |  jei-1.20.1-forge-15.20.0.112.jar
+kotlinforforge-4.12.0-all.jar                                   |  kotlinforforge-4.11.0-all.jar
+labellingcontainers-1.8.2.jar                                   |  labellingcontainers-1.8.0.jar
+laboratoryblocks-1.20.1-0.7r-fusion.jar                         |  laboratoryblocks-1.20.1-0.5r-fusion.jar
+lightingfixtures-0.4.5-forge-1.20.1.jar                         |  lightingfixtures-0.3.5-forge-1.20.1.jar
+lightmanscurrency-1.20.1-2.3.0.4c.jar                           |  lightmanscurrency-1.20.1-2.2.6.0b.jar
+lithostitched-forge-1.20.1-1.4.11.jar                           |  lithostitched-forge-1.20.1-1.4.10.jar
+lootr-forge-1.20-0.7.35.94.jar                                  |  lootr-forge-1.20-0.7.35.90.jar
+mcw-furniture-3.4.1-mc1.20.1forge.jar                           |  mcw-fences-1.2.0-1.20.1forge.jar
+mcw-holidays-1.1.2-mc1.20.1forge.jar                            |  mcw-furniture-3.3.0-mc1.20.1forge.jar
+mcw-lights-1.1.5-mc1.20.1forge.jar                              |  mcw-holidays-1.1.0-mc1.20.1forge.jar
+mcw-mcwfences-1.2.1-mc1.20.1forge.jar                           |  mcw-lights-1.1.2-mc1.20.1forge.jar
+mcw-mcwpaths-1.1.1-mc1.20.1forge.jar                            <  
+mcw-mcwstairs-1.0.2-mc1.20.1forge.jar                           <  
+mcw-mcwwindows-2.4.2-mc1.20.1forge.jar                          <  
+                                                                >  mcw-paths-1.1.0forge-mc1.20.1.jar
+mcw-trapdoors-1.1.5-mc1.20.1forge.jar                           |  mcw-stairs-1.0.1-1.20.1forge.jar
+                                                                >  mcw-trapdoors-1.1.4-mc1.20.1forge.jar
+                                                                >  mcw-windows-2.4.0-1.20.1forge.jar
+moonlight-1.20-2.16.23-forge.jar                                |  moonlight-1.20-2.14.11-forge.jar
+mysterious_mountain_lib-1.6.30-1.20.1.jar                       |  mysterious_mountain_lib-1.5.22-1.20.1.jar
+new_shield_variants-merged-1.20.1-2.1.0.jar                     |  new_shield_variants-merged-1.20.1-2.0.0.jar
+onlyhammersandexcavators-1.20.1-0.4.jar                         |  onlyhammersandexcavators-com.blocklegend001.jar
+PineappleDelight-1.1.2-1.20.1-forge.jar                         |  PineappleDelight-Forge-1.20-1.0.13.jar
+PuzzlesLib-v8.1.33-1.20.1-Forge.jar                             |  PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+randomvillagenames-1.20.1-4.0.jar                               |  randomvillagenames-1.20.1-3.8.jar
+rusticdelight-forge-1.20.1-1.5.0.jar                            |  rusticdelight-forge-1.20.1-1.4.1.jar
+sawmill-1.20-1.4.10.jar                                         |  sawmill-1.20-1.4.7.jar
+shetiphiancore-forge-1.20.1-1.5.jar                             |  shetiphiancore-forge-1.20.1-1.4.jar
+sophisticatedbackpacks-1.20.1-3.24.20.1500.jar                  |  sophisticatedbackpacks-1.20.1-3.23.19.1263.jar
+sophisticatedcore-1.20.1-1.2.119.1369.jar                       |  sophisticatedcore-1.20.1-1.2.71.1022.jar
+supermartijn642corelib-1.1.19-forge-mc1.20.1.jar                |  supermartijn642corelib-1.1.18-forge-mc1.20.1.jar
+supplementaries-1.20-3.1.42-forge.jar                           |  supplementaries-1.20-3.1.34.jar
+VeggiesDelight-1.20.1-1.9.2.jar                                 |  veggiesdelight-1.7.2.jar
+voicechat-forge-1.20.1-2.6.11.jar                               |  voicechat-forge-1.20.1-2.5.33.jar
+void_lib-1.1.6.jar                                              |  void_lib-1.1.5.jar
+waystones-forge-1.20.1-14.1.18.jar                              |  waystones-forge-1.20.1-14.1.13.jar
+workshop_for_handsome_adventurer--mc1.20.1--1.34.6.jar          |  workshop_for_handsome_adventurer--mc1.20.1--1.33.1.jar
+                                                                >  XeKr's Decoration-1.20.1-Forge-0.8.5.jar
+zume-1.2.1.jar                                                  |  zume-1.1.4.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v0.11.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+
+Due to a release bug older versions show as newer. Correct version is 
+listed below. Will always show an update available. 
+- BetterCompatibilityChecker - 3.0.3-build.65+mc1.20  (ver issue)
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 1201 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 14.7 (23H124)
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   OpenJDK Runtime Environment Temurin-17.0.14+7 (build 17.0.14+7)
+   OpenJDK 64-Bit Server VM Temurin-17.0.14+7 (build 17.0.14+7, mixed mode, sharing)
+
 SquirrelPAK 1201 - Tech Squirrels v0.10.2-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.10.2

@@ -3,7 +3,7 @@
 #     Internal script to diff files
 #     wtd.sh - Shows the diff between two versions of the PAK
 #     wtd.sh [MODList1] [ModList2]
-#     v1.1.1
+#     v1.1.2
 # 
 
 #     wtd.sh - Shows the diff between two versions of the PAK
@@ -132,7 +132,7 @@ if [ ! "$3 " == "true " ]; then
     echo " "
 fi
 
-diff --expand-tabs --tabsize 1 --side-by-side --suppress-common-lines "$1" "$2"
+diff --expand-tabs --tabsize 1 --side-by-side --suppress-common-lines --ignore-blank-lines --ignore-case "$1" "$2"
 
 
 # Skip if $3 is true for calling scripts
@@ -140,4 +140,11 @@ if [ ! "$3 " == "true " ]; then
     echo " "
     echo "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = ="
     echo " "
+fi
+
+if [ "$PAK_Debug " == "true " ]; then
+    echo "Files diffed"
+    echo "$1"
+    echo "vs"
+    echo "$2"
 fi

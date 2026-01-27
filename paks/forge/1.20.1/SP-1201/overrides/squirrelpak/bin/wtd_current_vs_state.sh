@@ -90,6 +90,8 @@ PAK_Full_Ver_Name="SquirrelPAK $PAK_NAME - $PAK_DESC v$PAK_VER"
 PAK_Exported_ModListName=$PAK_NAME-v$PAK_VER-ModsList.txt
 PAK_Short_Ver_Name="SquirrelPAK $PAK_NAME - v$PAK_VER"
 PAK_Current_State_ModListName=$PAK_NAME-CurrentState-ModsList.txt
+PAK_Snapshot_Time=`date '+%D %r'`
+
 
 # Debug output
 if [ "$PAK_Debug " == "true " ]; then
@@ -122,8 +124,8 @@ echo " "
 
 # Create current state file
 if [ "$PAK_Debug " == "true " ]; then echo "Create Mod List File"; fi
-echo "Current Directory State" > $PAK_versons_dir/$PAK_Current_State_ModListName
-ls -y ./mods >> $PAK_versons_dir/$PAK_Current_State_ModListName
+echo "Current Directory State - $PAK_Snapshot_Time" > $PAK_versons_dir/$PAK_Current_State_ModListName
+ls ./mods | sort --ignore-case >> $PAK_versons_dir/$PAK_Current_State_ModListName
 if [ "$PAK_Debug " == "true " ]; then echo "Temp File $PAK_Current_State_ModListName created"; fi
 
 
@@ -137,7 +139,7 @@ echo " "
 # Remove temp file
 if [ "$PAK_Debug " == "true " ]; then echo "Remove Temp File $PAK_Current_State_ModListName "; fi
 if [ "$PAK_Debug " == "true " ]; then
-	rm -v $PAK_versons_dir/$PAK_Current_State_ModListName
+        echo "We did not remove the file: $PAK_versons_dir/$PAK_Current_State_ModListName"
 else
 	rm $PAK_versons_dir/$PAK_Current_State_ModListName
 fi

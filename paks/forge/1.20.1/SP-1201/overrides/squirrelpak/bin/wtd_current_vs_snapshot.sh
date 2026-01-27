@@ -95,6 +95,7 @@ PAK_Short_Ver_Name="SquirrelPAK $PAK_NAME - v$PAK_VER"
 PAK_Current_State_ModListName=$PAK_NAME-CurrentState-ModsList.txt
 PAK_Snapshot_ModListName=$PAK_NAME-Snapshot-ModsList.txt
 
+PAK_Snapshot_Time=`date '+%D %r'`
 
 # Debug output
 if [ "$PAK_Debug " == "true " ]; then
@@ -127,8 +128,8 @@ echo " "
 
 # Create current state file
 if [ "$PAK_Debug " == "true " ]; then echo "Create Mod List File"; fi
-echo "Current Directory State" > $PAK_versons_dir/$PAK_Current_State_ModListName
-ls -y ./mods >> $PAK_versons_dir/$PAK_Current_State_ModListName
+echo "Current Directory State - $PAK_Snapshot_Time" > $PAK_versons_dir/$PAK_Current_State_ModListName
+ls ./mods | sort --ignore-case >> $PAK_versons_dir/$PAK_Current_State_ModListName
 if [ "$PAK_Debug " == "true " ]; then echo "Temp File $PAK_Current_State_ModListName created"; fi
 
 

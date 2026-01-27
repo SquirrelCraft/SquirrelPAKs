@@ -4,7 +4,7 @@ upgrade these mods, will break the pak!
 
 Due to a release bug older versions show as newer. Correct version is 
 listed below. Will always show an update available. 
-- BetterCompatibilityChecker - 3.0.1-build.58+mc1.20  (ver issue)
+- BetterCompatibilityChecker - 3.0.3-build.65+mc1.20  (ver issue)
 
 
 Important Links:

@@ -393,6 +393,11 @@ echo " "
 echo " Moving schematics..."
 mv -v schematics $PAK_Removed_Files_Export_Dir/
 
+echo " "
+echo " Moving ServerPAK if there..."
+mv -v Server-SquirrelPAK* $PAK_Removed_Files_Export_Dir/
+
+
 
 # Move saved games
 echo " Move saved games to:"
@@ -519,7 +524,7 @@ echo " ---------------------------------------- "
 echo " "
 echo " Create Mod List File"
 echo " $PAK_Full_Ver_Name" > $PAK_versons_dir/$PAK_Exported_ModListName
-ls -y ./mods >> $PAK_versons_dir/$PAK_Exported_ModListName
+ls ./mods | sort --ignore-case >> $PAK_versons_dir/$PAK_Exported_ModListName
 echo " File $PAK_Exported_ModListName created"
 echo " "
 echo " ----------------------------------------------------------------------------"
