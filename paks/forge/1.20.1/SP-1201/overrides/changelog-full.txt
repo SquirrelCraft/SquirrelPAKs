@@ -1,3 +1,79 @@
+SquirrelPAK 1201 - Tech Squirrels v1.0.0-1.20.1
+=====================================================
+SquirrelPAK 1201 Release 1.0.0
+File Version 1.0.0-1.20.1
+
+Required Forge Version: 47.4.3
+=====================================================
+
+ 
+V1.0
+
+Summary:
+We have lift off! We are marking this 1.0
+
+We also fixed a few bugs and we here it is
+ 
+-------------------------------------------
+ Mod Changes from v0.11.0-1.20.1
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 1201 - Tech Squirrels v1.0.0-1.20.1                |   SquirrelPAK 1201 - Tech Squirrels v0.11.0-1.20.1
+BetterCompatibilityChecker-3.0.3-build.65+mc1.20.1.jar          |  BetterCompatibilityChecker-3.0.1-build.58+mc1.20.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/1201-v1.0.0-1.20.1-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+
+Due to a release bug older versions show as newer. Correct version is 
+listed below. Will always show an update available. 
+- BetterCompatibilityChecker - 3.0.3-build.65+mc1.20  (ver issue)
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-1201)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 1201 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 14.7 (23H124)
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   OpenJDK Runtime Environment Temurin-17.0.14+7 (build 17.0.14+7)
+   OpenJDK 64-Bit Server VM Temurin-17.0.14+7 (build 17.0.14+7, mixed mode, sharing)
+
 SquirrelPAK 1201 - Tech Squirrels v0.11.0-1.20.1
 =====================================================
 SquirrelPAK 1201 Release 0.11.0

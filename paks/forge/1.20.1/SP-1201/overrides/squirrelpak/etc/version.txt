@@ -1,7 +1,7 @@
 # SquirrelCraft SquirrelPAK Version File - v3.0
 #
 
-PAK_RELEASE=0.11.0
+PAK_RELEASE=1.0.0
 PAK_MC_VER=1.20.1
 
 
@@ -25,7 +25,7 @@ PAK_Menu_R2_Menu_Music_Credits="Party Pirates by Alexander Nakarada (Squirrel Re
 PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
 
 # Beta/Alpha Settings
-PAK_IS_BETA=true
+PAK_IS_BETA=false
 PAK_Beta_Text="&cBeta"
 PAK_Beta_Header="&cBeta &eVersion &f#10.2"
 PAK_Beta_Tagline="&fIt's &cBeta &fI am sure it will work?"
