@@ -1,0 +1,5 @@
+# Start of Pak Tools mods for SquirrelPAK 123
+# World Edit
+worldedit-mod*
+# - - - - -
+# Blank Line

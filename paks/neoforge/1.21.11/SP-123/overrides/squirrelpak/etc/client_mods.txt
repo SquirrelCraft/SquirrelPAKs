@@ -1,0 +1,32 @@
+# Start client mods for SquirrelPAK 123
+# Better Advancements
+BetterAdvancements*
+# BetterF3
+BetterF3*
+# Controlling
+Controlling*
+# defaultoptions
+defaultoptions*
+# Drippy Loading
+drippyloadingscreen*
+# EnchantmentInsights
+EnchantmentInsights*
+# entity_model_features
+entity_model_features*
+# entity_texture_features
+entity_texture_features*
+# Fancy Menu
+fancymenu_neoforge*
+# hide experimental warning
+hideexperimentalwarning*
+# lambdynamiclights
+lambdynamiclights*
+# MouseTweaks
+MouseTweaks-neoforge*
+# TipTheScales-neoforge
+TipTheScales-neoforge*
+# vanillazoom
+vanillazoom*
+# fancy-entity-renderer
+fancy-entity-renderer*
+# Blank Line

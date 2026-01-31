@@ -1,0 +1,5 @@
+{
+  "same_side_tick_limit": 5,
+  "max_circuit_size": 256,
+  "max_circuits_per_player": 0
+}

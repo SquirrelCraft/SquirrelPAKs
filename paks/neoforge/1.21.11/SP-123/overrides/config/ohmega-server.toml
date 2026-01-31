@@ -1,0 +1,12 @@
+#Defines the types and number of slots in the accessory inventory
+slotTypes = ["ohmega:normal", "ohmega:normal", "ohmega:normal", "ohmega:utility", "ohmega:utility", "ohmega:special"]
+#Defines the types of accessories that can be key-bound
+keyboundSlotTypes = ["ohmega:generic", "ohmega:utility", "ohmega:special"]
+#Defines how to handle player death in terms of dropping accessories
+#DEFAULT: Uses the vanilla "keepInventory" game-rule
+#ALWAYS_ON: Will never drop accessories on death
+#ALWAYS_OFF: Will always drop accessories on death
+#Allowed Values: DEFAULT, ALWAYS_ON, ALWAYS_OFF
+keepAccessoriesBehaviour = "DEFAULT"
+#If true, effectively no accessory types will be used, and they will all be overridden, changing them all to "ohmega:generic"
+disableAccessoryTypes = false

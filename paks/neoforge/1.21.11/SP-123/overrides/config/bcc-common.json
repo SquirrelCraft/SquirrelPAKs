@@ -1,0 +1,21 @@
+{
+  "modpackName": {
+    "value": "SquirrelPAK 123",
+    "comments": [
+      "Easy Squirrels!"
+    ]
+  },
+  "modpackVersion": {
+    "value": "v0.0.1",
+    "comments": [
+      "Current version of the PAK"
+    ]
+  },
+  "useMetadata": {
+    "value": false,
+    "comments": [
+      "Use the metadata.json to determine the modpack version",
+      "ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING"
+    ]
+  }
+}

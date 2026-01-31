@@ -1,0 +1,74 @@
+[enchantment_item_tooltips]
+	#Add descriptions to item tooltips.
+	#Default Value: ALWAYS
+	#Allowed Values: NEVER, SHIFT, ALWAYS
+	item_descriptions = "ALWAYS"
+	#Apply a fixed string before every description line.
+	#Supports formatting codes which will also apply to the description for setting custom text colors and styles.
+	#https://minecraft.wiki/w/Formatting_codes
+	#Default Value: §7 ◆ §r
+	tooltip_line_decorations = "§7 ◆ §r"
+
+	[enchantment_item_tooltips.item_tooltip_lines]
+		#Add the internal id to tooltips.
+		#Default Value: false
+		internal_name = false
+		#Add tags for primary and other supported items to tooltips.
+		#Default Value: false
+		compatible_items = false
+		#Add the name of the source mod to tooltips.
+		#Default Value: false
+		mod_name = false
+		#Add the maximum enchantment level as part of the name to tooltips.
+		#Default Value: true
+		maximum_level = true
+		#Add the description to tooltips.
+		#Default Value: true
+		value_description = true
+
+	[enchantment_item_tooltips.item_description_targets]
+		#Add enchantment descriptions to enchanted books.
+		#Default Value: true
+		stored_enchantments = true
+		#Add enchantment descriptions to enchanted items.
+		#Default Value: true
+		enchantments = true
+
+	[enchantment_item_tooltips.enchantment_name_styling]
+		#Formatting codes for setting custom text colors and styles for normal enchantments.
+		#https://minecraft.wiki/w/Formatting_codes
+		#Default Value: §a
+		default_formatting = "§a"
+		#Formatting codes for setting custom text colors and styles for treasure enchantments.
+		#https://minecraft.wiki/w/Formatting_codes
+		#Default Value: §6
+		treasure_formatting = "§6"
+		#Formatting codes for setting custom text colors and styles for curses.
+		#https://minecraft.wiki/w/Formatting_codes
+		#Default Value: §c
+		curse_formatting = "§c"
+
+[enchantment_table_tooltips]
+	#Apply a fixed string before every description line.
+	#Supports formatting codes which will also apply to the description for setting custom text colors and styles.
+	#https://minecraft.wiki/w/Formatting_codes
+	#Default Value: §7 ◆ §r
+	tooltip_line_decorations = "§7 ◆ §r"
+	#Add descriptions to item tooltips.
+	#Default Value: ALWAYS
+	#Allowed Values: NEVER, SHIFT, ALWAYS
+	item_descriptions = "ALWAYS"
+
+	[enchantment_table_tooltips.table_tooltip_lines]
+		#Add the internal id to tooltips.
+		#Default Value: false
+		internal_name = false
+		#Add tags for primary and other supported items to tooltips.
+		#Default Value: false
+		compatible_items = false
+		#Add the name of the source mod to tooltips.
+		#Default Value: false
+		mod_name = false
+		#Add the description to tooltips.
+		#Default Value: true
+		value_description = true

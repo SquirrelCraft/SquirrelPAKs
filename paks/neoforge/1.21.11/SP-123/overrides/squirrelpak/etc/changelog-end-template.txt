@@ -1,0 +1,34 @@
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+
+None
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-123)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 123 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 15.6.1
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   Temurin 21.0.9+10-LTS

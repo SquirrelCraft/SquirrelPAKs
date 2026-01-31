@@ -1,0 +1,62 @@
+# SquirrelCraft SquirrelPAK Version File - v4.0
+#
+
+PAK_RELEASE=0.0.0
+PAK_MC_VER=1.21.11
+
+
+PAK_NAME_INIT_PFX=12
+PAK_NAME_INIT=3
+
+
+# Should replace above one day until then combine them
+PAK_NAME="$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
+
+# Desc of the pack
+PAK_DESC="Easy Squirrels"
+
+# Req Neoforge version. Should change to loader
+PAK_FORGE_VER=21.11.37-beta
+
+# Menu Music Credits
+PAK_Menu_R2_Menu_Music_Credits="Seven Seas by Alexander Nakarada"
+
+# Menu Config Dir
+PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
+
+# Beta/Alpha Settings
+PAK_IS_BETA=true
+PAK_Beta_Text="&cAlpha"
+PAK_Beta_Header="&cAlpha &eVersion &f#1"
+PAK_Beta_Tagline="&fIt's &cAlpha &fI am sure it will work?"
+
+
+# Do not change anything below this line!
+# - - - - - - - - - - - - - - - - - - - 
+
+# Computed vars
+PAK_VER="$PAK_RELEASE-$PAK_MC_VER"
+PAK_Menu_R2_Name="&a$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
+PAK_Menu_R2_Desc="&f$PAK_DESC"
+PAK_Menu_R2_Ver="v$PAK_RELEASE"
+PAK_Menu_R2_Full_Name_Ver="&6SquirrelPAK $PAK_Menu_R2_Name &f$PAK_Menu_R2_Ver"
+
+
+
+# Color Codes
+# Black = &0	
+# Dark Blue = &1
+# Dark Green = &2	
+# Dark Aqua = &3	
+# Dark Red = &4	
+# Dark Purple = &5	
+# Gold = &6
+# Gray = &7
+# Dark Gray = &8
+# Blue = &9
+# Green = &a
+# Aqua = &b
+# Red = &c
+# Light Purple = &d
+# Yellow &e
+# White &f
