@@ -1,20 +1,31 @@
-SquirrelPAK 123 - Easy Squirrels v0.0.1-1.21.11
+SquirrelPAK 123 - Easy Squirrels v0.0.2-1.21.11
 =====================================================
-SquirrelPAK 123 Release 0.0.1
-File Version 0.0.1-1.21.11
+SquirrelPAK 123 Release 0.0.2
+File Version 0.0.2-1.21.11
 
 Required Forge Version: 21.11.37-beta
 =====================================================
 
  
-Alpha 1
+Alpha 2 
 
 Summary:
-This is an alpha release, things WILL be broken! Submit
-all bugs and request via GitHub
+
+We removed redundant mods or mods, and 
+rebalanced some OP mods. Also added some
+food and fishing mods!
+
+Mods Removed:
+always a wither skull
+crying ghasts 
+iron chests 
+silenc emobs
+trashcans
+infinite trading
+Simple Backups
  
 -------------------------------------------
- Mod Changes from v0.0.0-1.21.11
+ Mod Changes from v0.0.1-1.21.11
 -------------------------------------------
  
  
@@ -25,18 +36,31 @@ all bugs and request via GitHub
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 123 - Easy Squirrels v0.0.1-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.0.0-1.21.11
-AdvancedLootInfo-neoforge-1.21.11-1.7.1.jar                     |  AdvancedLootInfo-neoforge-1.21.11-1.7.0.jar
-ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar              <  
-                                                                >  defaultoptions-neoforge-1.21.11-21.11.1.jar.disabled
-fancy-entity-renderer-neoforge-1.21.11-0.5.3.jar                |  fancy-entity-renderer-neoforge-1.21.11-0.5.3.jar.disabled
-hunters_return-1.21.11-28.6.0.jar                               |  hunters_return-1.21.11-28.5.0.jar
-ohmega-1.5.11-neoforge+1.21.11.jar                              <  
-travelersbackpack-neoforge-1.21.11-10.11.4.jar                  |  travelersbackpack-neoforge-1.21.11-10.11.3.jar
+ SquirrelPAK 123 - Easy Squirrels v0.0.2-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.0.1-1.21.11
+                                                                >  alwaysawitherskull-1.21.11-3.6.jar
+Aquaculture-1.21.11-2.8.6.jar                                   <  
+bagus_lib-1.21.11-22.9.0.jar                                    |  bagus_lib-1.21.11-22.8.0.jar
+cookingforblockheads-neoforge-1.21.11-21.11.4.jar               <  
+cratedelight-25.12.11-1.21.11-neoforge.jar                      <  
+CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar                    <  
+                                                                >  cryingghasts-1.21.11-3.6.jar
+entity_model_features_1.21.11-neoforge-3.0.11.jar               |  entity_model_features_1.21.11-neoforge-3.0.10.jar
+fancymenu_neoforge_3.8.4_MC_1.21.11.jar                         |  fancymenu_neoforge_3.8.3_MC_1.21.11.jar
+hotkettles-neoforge-1.2.3+mc1.21.11.jar                         <  
+integratedcrafting-1.21.11-neoforge-1.1.13-459.jar              |  infinitetrading-1.21.11-4.6.jar
+                                                                >  integratedcrafting-1.21.11-neoforge-1.1.13-453.jar
+                                                                >  ironchest-1.21.11-neoforge-16.7.3.jar
+justenoughbreeding-neoforge-1.21.11-1.6.6.jar                   |  justenoughbreeding-neoforge-1.21.11-1.6.5.jar
+konkrete_neoforge_1.9.18_MC_1.21.11.jar                         |  konkrete_neoforge_1.9.14_MC_1.21.11.jar
+regs-more-foods-1.3.0b+1.21.11+mod.jar                          <  
+                                                                >  silencemobs-1.21.11-3.7.jar
+                                                                >  SimpleBackups-21.11.4.jar
+Spice of Life Onion_NEOFORGE_v1.5.4_mc1.21.11.jar               <  
+                                                                >  trashcans-1.0.18-neoforge-mc1.21.11.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/123-v0.0.1-1.21.11-ModsList.txt
+squirrelpak/versions/123-v0.0.2-1.21.11-ModsList.txt
 -------------------------------------------
 
  
@@ -44,8 +68,18 @@ squirrelpak/versions/123-v0.0.1-1.21.11-ModsList.txt
 
 The following mods versions are pinned due to issues. Do not
 upgrade these mods, will break the pak!
+- = None = -
 
-None
+
+# # # # # # # # # # #
+Alpha Notice!
+# # # # # # # # # # #
+
+Until we read beta release mods may be added and/or removed!
+This could break worlds created with older alpha versions
+You have been warned! 
+
+
 
 
 Important Links:

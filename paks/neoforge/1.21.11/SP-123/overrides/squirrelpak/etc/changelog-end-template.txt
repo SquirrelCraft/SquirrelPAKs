@@ -1,8 +1,18 @@
 
 The following mods versions are pinned due to issues. Do not
 upgrade these mods, will break the pak!
+- = None = -
 
-None
+
+# # # # # # # # # # #
+Alpha Notice!
+# # # # # # # # # # #
+
+Until we read beta release mods may be added and/or removed!
+This could break worlds created with older alpha versions
+You have been warned! 
+
+
 
 
 Important Links:
