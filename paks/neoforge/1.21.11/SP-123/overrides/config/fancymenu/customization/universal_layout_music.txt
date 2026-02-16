@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1713807302953
+  last_edited_time = 1770497461226
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:fce2c839-8adb-41fb-8397-08cabe9606ed-1769474400403] = [groups:][instances:]
+  [loading_requirement_container_meta:b96fefc0-20c3-4da7-8ccc-9f002299f002-1770497442416] = [groups:][instances:]
 }
 
 customization {
@@ -44,16 +44,24 @@ layout_action_executable_blocks {
 
 element {
   audio_instance_0 = [source:local]/config/fancymenu/assets/audio/main_menu_0.ogg
+  audio_instance_weight_0 = 1.0
   play_mode = normal
   looping = true
-  volume = 0.1
+  volume = 0.2
   sound_source = music
   element_type = audio_v2
   instance_identifier = cd2e8390-613d-4986-af11-289958dd9c67-1710803100021
   appearance_delay = no_delay
   appearance_delay_seconds = 1.0
-  fade_in = false
+  fade_in_v2 = no_fading
   fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
   anchor_point = top-left
   x = 32
   y = 66
@@ -64,5 +72,91 @@ element {
   stay_on_screen = true
   element_loading_requirement_container_identifier = 8f582d25-e682-4c0d-ac22-acd0b55e8f85-1710803100021
   [loading_requirement_container_meta:8f582d25-e682-4c0d-ac22-acd0b55e8f85-1710803100021] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #5CA6EFFF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+
+element {
+  interactable = false
+  source = [source:local]/config/fancymenu/assets/menu-text/menu_r2-pak-song-title.txt
+  source_mode = resource
+  shadow = true
+  scale = 1.0
+  base_color = #FFAA00
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = false
+  auto_line_wrapping = false
+  remove_html_breaks = false
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = false
+  table_show_header = true
+  table_alternate_row_colors = true
+  table_line_color = #787878FF
+  table_header_background_color = #323232FF
+  table_row_background_color = #282828FF
+  table_alternate_row_color = #3C3C3CFF
+  table_line_thickness = 1.0
+  table_cell_padding = 8.0
+  table_margin = 4.0
+  element_type = text_v2
+  instance_identifier = 20ef397b-2289-47f6-bc8c-6d3152a35d56-1770497451184
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1080
+  sticky_anchor = false
+  anchor_point = top-left
+  x = -2
+  y = 4
+  width = 352
+  height = 17
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 527fb902-6d5d-4bae-951e-d8c3987993a2-1712708681404
+  [loading_requirement_container_meta:527fb902-6d5d-4bae-951e-d8c3987993a2-1712708681404] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
 }
 

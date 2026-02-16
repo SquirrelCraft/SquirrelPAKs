@@ -4,7 +4,7 @@
   "showDisabledTooltip": true,
   "shouldShowInactiveBenefits": true,
   "shouldShowInactiveDetriments": true,
-  "showButtonInInventory": true,
+  "showButtonInInventory": false,
   "buttonInventoryX": 130,
   "buttonInventoryY": 62,
   "buttonInventoryWidth": 24,

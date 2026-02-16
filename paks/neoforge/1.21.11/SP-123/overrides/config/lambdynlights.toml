@@ -186,6 +186,49 @@ chunk_rebuild_scheduler = "culling"
 				wither = true
 				spruce_chest_boat = true
 
+			[light_sources.settings.entities.aquaculture]
+				tuna = true
+				birch_fish_mount = true
+				jellyfish = true
+				bluegill = true
+				muskellunge = true
+				water_arrow = true
+				brown_shrooma = true
+				catfish = true
+				tambaqui = true
+				pacific_halibut = true
+				boulti = true
+				rainbow_trout = true
+				starshell_turtle = true
+				gar = true
+				oak_fish_mount = true
+				perch = true
+				acacia_fish_mount = true
+				capitaine = true
+				arrau_turtle = true
+				atlantic_halibut = true
+				dark_oak_fish_mount = true
+				piranha = true
+				blackfish = true
+				jungle_fish_mount = true
+				red_grouper = true
+				spruce_fish_mount = true
+				arapaima = true
+				box_turtle = true
+				atlantic_herring = true
+				bayad = true
+				pollock = true
+				carp = true
+				spectral_water_arrow = true
+				red_shrooma = true
+				atlantic_cod = true
+				brown_trout = true
+				pink_salmon = true
+				synodontis = true
+				smallmouth_bass = true
+				minnow = true
+				bobber = true
+
 			[light_sources.settings.entities.bagus_lib]
 				mini_bagu = true
 
@@ -212,6 +255,7 @@ chunk_rebuild_scheduler = "culling"
 
 			[light_sources.settings.entities.lootr]
 				lootr_minecart = true
+				item_frame = true
 
 			[light_sources.settings.entities.corpse]
 				corpse = true

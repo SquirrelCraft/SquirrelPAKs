@@ -44,7 +44,7 @@ keep_alive_timeout_ms = 15000
 # Maximum packet size for voice data transmission
 mtu_size = 1024
 # Requires players to have the Plasmo Voice mod installed
-client_mod_required = true
+client_mod_required = false
 # Time before player is kicked if the mod is required but not installed
 client_mod_required_check_timeout_ms = 3000
 # Minimum required version for a client with the mod to connect to the voice server

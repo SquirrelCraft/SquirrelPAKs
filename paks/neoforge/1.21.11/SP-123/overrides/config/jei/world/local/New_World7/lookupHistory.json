@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:painting","components":{"minecraft:painting/variant":"minecraft:graham"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:impact_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:netherite_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:reinforced_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:reinforced_impact_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:destructor_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:stone_destructor_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
