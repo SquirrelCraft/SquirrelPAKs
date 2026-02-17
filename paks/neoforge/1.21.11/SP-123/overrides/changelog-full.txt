@@ -1,3 +1,106 @@
+SquirrelPAK 123 - Easy Squirrels v0.0.4-1.21.11
+=====================================================
+SquirrelPAK 123 Release 0.0.4
+File Version 0.0.4-1.21.11
+
+Required Forge Version: 21.11.38-beta
+=====================================================
+
+ 
+Alpha 4 
+
+Summary:
+Welcome to Alpha 4!
+
+Fixed a few config files and removed the mod
+ - TipTheScales since we are using Sodium
+ - Addec Reeses Sodium Options
+ - Replaced Configured Defaults with YOSBR
+ - Updated mods with updates
+ 
+-------------------------------------------
+ Mod Changes from v0.0.3-1.21.11
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 123 - Easy Squirrels v0.0.4-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.0.3-1.21.11
+AdvancedLootInfo-neoforge-1.21.11-1.7.2.jar                     |  AdvancedLootInfo-neoforge-1.21.11-1.7.1.jar
+commoncapabilities-1.21.11-neoforge-2.9.7-320.jar               |  commoncapabilities-1.21.11-neoforge-2.9.7-307.jar
+                                                                >  ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar
+cyclopscore-1.21.11-neoforge-1.25.5-937.jar                     |  cyclopscore-1.21.11-neoforge-1.25.5-880.jar
+dungeons-and-taverns-ancient-city-overhaul-3.2.3.jar            |  dungeons-and-taverns-ancient-city-overhaul-v3.2.2.jar
+entity_texture_features_1.21.11-neoforge-7.0.9.jar              |  entity_texture_features_1.21.11-neoforge-7.0.8.jar
+fancy-entity-renderer-neoforge-1.21.11-0.5.4.jar                |  fancy-entity-renderer-neoforge-1.21.11-0.5.3.jar
+hunters_return-1.21.11-28.8.0.jar                               |  hunters_return-1.21.11-28.7.0.jar
+integratedcrafting-1.21.11-neoforge-1.1.13-477.jar              |  integratedcrafting-1.21.11-neoforge-1.1.13-459.jar
+integrateddynamics-1.21.11-neoforge-1.24.1-1507.jar             |  integrateddynamics-1.21.11-neoforge-1.24.1-1492.jar
+integratedterminals-1.21.11-neoforge-1.6.6-678.jar              |  integratedterminals-1.21.11-neoforge-1.6.6-672.jar
+integratedtunnels-1.21.11-neoforge-1.8.30-557.jar               |  integratedtunnels-1.21.11-neoforge-1.8.30-535.jar
+PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar                     |  PuzzlesLib-v21.11.6-mc1.21.11-NeoForge.jar
+reeses-sodium-options-neoforge-2.0.3+mc1.21.11.jar              <  
+                                                                >  TipTheScales-neoforge-1.21.11-25.0.0.1.jar
+waystones-neoforge-1.21.11-21.11.5.jar                          |  waystones-neoforge-1.21.11-21.11.4.jar
+xaerominimap-neoforge-1.21.11-25.3.10.jar                       |  xaerominimap-neoforge-1.21.11-25.3.9.jar
+xaeroworldmap-neoforge-1.21.11-1.40.11.jar                      |  xaeroworldmap-neoforge-1.21.11-1.40.10.jar
+yosbr-neo-0.1.2.0.jar                                           <  
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/123-v0.0.4-1.21.11-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+- = None = -
+
+
+# # # # # # # # # # #
+Alpha Notice!
+# # # # # # # # # # #
+
+Until the beta release mods may be added and/or removed!
+This could break worlds created with older alpha versions
+You have been warned! 
+
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-123)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 123 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 15.6.1
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   Temurin 21.0.9+10-LTS
 SquirrelPAK 123 - Easy Squirrels v0.0.3-1.21.11
 =====================================================
 SquirrelPAK 123 Release 0.0.3

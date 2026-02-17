@@ -1,36 +1,25 @@
-SquirrelPAK 123 - Easy Squirrels v0.0.3-1.21.11
+SquirrelPAK 123 - Easy Squirrels v0.0.4-1.21.11
 =====================================================
-SquirrelPAK 123 Release 0.0.3
-File Version 0.0.3-1.21.11
+SquirrelPAK 123 Release 0.0.4
+File Version 0.0.4-1.21.11
 
 Required Forge Version: 21.11.38-beta
 =====================================================
 
  
-Alpha 3 
+Alpha 4 
 
 Summary:
-Some bug fixes, mod updates and the following; 
+Welcome to Alpha 4!
 
-Cleaned up Menus, Closes #19
-Added starter kits, Closes #21
-Removed Starter Structures, Closes #22
-Defined default options, Closes #23
-
-The following mods were added:
- - Better Than Mending 
- - First Join Message (Server Tools)
- - Anvil Restoration
- - Fixed Anvil Repair Cost
- - Eroding Stone Entities 
- - Beginner's Delight
-
-The below mods where REMOVED:
- - Starter Structure
- - Manure
-
+Fixed a few config files and removed the mod
+ - TipTheScales since we are using Sodium
+ - Addec Reeses Sodium Options
+ - Replaced Configured Defaults with YOSBR
+ - Updated mods with updates
+ 
 -------------------------------------------
- Mod Changes from v0.0.2-1.21.11
+ Mod Changes from v0.0.3-1.21.11
 -------------------------------------------
  
  
@@ -41,25 +30,30 @@ The below mods where REMOVED:
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 123 - Easy Squirrels v0.0.3-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.0.2-1.21.11
-anvilrestoration-1.21.11-2.5.jar                                <  
-beginnersdelight-0.3.0+1.21.11-neoforge.jar                     <  
-BetterThanMending-2.2.5.jar                                     <  
-cyclopscore-1.21.11-neoforge-1.25.5-880.jar                     |  cyclopscore-1.21.11-neoforge-1.25.5-877.jar
-erodingstoneentities-1.21.11-4.7.jar                            <  
-firstjoinmessage-1.21.11-3.8.jar                                <  
-fixedanvilrepaircost-1.21.11-3.5.jar                            <  
-hunters_return-1.21.11-28.7.0.jar                               |  hunters_return-1.21.11-28.6.0.jar
-integrateddynamics-1.21.11-neoforge-1.24.1-1492.jar             |  integrateddynamics-1.21.11-neoforge-1.24.1-1487.jar
-lootr-neoforge-1.21.11-1.20.34.101.jar                          |  lootr-neoforge-1.21.11-1.19.33.100.jar
-                                                                >  manure-1.21.11-4.0.jar
-                                                                >  starterstructure-1.21.11-4.4.jar
-xaerominimap-neoforge-1.21.11-25.3.9.jar                        |  xaerominimap-neoforge-1.21.11-25.3.5.jar
-xaeroworldmap-neoforge-1.21.11-1.40.10.jar                      |  xaeroworldmap-neoforge-1.21.11-1.40.6.jar
+ SquirrelPAK 123 - Easy Squirrels v0.0.4-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.0.3-1.21.11
+AdvancedLootInfo-neoforge-1.21.11-1.7.2.jar                     |  AdvancedLootInfo-neoforge-1.21.11-1.7.1.jar
+commoncapabilities-1.21.11-neoforge-2.9.7-320.jar               |  commoncapabilities-1.21.11-neoforge-2.9.7-307.jar
+                                                                >  ConfiguredDefaults-v21.11.0-mc1.21.11-NeoForge.jar
+cyclopscore-1.21.11-neoforge-1.25.5-937.jar                     |  cyclopscore-1.21.11-neoforge-1.25.5-880.jar
+dungeons-and-taverns-ancient-city-overhaul-3.2.3.jar            |  dungeons-and-taverns-ancient-city-overhaul-v3.2.2.jar
+entity_texture_features_1.21.11-neoforge-7.0.9.jar              |  entity_texture_features_1.21.11-neoforge-7.0.8.jar
+fancy-entity-renderer-neoforge-1.21.11-0.5.4.jar                |  fancy-entity-renderer-neoforge-1.21.11-0.5.3.jar
+hunters_return-1.21.11-28.8.0.jar                               |  hunters_return-1.21.11-28.7.0.jar
+integratedcrafting-1.21.11-neoforge-1.1.13-477.jar              |  integratedcrafting-1.21.11-neoforge-1.1.13-459.jar
+integrateddynamics-1.21.11-neoforge-1.24.1-1507.jar             |  integrateddynamics-1.21.11-neoforge-1.24.1-1492.jar
+integratedterminals-1.21.11-neoforge-1.6.6-678.jar              |  integratedterminals-1.21.11-neoforge-1.6.6-672.jar
+integratedtunnels-1.21.11-neoforge-1.8.30-557.jar               |  integratedtunnels-1.21.11-neoforge-1.8.30-535.jar
+PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar                     |  PuzzlesLib-v21.11.6-mc1.21.11-NeoForge.jar
+reeses-sodium-options-neoforge-2.0.3+mc1.21.11.jar              <  
+                                                                >  TipTheScales-neoforge-1.21.11-25.0.0.1.jar
+waystones-neoforge-1.21.11-21.11.5.jar                          |  waystones-neoforge-1.21.11-21.11.4.jar
+xaerominimap-neoforge-1.21.11-25.3.10.jar                       |  xaerominimap-neoforge-1.21.11-25.3.9.jar
+xaeroworldmap-neoforge-1.21.11-1.40.11.jar                      |  xaeroworldmap-neoforge-1.21.11-1.40.10.jar
+yosbr-neo-0.1.2.0.jar                                           <  
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/123-v0.0.3-1.21.11-ModsList.txt
+squirrelpak/versions/123-v0.0.4-1.21.11-ModsList.txt
 -------------------------------------------
 
  
@@ -71,13 +65,12 @@ upgrade these mods, will break the pak!
 
 
 # # # # # # # # # # #
-    Alpha Notice!
+Alpha Notice!
 # # # # # # # # # # #
 
-Until we read beta release mods may be added and/or removed!
+Until the beta release mods may be added and/or removed!
 This could break worlds created with older alpha versions
 You have been warned! 
-
 
 
 

@@ -1,7 +1,7 @@
 # SquirrelCraft SquirrelPAK Version File - v4.0
 #
 
-PAK_RELEASE=0.0.2
+PAK_RELEASE=0.0.3
 PAK_MC_VER=1.21.11
 
 
@@ -16,7 +16,7 @@ PAK_NAME="$PAK_NAME_INIT_PFX$PAK_NAME_INIT"
 PAK_DESC="Easy Squirrels"
 
 # Req Neoforge version. Should change to loader
-PAK_FORGE_VER=21.11.37-beta
+PAK_FORGE_VER=21.11.38-beta
 
 # Menu Music Credits
 PAK_Menu_R2_Menu_Music_Credits="Seven Seas by Alexander Nakarada"
@@ -26,8 +26,8 @@ PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
 
 # Beta/Alpha Settings
 PAK_IS_BETA=true
-PAK_Beta_Text="&cAlpha"
-PAK_Beta_Header="&cAlpha &eVersion &f#2"
+PAK_Beta_Text="&cAlpha 3"
+PAK_Beta_Header="&cAlpha &eVersion &f#3"
 PAK_Beta_Tagline="&fIt's &cAlpha &fThere will be squirrels and bugs?"
 
 

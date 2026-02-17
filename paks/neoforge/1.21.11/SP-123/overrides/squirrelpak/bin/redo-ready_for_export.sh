@@ -2,7 +2,7 @@
 #
 #     Internal script to re-ready for Export to CF
 #
-#     v3.3
+#     v3.3.1
 # 
 
 #     /squrrelpak/bin/redo-ready_for_export.sh
@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Re-Export Script v3.3"
+echo "  SquirrelPAK CF Re-Export Script v3.3.1"
 echo "  (redo-ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2026 The Network Squirrel(SquirrelCraft)                   |"
@@ -193,6 +193,7 @@ mv -v crash-reports $PAK_Removed_Files_Export_Dir/
 echo " "
 echo " Moving xaero files ..."
 mv -v xaero $PAK_Removed_Files_Export_Dir/
+mv -v XaeroWaypoints* $PAK_Removed_Files_Export_Dir/
 
 
 echo " "

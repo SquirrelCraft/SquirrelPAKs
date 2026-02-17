@@ -2,7 +2,7 @@
 #
 #     Internal script to ready for Export to CF
 #
-#     v4.4
+#     v4.4.1
 # 
 
 #     /squrrelpak/bin/ready_for_export.sh
@@ -25,7 +25,7 @@
 
 echo " "
 echo " ----------------------------------------------------------------------------"
-echo "  SquirrelPAK CF Export Script v4.4"
+echo "  SquirrelPAK CF Export Script v4.4.1"
 echo "  (ready_for_export.sh) - Licnesed under GNU GPLv3"
 echo " ----------------------------------------------------------------------------"
 echo " | Copyright (C) 2026 The Network Squirrel(SquirrelCraft)                   |"
@@ -299,6 +299,7 @@ mv -v crash-reports $PAK_Removed_Files_Export_Dir/
 echo " "
 echo " Moving xaero files ..."
 mv -v xaero $PAK_Removed_Files_Export_Dir/
+mv -v XaeroWaypoints* $PAK_Removed_Files_Export_Dir/
 
 
 echo " "
