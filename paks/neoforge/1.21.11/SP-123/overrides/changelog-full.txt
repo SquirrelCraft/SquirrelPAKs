@@ -1,3 +1,106 @@
+SquirrelPAK 123 - Easy Squirrels v0.1.0-1.21.11
+=====================================================
+SquirrelPAK 123 Release 0.1.0
+File Version 0.1.0-1.21.11
+
+Required Forge Version: 21.11.38-beta
+=====================================================
+
+ 
+Beta 1 
+
+Summary:
+Welcome to BETA 1
+
+We have made some tweaks to the options file to
+squirrel-a-fi it. 
+ - Map button moved to J key
+ - F9 to config Jade
+ - C key to zoom (must have spy glass) (Changed Zoom Mod)
+ - Mini map hidden by default use  \ key to toggle 
+
+Updated mods that had updates
+
+Removed waveycapes due to a bug that was cause a crash
+with fancy menu. 
+
+
+
+ 
+-------------------------------------------
+ Mod Changes from v0.0.4-1.21.11
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 123 - Easy Squirrels v0.1.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.0.4-1.21.11
+entity_model_features_1.21.11-neoforge-3.0.12.jar               |  entity_model_features_1.21.11-neoforge-3.0.11.jar
+integrateddynamics-1.21.11-neoforge-1.24.1-1567.jar             |  integrateddynamics-1.21.11-neoforge-1.24.1-1507.jar
+integratedterminals-1.21.11-neoforge-1.6.6-701.jar              |  integratedterminals-1.21.11-neoforge-1.6.6-678.jar
+integratedtunnels-1.21.11-neoforge-1.8.30-581.jar               |  integratedtunnels-1.21.11-neoforge-1.8.30-557.jar
+ok_zoomer-neo-16.0.0-beta.2.jar                                 |  open-parties-and-claims-neoforge-1.21.11-0.25.8.jar
+open-parties-and-claims-neoforge-1.21.11-0.25.10.jar            <  
+Spice of Life Onion_NEOFORGE_v1.5.5_mc1.21.11.jar               |  Spice of Life Onion_NEOFORGE_v1.5.4_mc1.21.11.jar
+                                                                >  vanillazoom-1.21.11-3.0.jar
+waystones-neoforge-1.21.11-21.11.6.jar                          |  waveycapes-neoforge-1.8.2-mc1.21.11.jar
+                                                                >  waystones-neoforge-1.21.11-21.11.5.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/123-v0.1.0-1.21.11-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+- = None = -
+
+
+# # # # # # # # # # #
+Alpha Notice!
+# # # # # # # # # # #
+
+Until the beta release mods may be added and/or removed!
+This could break worlds created with older alpha versions
+You have been warned! 
+
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-123)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 123 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 15.6.1
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   Temurin 21.0.9+10-LTS
 SquirrelPAK 123 - Easy Squirrels v0.0.4-1.21.11
 =====================================================
 SquirrelPAK 123 Release 0.0.4
