@@ -53,6 +53,7 @@
   "lines": true,
   "fat_lines": true,
   "render_last": false,
+  "hud_mode": "MINIMAL",
   "show_tools_info": true,
   "toast_in_action_bar": false,
   "disable_info_messages": false,

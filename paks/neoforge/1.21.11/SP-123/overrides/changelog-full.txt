@@ -1,3 +1,116 @@
+SquirrelPAK 123 - Easy Squirrels v0.2.0-1.21.11
+=====================================================
+SquirrelPAK 123 Release 0.2.0
+File Version 0.2.0-1.21.11
+
+Required Forge Version: 21.11.38-beta
+=====================================================
+
+ 
+Beta 2 
+
+Summary:
+Updated mosds with updates and re-appled a mod that
+was missing
+ 
+-------------------------------------------
+ Mod Changes from v0.1.0-1.21.11
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 123 - Easy Squirrels v0.2.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.1.0-1.21.11
+AdvancedLootInfo-neoforge-1.21.11-1.8.2.jar                     |  AdvancedLootInfo-neoforge-1.21.11-1.7.2.jar
+Aquaculture-1.21.11-2.8.7.jar                                   |  Aquaculture-1.21.11-2.8.6.jar
+balm-neoforge-1.21.11-21.11.8.jar                               |  balm-neoforge-1.21.11-21.11.6.jar
+beginnersdelight-0.4.0+1.21.11-neoforge.jar                     |  beginnersdelight-0.3.0+1.21.11-neoforge.jar
+BetterAdvancements-NeoForge-1.21.11-0.4.8.54.jar                |  BetterAdvancements-NeoForge-1.21.11-0.4.8.51.jar
+BuildingWands-neoforge-MC1.21.11-3.0.2.jar                      |  BuildingWands-neoforge-MC1.21.11-2.16.jar
+commoncapabilities-1.21.11-neoforge-2.9.7-331.jar               |  commoncapabilities-1.21.11-neoforge-2.9.7-320.jar
+cookingforblockheads-neoforge-1.21.11-21.11.6.jar               |  cookingforblockheads-neoforge-1.21.11-21.11.4.jar
+CraterLib-Neoforge-1.21.11-3.1.0.jar                            |  CraterLib-Neoforge-1.21.11-3.0.1.jar
+cristellib-neoforge-1.21.11-3.1.1.jar                           |  cristellib-neoforge-1.21.11-3.0.4.jar
+cyclopscore-1.21.11-neoforge-1.25.5-964.jar                     |  cyclopscore-1.21.11-neoforge-1.25.5-937.jar
+dungeons-and-taverns-woodland-mansion-overhaul-2.1.jar          |  dungeons-and-taverns-woodland-mansion-overhaul-v2.jar
+easy_mob_farm-neoforge-1.21.11-10.6.0.jar                       |  easy_mob_farm-neoforge-1.21.11-10.4.0.jar
+entity_model_features_1.21.11-neoforge-3.0.17.jar               |  entity_model_features_1.21.11-neoforge-3.0.12.jar
+entity_texture_features_1.21.11-neoforge-7.0.13.jar             |  entity_texture_features_1.21.11-neoforge-7.0.9.jar
+ExplorersCompass-1.21.11-3.3.0-neoforge.jar                     |  ExplorersCompass-1.21.11-3.0.5-neoforge.jar
+integratedcrafting-1.21.11-neoforge-1.1.13-544.jar              |  integratedcrafting-1.21.11-neoforge-1.1.13-477.jar
+integrateddynamics-1.21.11-neoforge-1.24.1-1692.jar             |  integrateddynamics-1.21.11-neoforge-1.24.1-1567.jar
+integratedterminals-1.21.11-neoforge-1.6.6-745.jar              |  integratedterminals-1.21.11-neoforge-1.6.6-701.jar
+integratedtunnels-1.21.11-neoforge-1.8.30-609.jar               |  integratedtunnels-1.21.11-neoforge-1.8.30-581.jar
+Jade-1.21.11-NeoForge-21.1.3.jar                                |  Jade-1.21.11-NeoForge-21.0.1.jar
+jei-1.21.11-neoforge-27.4.0.21.jar                              |  jei-1.21.11-neoforge-27.4.0.15.jar
+ketkets-player-shops-4.2.jar                                    |  ketkets-player-shops-4.1.jar
+MaintenanceMode-Universal-1.3.3+hotfix.3.jar                    |  MaintenanceMode-Universal-1.3.1.jar
+midwut-2.2.0.jar                                                |  midwut-2.1.0.jar
+ohmega-1.5.16-neoforge+1.21.11.jar                              |  ohmega-1.5.11-neoforge+1.21.11.jar
+PuzzlesLib-v21.11.12-mc1.21.11-NeoForge.jar                     |  PuzzlesLib-v21.11.11-mc1.21.11-NeoForge.jar
+Searchables-neoforge-1.21.11-1.0.4.jar                          |  Searchables-neoforge-1.21.11-1.0.2.jar
+sodium-neoforge-0.8.7+mc1.21.11.jar                             |  sodium-neoforge-0.8.4+mc1.21.11.jar
+supermartijn642corelib-1.1.21-neoforge-mc1.21.11.jar            |  supermartijn642corelib-1.1.20-neoforge-mc1.21.11.jar
+t_and_t-fabric-neoforge-1.13.9.jar                              |  t_and_t-fabric-neoforge-1.13.8.jar
+toms_storage-1.21.11-2.8.0.jar                                  |  toms_storage-1.21.11-2.7.3.jar
+travelersbackpack-neoforge-1.21.11-10.11.5.jar                  |  travelersbackpack-neoforge-1.21.11-10.11.4.jar
+waystones-neoforge-1.21.11-21.11.9.jar                          |  waystones-neoforge-1.21.11-21.11.6.jar
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/123-v0.2.0-1.21.11-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+- = None = -
+
+
+# # # # # # # # # # #
+Alpha Notice!
+# # # # # # # # # # #
+
+Until the beta release mods may be added and/or removed!
+This could break worlds created with older alpha versions
+You have been warned! 
+
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-123)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 123 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 15.6.1
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   Temurin 21.0.9+10-LTS
 SquirrelPAK 123 - Easy Squirrels v0.1.0-1.21.11
 =====================================================
 SquirrelPAK 123 Release 0.1.0
