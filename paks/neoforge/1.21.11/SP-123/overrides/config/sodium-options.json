@@ -1,7 +1,9 @@
 {
   "quality": {
     "hidden_fluid_culling": true,
-    "improved_fluid_shaping": false
+    "improved_fluid_shaping": false,
+    "use_closest_point_entity_sort": false,
+    "pixel_filtering_mode": "NEAREST"
   },
   "performance": {
     "chunk_builder_threads": 0,
@@ -23,6 +25,6 @@
   },
   "notifications": {
     "has_cleared_donation_button": false,
-    "has_seen_donation_prompt": false
+    "has_seen_donation_prompt": true
   }
 }

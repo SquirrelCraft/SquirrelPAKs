@@ -1,3 +1,3 @@
 |||
-&6SquirrelPAK &a123 &fv0.2.0
+&6SquirrelPAK &a123 &fv0.3.0
 |||

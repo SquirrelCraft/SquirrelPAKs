@@ -1,14 +1,16 @@
 
 The following mods versions are pinned due to issues. Do not
 upgrade these mods, will break the pak!
-- = None = -
+
+- Fancy Menu 3.8.4
+- Drippy Loading Screen 3.11
 
 
 # # # # # # # # # # #
-Alpha Notice!
+Beta Notice!
 # # # # # # # # # # #
 
-Until the beta release mods may be added and/or removed!
+Until the 1.0 release mods may be added and/or removed!
 This could break worlds created with older alpha versions
 You have been warned! 
 
@@ -36,7 +38,7 @@ setup.
 
 Hardware/OS:
    2021 16" MacBook Pro M1 MAX 32GB SRAM
-   MacOS 15.6.1
+   MacOS 15.7.4
 
 Java Runtime:
    openjdk 17.0.14 2025-01-21 (aarch64)
