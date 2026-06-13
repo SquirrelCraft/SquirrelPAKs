@@ -1,7 +1,7 @@
 # SquirrelCraft SquirrelPAK Version File - v4.0
 #
 
-PAK_RELEASE=0.4.0
+PAK_RELEASE=0.5.0
 PAK_MC_VER=1.21.11
 
 
@@ -26,8 +26,8 @@ PAK_Menu_Config_Dir="./config/fancymenu/assets/menu-text"
 
 # Beta/Alpha Settings
 PAK_IS_BETA=true
-PAK_Beta_Text="&6Beta 4"
-PAK_Beta_Header="&6Beta &eVersion &f#4"
+PAK_Beta_Text="&6Beta 5"
+PAK_Beta_Header="&6Beta &eVersion &f#5"
 PAK_Beta_Tagline="&fIt's &6Beta &fWill there be squirrels or bugs?"
 
 

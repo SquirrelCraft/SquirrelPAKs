@@ -2,7 +2,7 @@
   "enableProfiles": false,
   "profileIndex": 0,
   "general": {
-    "displayTooltip": false,
+    "displayTooltip": true,
     "displayBlocks": true,
     "displayEntities": true,
     "displayBosses": true,

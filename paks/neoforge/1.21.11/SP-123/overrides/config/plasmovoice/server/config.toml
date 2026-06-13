@@ -1,6 +1,6 @@
 # Used to store server-related config file on the client
 # Set it to a single value on different servers if you want them to share config
-server_id = "a3c33dc6-0fbc-41f9-a82a-7b53cd49f16b"
+server_id = "0aece834-a195-4f3d-a7f9-8e368f6d1ca1"
 # Language used when client's language doesn't exist
 # 
 # By default, client's language used for translations
@@ -21,7 +21,7 @@ check_for_updates = false
 ip = "0.0.0.0"
 # UDP port for the voice server
 # 0 = same port as Minecraft server
-port = 0
+port = 15864
 
 # Public IP and port that clients will connect to
 # If ip set to 0.0.0.0, ip from [host] will be used

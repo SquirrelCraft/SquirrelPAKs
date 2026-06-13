@@ -1,25 +1,25 @@
-SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11
+SquirrelPAK 123 - Easy Squirrels v0.5.0-1.21.11
 =====================================================
-SquirrelPAK 123 Release 0.4.0
-File Version 0.4.0-1.21.11
+SquirrelPAK 123 Release 0.5.0
+File Version 0.5.0-1.21.11
 
-Required Forge Version: 21.11.38-beta
+Required Forge Version: 21.11.42
 =====================================================
 
  
-Beta 4 - Sophisticated
+Beta 5 
 
 Summary:
-New vibes and storage!
+Addeds two mods:
+ - Extream Sound Muffler
+ - Copper Hoppers
+
+Tweaked settings for:
+ - Ore Creapers (downgrade ver to stable)
+ - OK Zoomer (settings) 
  
-Added Fantasy's Furniture mods for some fancy furniture
-Also added two storage mods Sophisticated Storage
-and one more backpack mod Sophisticated Backpacks
-we are not so Sophisticated
-
-
 -------------------------------------------
- Mod Changes from v0.3.0-1.21.11
+ Mod Changes from v0.4.0-1.21.11
 -------------------------------------------
  
  
@@ -30,24 +30,30 @@ we are not so Sophisticated
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.3.0-1.21.11
-apexcore-21.11.3.jar                                            <  
-easy_mob_farm-neoforge-1.21.11-10.9.0.jar                       |  easy_mob_farm-neoforge-1.21.11-10.8.0.jar
-fantasyfurniture-21.11.1.jar                                    <  
-fantasyfurniture-bone-21.11.1.jar                               <  
-fantasyfurniture-decorations-21.11.3.jar                        <  
-fantasyfurniture-dunmer-21.11.1.jar                             <  
-fantasyfurniture-necrolord-21.11.1.jar                          <  
-fantasyfurniture-nordic-21.11.1.jar                             <  
-fantasyfurniture-royal-21.11.1.jar                              <  
-fantasyfurniture-venthyr-21.11.1.jar                            <  
-sophisticatedbackpacks-1.21.11-3.25.57.1819.jar                 <  
-sophisticatedcore-1.21.11-1.4.48.1948.jar                       <  
-sophisticatedstorage-1.21.11-1.5.63.1786.jar                    <  
+ SquirrelPAK 123 - Easy Squirrels v0.5.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11
+areas-1.21.11-6.3.jar                                           |  areas-1.21.11-6.2.jar
+BuildingWands-neoforge-MC1.21.11-3.0.5.jar                      |  BuildingWands-neoforge-MC1.21.11-3.0.4.jar
+collective-1.21.11-8.25.jar                                     |  collective-1.21.11-8.22.jar
+copperhopper-neoforge-0.20.4+1.21.11.jar                        <  
+dragondropselytra-1.21.11-3.6.jar                               |  dragondropselytra-1.21.11-3.5.jar
+ExtremeSoundMuffler-3.57_NeoForge-1.21.11.jar                   <  
+                                                                >  iris-neoforge-1.10.7+mc1.21.11.jar.disabled
+nametagtweaks-1.21.11-4.1.jar                                   |  nametagtweaks-1.21.11-4.0.jar
+open-parties-and-claims-neoforge-1.21.11-0.27.5.jar             |  open-parties-and-claims-neoforge-1.21.11-0.26.3.jar
+Ore Creeper-neoforge-1.21.11-1.3.1.jar                          |  Ore Creeper-neoforge-1.21.11-2.0.0-alpha.jar
+plasmovoice-neoforge-1.21.11-2.1.10.jar                         |  plasmovoice-neoforge-1.21.11-2.1.9.jar
+sophisticatedbackpacks-1.21.11-3.25.62.1873.jar                 |  sophisticatedbackpacks-1.21.11-3.25.57.1819.jar
+sophisticatedcore-1.21.11-1.4.58.2007.jar                       |  sophisticatedcore-1.21.11-1.4.48.1948.jar
+sophisticatedstorage-1.21.11-1.5.65.1829.jar                    |  sophisticatedstorage-1.21.11-1.5.63.1786.jar
+starterkit-1.21.11-8.1.jar                                      |  starterkit-1.21.11-8.0.jar
+villagerdeathmessages-1.21.11-3.9.jar                           |  villagerdeathmessages-1.21.11-3.8.jar
+villagernames-1.21.11-8.5.jar                                   |  villagernames-1.21.11-8.4.jar
+xaerominimap-neoforge-1.21.11-26.1.0.jar                        |  xaerominimap-neoforge-1.21.11-25.3.12.jar
+xaeroworldmap-neoforge-1.21.11-1.41.0.jar                       |  xaeroworldmap-neoforge-1.21.11-1.40.18.jar
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/123-v0.4.0-1.21.11-ModsList.txt
+squirrelpak/versions/123-v0.5.0-1.21.11-ModsList.txt
 -------------------------------------------
 
  
@@ -95,5 +101,4 @@ Hardware/OS:
    MacOS 15.7.4
 
 Java Runtime:
-   openjdk 17.0.14 2025-01-21 (aarch64)
-   Temurin 21.0.9+10-LTS
+   Temurin-21.0.6+7

@@ -1,4 +1,5 @@
 [
   {"version":1},
+  {"ingredient":{"id":"easy_mob_farm:void_binding_chain","components":{"minecraft:custom_model_data":{"floats":[0.0]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:pale_oak_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

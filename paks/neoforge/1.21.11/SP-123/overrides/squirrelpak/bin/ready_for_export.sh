@@ -306,6 +306,11 @@ echo " "
 echo " Moving fancymenu_data..."
 mv -v fancymenu_data $PAK_Removed_Files_Export_Dir/
 
+echo " "
+echo " Moving fancymenu_data..."
+mv -v fancymenu_data $PAK_Removed_Files_Export_Dir/
+
+
 
 echo " "
 echo " Moving logs..."
@@ -316,6 +321,23 @@ mv -v hs_err_* $PAK_Removed_Files_Export_Dir/
 echo " "
 echo " Moving screenshots..."
 mv -v screenshots $PAK_Removed_Files_Export_Dir/
+
+
+echo " "
+echo " Moving ESM..."
+mv -v ESM $PAK_Removed_Files_Export_Dir/
+
+
+echo " "
+echo " Moving downloads..."
+mv -v downloads $PAK_Removed_Files_Export_Dir/
+
+
+echo " "
+echo " Moving .cache..."
+mkdir $PAK_Removed_Files_Export_Dir/cache
+mv -v .cache $PAK_Removed_Files_Export_Dir/cache
+
 
 
 echo " "

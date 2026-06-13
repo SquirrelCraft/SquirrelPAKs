@@ -1,4 +1,4 @@
-Current Directory Snapshot - 06/12/26 04:58:31 PM 
+ SquirrelPAK 123 - Easy Squirrels v0.5.0-1.21.11
 3d_placeable_food-3.0.1-neoforge-1.21.11.jar
 AdvancedLootInfo-neoforge-1.21.11-1.12.0.jar
 advancednetherite-neoforge-2.4.0-1.21.11.jar
@@ -8,7 +8,7 @@ apexcore-21.11.3.jar
 appleskin-neoforge-mc1.21.11-3.0.8.jar
 Aquaculture-1.21.11-2.8.9.jar
 architectury-19.0.1-neoforge.jar
-areas-1.21.11-6.2.jar
+areas-1.21.11-6.3.jar
 bagus_lib-1.21.11-22.9.0.jar
 balm-neoforge-1.21.11-21.11.9.jar
 beginnersdelight-0.4.0+1.21.11-neoforge.jar
@@ -17,11 +17,11 @@ BetterAdvancements-NeoForge-1.21.11-0.4.8.54.jar
 BetterF3-17.0.0-NeoForge-1.21.11.jar
 BetterThanMending-2.2.5.jar
 bottledair-1.21.11-2.5.jar
-BuildingWands-neoforge-MC1.21.11-3.0.4.jar
+BuildingWands-neoforge-MC1.21.11-3.0.5.jar
 carryon-neoforge-1.21.11-2.9.0.jar
 cloth-config-21.11.153-neoforge.jar
 Clumps-neoforge-1.21.11-29.0.0.1.jar
-collective-1.21.11-8.22.jar
+collective-1.21.11-8.25.jar
 commoncapabilities-1.21.11-neoforge-2.9.7-331.jar
 connectedglass-1.1.14-neoforge-mc1.21.11.jar
 Controlling-neoforge-1.21.11-29.0.1.jar
@@ -35,7 +35,7 @@ cristellib-neoforge-1.21.11-3.1.2.jar
 customizable-elevators-1.0.0.jar
 cyclopscore-1.21.11-neoforge-1.25.5-964.jar
 doubledoors-1.21.11-7.2.jar
-dragondropselytra-1.21.11-3.5.jar
+dragondropselytra-1.21.11-3.6.jar
 drippyloadingscreen_neoforge_3.1.1_MC_1.21.11.jar
 dungeons-and-taverns-ancient-city-overhaul-3.2.3.jar
 dungeons-and-taverns-desert-temple-overhaul-v2.1.jar
@@ -56,6 +56,7 @@ entity_texture_features_1.21.11-neoforge-7.1.jar
 erodingstoneentities-1.21.11-4.7.jar
 excavators-1.0.1.jar
 ExplorersCompass-1.21.11-3.3.0-neoforge.jar
+ExtremeSoundMuffler-3.57_NeoForge-1.21.11.jar
 fancy-entity-renderer-neoforge-1.21.11-0.5.4.jar
 fancymenu_neoforge_3.8.4_MC_1.21.11.jar
 fantasyfurniture-21.11.1.jar
@@ -82,7 +83,6 @@ integratedterminals-1.21.11-neoforge-1.6.6-745.jar
 integratedtunnels-1.21.11-neoforge-1.8.30-609.jar
 inventorymending-1.21.11-1.2.jar
 inventorytotem-1.21.11-3.4.jar
-iris-neoforge-1.10.7+mc1.21.11.jar.disabled
 Jade-1.21.11-NeoForge-21.1.7.jar
 jakes-build-tools-v4.0.7.jar
 jei-1.21.11-neoforge-27.4.0.22.jar
@@ -100,15 +100,15 @@ melody_neoforge_1.0.15_MC_1.21.11.jar
 midwut-2.2.0.jar
 mineralchance-1.21.11-3.8.jar
 MouseTweaks-neoforge-mc1.21.11-2.30.jar
-nametagtweaks-1.21.11-4.0.jar
+nametagtweaks-1.21.11-4.1.jar
 netherportalfix-neoforge-1.21.11-21.11.2.jar
 ohmega-1.5.16-neoforge+1.21.11.jar
 ok_zoomer-neo-16.0.0-beta.2.jar
-open-parties-and-claims-neoforge-1.21.11-0.26.3.jar
-Ore Creeper-neoforge-1.21.11-2.0.0-alpha.jar
+open-parties-and-claims-neoforge-1.21.11-0.27.5.jar
+Ore Creeper-neoforge-1.21.11-1.3.1.jar
 ore-detector-dp-1.5.jar
 oreharvester-1.21.11-1.5.jar
-plasmovoice-neoforge-1.21.11-2.1.9.jar
+plasmovoice-neoforge-1.21.11-2.1.10.jar
 PuzzlesLib-v21.11.13-mc1.21.11-NeoForge.jar
 randomvillagenames-1.21.11-4.0.jar
 realisticbees-1.21.11-4.3.jar
@@ -122,12 +122,12 @@ Searchables-neoforge-1.21.11-1.0.4.jar
 short_circuit-neoforge-1.21.11-1.0.9.jar
 sit-1.21.11-1.4.jar
 sodium-neoforge-0.8.12+mc1.21.11.jar
-sophisticatedbackpacks-1.21.11-3.25.57.1819.jar
-sophisticatedcore-1.21.11-1.4.48.1948.jar
-sophisticatedstorage-1.21.11-1.5.63.1786.jar
+sophisticatedbackpacks-1.21.11-3.25.62.1873.jar
+sophisticatedcore-1.21.11-1.4.58.2007.jar
+sophisticatedstorage-1.21.11-1.5.65.1829.jar
 Spice of Life Onion_NEOFORGE_v1.5.5_mc1.21.11.jar
 stackrefill-1.21.11-5.0.jar
-starterkit-1.21.11-8.0.jar
+starterkit-1.21.11-8.1.jar
 stickyenchantinglapis-1.21.11-1.5.jar
 StorageDrawers-neoforge-1.21.11-20.0.0.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.11.jar
@@ -138,12 +138,11 @@ toms_storage-1.21.11-2.8.0.jar
 travelersbackpack-neoforge-1.21.11-10.11.5.jar
 treeharvester-1.21.11-9.3.jar
 unlock-all-recipes-94.1.jar
-villagerdeathmessages-1.21.11-3.8.jar
-villagernames-1.21.11-8.4.jar
+villagerdeathmessages-1.21.11-3.9.jar
+villagernames-1.21.11-8.5.jar
 waystones-neoforge-1.21.11-21.11.9.jar
 wooltweaks-1.21.11-4.0.jar
-worldedit-mod-7.4.2.jar
-xaerominimap-neoforge-1.21.11-25.3.12.jar
-xaeroworldmap-neoforge-1.21.11-1.40.18.jar
+xaerominimap-neoforge-1.21.11-26.1.0.jar
+xaeroworldmap-neoforge-1.21.11-1.41.0.jar
 yet_another_config_lib_v3-3.8.2+1.21.11-neoforge.jar
 yosbr-neo-0.1.2.1.jar

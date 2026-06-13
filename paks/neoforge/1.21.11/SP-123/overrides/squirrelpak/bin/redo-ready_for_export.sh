@@ -213,6 +213,24 @@ mv -v screenshots $PAK_Removed_Files_Export_Dir/
 
 
 echo " "
+echo " Moving ESM..."
+mv -v ESM $PAK_Removed_Files_Export_Dir/
+
+
+echo " "
+echo " Moving downloads..."
+mv -v downloads $PAK_Removed_Files_Export_Dir/
+
+
+echo " "
+echo " Moving .cache..."
+mkdir $PAK_Removed_Files_Export_Dir/cache
+mv -v .cache $PAK_Removed_Files_Export_Dir/cache
+
+
+
+
+echo " "
 echo " Moving realms_persistence.json..."
 mv -v realms_persistence.json $PAK_Removed_Files_Export_Dir/
 
