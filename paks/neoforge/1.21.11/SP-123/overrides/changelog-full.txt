@@ -1,3 +1,102 @@
+SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11
+=====================================================
+SquirrelPAK 123 Release 0.4.0
+File Version 0.4.0-1.21.11
+
+Required Forge Version: 21.11.38-beta
+=====================================================
+
+ 
+Beta 4 - Sophisticated
+
+Summary:
+New vibes and storage!
+ 
+Added Fantasy's Furniture mods for some fancy furniture
+Also added two storage mods Sophisticated Storage
+and one more backpack mod Sophisticated Backpacks
+we are not so Sophisticated
+
+
+-------------------------------------------
+ Mod Changes from v0.3.0-1.21.11
+-------------------------------------------
+ 
+ 
+ 
+
+[Key Codes]
+|  = Mod Updated
+<  = Mod Added
+>  = Mod Removed
+-------------------------------------------
+ SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.3.0-1.21.11
+apexcore-21.11.3.jar                                            <  
+easy_mob_farm-neoforge-1.21.11-10.9.0.jar                       |  easy_mob_farm-neoforge-1.21.11-10.8.0.jar
+fantasyfurniture-21.11.1.jar                                    <  
+fantasyfurniture-bone-21.11.1.jar                               <  
+fantasyfurniture-decorations-21.11.3.jar                        <  
+fantasyfurniture-dunmer-21.11.1.jar                             <  
+fantasyfurniture-necrolord-21.11.1.jar                          <  
+fantasyfurniture-nordic-21.11.1.jar                             <  
+fantasyfurniture-royal-21.11.1.jar                              <  
+fantasyfurniture-venthyr-21.11.1.jar                            <  
+sophisticatedbackpacks-1.21.11-3.25.57.1819.jar                 <  
+sophisticatedcore-1.21.11-1.4.48.1948.jar                       <  
+sophisticatedstorage-1.21.11-1.5.63.1786.jar                    <  
+
+-------------------------------------------
+For the full mod list see the file 
+squirrelpak/versions/123-v0.4.0-1.21.11-ModsList.txt
+-------------------------------------------
+
+ 
+ 
+
+The following mods versions are pinned due to issues. Do not
+upgrade these mods, will break the pak!
+
+- Fancy Menu 3.8.4
+- Drippy Loading Screen 3.11
+
+
+# # # # # # # # # # #
+Beta Notice!
+# # # # # # # # # # #
+
+Until the 1.0 release mods may be added and/or removed!
+This could break worlds created with older alpha versions
+You have been warned! 
+
+
+
+Important Links:
+
+Submit an Issue:
+(https://github.com/SquirrelCraft/SquirrelPAKs/labels/SP-123)
+
+
+
+Connect with us, see our live streams, stream schedule and all our
+social media links below!:
+(https://squirrelcraft.live)
+
+= = = = = = = 
+
+Dev/Testing Info
+
+SquirrelPAK 123 is developed and tested on the following hardware 
+and software. If you are having issues with this mod pack head over
+to the gitrepo (link above) and submit an issue. Include you hardware/software
+setup.
+
+Hardware/OS:
+   2021 16" MacBook Pro M1 MAX 32GB SRAM
+   MacOS 15.7.4
+
+Java Runtime:
+   openjdk 17.0.14 2025-01-21 (aarch64)
+   Temurin 21.0.9+10-LTS
 SquirrelPAK 123 - Easy Squirrels v0.3.0-1.21.11
 =====================================================
 SquirrelPAK 123 Release 0.3.0

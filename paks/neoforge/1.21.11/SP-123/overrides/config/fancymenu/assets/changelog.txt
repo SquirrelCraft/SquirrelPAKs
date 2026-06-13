@@ -1,19 +1,25 @@
-SquirrelPAK 123 - Easy Squirrels v0.3.0-1.21.11
+SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11
 =====================================================
-SquirrelPAK 123 Release 0.3.0
-File Version 0.3.0-1.21.11
+SquirrelPAK 123 Release 0.4.0
+File Version 0.4.0-1.21.11
 
 Required Forge Version: 21.11.38-beta
 =====================================================
 
  
-Beta 3
+Beta 4 - Sophisticated
 
 Summary:
-Beta 3 Release. Added new builder starterkit
+New vibes and storage!
  
+Added Fantasy's Furniture mods for some fancy furniture
+Also added two storage mods Sophisticated Storage
+and one more backpack mod Sophisticated Backpacks
+we are not so Sophisticated
+
+
 -------------------------------------------
- Mod Changes from v0.2.0-1.21.11
+ Mod Changes from v0.3.0-1.21.11
 -------------------------------------------
  
  
@@ -24,46 +30,24 @@ Beta 3 Release. Added new builder starterkit
 <  = Mod Added
 >  = Mod Removed
 -------------------------------------------
- SquirrelPAK 123 - Easy Squirrels v0.3.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.2.0-1.21.11
-3d_placeable_food-3.0.1-neoforge-1.21.11.jar                    |  AdvancedLootInfo-neoforge-1.21.11-1.8.2.jar
-AdvancedLootInfo-neoforge-1.21.11-1.12.0.jar                    |  advancednetherite-neoforge-2.3.1-1.21.11.jar
-advancednetherite-neoforge-2.4.0-1.21.11.jar                    <  
-Aquaculture-1.21.11-2.8.9.jar                                   |  Aquaculture-1.21.11-2.8.7.jar
-balm-neoforge-1.21.11-21.11.9.jar                               |  balm-neoforge-1.21.11-21.11.8.jar
-BuildingWands-neoforge-MC1.21.11-3.0.4.jar                      |  BuildingWands-neoforge-MC1.21.11-3.0.2.jar
-collective-1.21.11-8.22.jar                                     |  collective-1.21.11-8.13.jar
-CraterLib-Neoforge-1.21.11-3.1.2.jar                            |  CraterLib-Neoforge-1.21.11-3.1.0.jar
-cristellib-neoforge-1.21.11-3.1.2.jar                           |  cristellib-neoforge-1.21.11-3.1.1.jar
-easy_mob_farm-neoforge-1.21.11-10.8.0.jar                       |  easy_mob_farm-neoforge-1.21.11-10.6.0.jar
-easy-villagers-neoforge-1.21.11-1.1.42.jar                      |  easy-villagers-neoforge-1.21.11-1.1.41.jar
-entity_model_features-3.2.4-1.21.11-neoforge.jar                |  entity_model_features_1.21.11-neoforge-3.0.17.jar
-entity_texture_features_1.21.11-neoforge-7.1.jar                |  entity_texture_features_1.21.11-neoforge-7.0.13.jar
-fortunate-ancient-debris-4.2.jar                                |  fortunate-ancient-debris-4.1.jar
-horizon-neoforge-1.21.11.jar                                    <  
-iris-neoforge-1.10.7+mc1.21.11.jar.disabled                     |  Jade-1.21.11-NeoForge-21.1.3.jar
-Jade-1.21.11-NeoForge-21.1.7.jar                                |  jakes-build-tools-4.0.5a.jar
-jakes-build-tools-v4.0.7.jar                                    |  jei-1.21.11-neoforge-27.4.0.21.jar
-jei-1.21.11-neoforge-27.4.0.22.jar                              |  jetpack-boots-1.7.jar
-largefluidtank-neoforge-21.11.2.jar                             |  largefluidtank-neoforge-21.11.1.jar
-lootr-neoforge-1.21.11-1.20.34.104.jar                          |  lootr-neoforge-1.21.11-1.20.34.101.jar
-MaintenanceMode-Universal-1.3.4.jar                             |  MaintenanceMode-Universal-1.3.3+hotfix.3.jar
-open-parties-and-claims-neoforge-1.21.11-0.26.3.jar             |  open-parties-and-claims-neoforge-1.21.11-0.25.10.jar
-Ore Creeper-neoforge-1.21.11-2.0.0-alpha.jar                    |  Ore Creeper-neoforge-1.21.11-1.3.1.jar
-plasmovoice-neoforge-1.21.11-2.1.9.jar                          |  plasmovoice-neoforge-1.21.11-2.1.8.jar
-PuzzlesLib-v21.11.13-mc1.21.11-NeoForge.jar                     |  PuzzlesLib-v21.11.12-mc1.21.11-NeoForge.jar
-regs-more-foods-1.4.0+1.21.11+mod.jar                           |  regs-more-foods-1.3.0b+1.21.11+mod.jar
-sodium-neoforge-0.8.12+mc1.21.11.jar                            |  sodium-neoforge-0.8.7+mc1.21.11.jar
-starterkit-1.21.11-8.0.jar                                      |  starterkit-1.21.11-7.6.jar
-unlock-all-recipes-94.1.jar                                     <  
-villagernames-1.21.11-8.4.jar                                   |  villagernames-1.21.11-8.3.jar
-xaerominimap-neoforge-1.21.11-25.3.12.jar                       |  xaerominimap-neoforge-1.21.11-25.3.10.jar
-xaeroworldmap-neoforge-1.21.11-1.40.18.jar                      |  xaeroworldmap-neoforge-1.21.11-1.40.11.jar
-yet_another_config_lib_v3-3.8.2+1.21.11-neoforge.jar            |  yosbr-neo-0.1.2.0.jar
-yosbr-neo-0.1.2.1.jar                                           <  
+ SquirrelPAK 123 - Easy Squirrels v0.4.0-1.21.11                |   SquirrelPAK 123 - Easy Squirrels v0.3.0-1.21.11
+apexcore-21.11.3.jar                                            <  
+easy_mob_farm-neoforge-1.21.11-10.9.0.jar                       |  easy_mob_farm-neoforge-1.21.11-10.8.0.jar
+fantasyfurniture-21.11.1.jar                                    <  
+fantasyfurniture-bone-21.11.1.jar                               <  
+fantasyfurniture-decorations-21.11.3.jar                        <  
+fantasyfurniture-dunmer-21.11.1.jar                             <  
+fantasyfurniture-necrolord-21.11.1.jar                          <  
+fantasyfurniture-nordic-21.11.1.jar                             <  
+fantasyfurniture-royal-21.11.1.jar                              <  
+fantasyfurniture-venthyr-21.11.1.jar                            <  
+sophisticatedbackpacks-1.21.11-3.25.57.1819.jar                 <  
+sophisticatedcore-1.21.11-1.4.48.1948.jar                       <  
+sophisticatedstorage-1.21.11-1.5.63.1786.jar                    <  
 
 -------------------------------------------
 For the full mod list see the file 
-squirrelpak/versions/123-v0.3.0-1.21.11-ModsList.txt
+squirrelpak/versions/123-v0.4.0-1.21.11-ModsList.txt
 -------------------------------------------
 
  
