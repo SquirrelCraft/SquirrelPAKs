@@ -1,6 +1,6 @@
 # Used to store server-related config file on the client
 # Set it to a single value on different servers if you want them to share config
-server_id = "0aece834-a195-4f3d-a7f9-8e368f6d1ca1"
+server_id = ""
 # Language used when client's language doesn't exist
 # 
 # By default, client's language used for translations

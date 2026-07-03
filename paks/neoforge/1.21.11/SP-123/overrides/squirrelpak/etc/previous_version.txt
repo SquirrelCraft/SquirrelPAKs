@@ -3,5 +3,5 @@
 # Do not edit directly, bad things could happen
 #
 #
-PAK_Previous_Version=123-v0.5.0-1.21.11-ModsList.txt
-PAK_PREV_VER=0.5.0
+PAK_Previous_Version=123-v0.6.7-1.21.11-ModsList.txt
+PAK_PREV_VER=0.6.7

@@ -3,7 +3,7 @@
 	"keepOriginalLootQuantityIfHigher": true,
 	// Determines the amount of loot dropped by each mob.
 	// min: 1, max: 128
-	"lootQuantity": 2,
+	"lootQuantity": 3,
 	// If enabled, the looting enchant has a chance to increase the quantity of loot dropped. Per level a roll is done with the chance from 'lootingEnchantExtraQuantityChancePerLevel'. If the roll succeeds, 1 is added to the loot amount.
 	"lootingEnchantAffectsQuantity": true,
 	// The chance a roll succeeds in adding 1 to the total loot amount.

@@ -3,41 +3,41 @@
     "entries": [],
     "isWhitelist": false
   },
-  "trackCount": 64,
+  "trackCount": 32,
   "resetOnDeath": true,
   "limitProgressionToSurvival": false,
   "minFoodsToActivate": 0,
   "benefits": [
     {
-      "threshold": 6,
+      "threshold": 3,
       "benefit": "{key:\"minecraft:max_health\",op:0,type:\"att\",val:2.0d}"
     },
     {
-      "threshold": 10,
+      "threshold": 6,
       "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:0.0d}"
     },
     {
-      "threshold": 14,
+      "threshold": 8,
       "benefit": "{key:\"minecraft:regeneration\",type:\"eff\",val:0.0d}"
     },
     {
-      "threshold": 20,
+      "threshold": 12,
       "benefit": "{key:\"minecraft:speed\",type:\"eff\",val:0.0d}"
     },
     {
-      "threshold": 23,
+      "threshold": 15,
       "benefit": "{key:\"minecraft:armor_toughness\",op:0,type:\"att\",val:2.0d}"
     },
     {
-      "threshold": 32,
+      "threshold": 20,
       "benefit": "{key:\"minecraft:strength\",type:\"eff\",val:1.0d}"
     },
     {
-      "threshold": 42,
+      "threshold": 25,
       "benefit": "{key:\"minecraft:max_health\",op:0,type:\"att\",val:2.0d}"
     },
     {
-      "threshold": 50,
+      "threshold": 30,
       "benefit": "{key:\"minecraft:max_health\",op:0,type:\"att\",val:2.0d}"
     }
   ],

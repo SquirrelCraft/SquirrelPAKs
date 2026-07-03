@@ -276,6 +276,12 @@ echo " -------------------------------------------------------------------------
 
 
 
+# Remove voice server ID
+sed -i '' 's/^server_id[[:space:]]*=.*/server_id = ""/' config/plasmovoice/server/config.toml
+
+
+
+
 # Move unneeded dir
 echo " Move un-needed files to:"
 echo " $PAK_Removed_Files_Export_Dir"

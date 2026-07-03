@@ -1,27 +1,11 @@
-## SquirrelPAK 123 - Easy Squirrels Mod List - SquirrelPAK 123 - Easy Squirrels v0.6.7-1.21.11
-=====================================================
-SquirrelPAK 123 Release 0.6.7
-File Version 0.6.7-1.21.11
-
-Required Forge Version: 21.11.42
-=====================================================
-
- 
-Amethyst 6/7 Release
-
-Summary:
-Added amethyst mods that make amethyst more fun
-to play with and useful. Also this is our
-Beta 6/7 Release so What can we say?
-
-6 ¯\_(ツ)_/¯ 7 
+## SquirrelPAK 123 - Easy Squirrels Mod List - SquirrelPAK 123 - Beta 1776 
 - [3D Placeable Food](https://modrinth.com/mod/MFgnFY8Z) [3\.0\.1]
 - [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.2\.4-neoforge-1\.21\.11]
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.1-neoforge-1\.21\.11]
 - [Advanced Loot Info](https://modrinth.com/mod/PEPVViac) [1\.21\.11-1\.12\.0]
 - [Advanced Netherite](https://modrinth.com/mod/CFX9ftUJ) [neoforge-2\.4\.0-mc1\.21\.11]
 - [All Loot Drops](https://modrinth.com/mod/n7PBO6pb) [1\.21\.11-3\.6-fabric+forge+neo]
-- [Amethyst Beacon Base [PurpurPack]](https://modrinth.com/mod/EP4tesbZ) [3\.9-forge]
+- [Amethyst Beacon Base [PurpurPack]](https://modrinth.com/mod/EP4tesbZ) [3\.14-neoforge]
 - [Amethyst Cutting](https://modrinth.com/mod/doin7ovk) [1\.3+mod]
 - [Amethyst Elevator](https://modrinth.com/mod/rdIHYFIE) [1\.2\.0+mod]
 - [Amethyst expansion](https://modrinth.com/mod/zVG2op5g) [1\.8+mod]
@@ -43,14 +27,14 @@ Beta 6/7 Release so What can we say?
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2\.9\.0]
 - [Cloth Config API](https://modrinth.com/mod/9s6osm5g) [21\.11\.153+neoforge]
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) [29\.0\.0\.1]
-- [Collective](https://modrinth.com/mod/e0M1UDsY) [1\.21\.11-8\.28-fabric+forge+neo]
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [1\.21\.11-8\.32-fabric+forge+neo]
 - [Common Capabilities](https://modrinth.com/mod/oFXrCkDI) [1\.21\.11-2\.9\.7-331]
 - [Connected Glass](https://modrinth.com/mod/DghO0R02) [1\.1\.14-neoforge-mc1\.21\.11]
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [29\.0\.1]
 - [Cooking for Blockheads](https://modrinth.com/mod/vJnhuDde) [21\.11\.6+neoforge-1\.21\.11]
 - [Copper Hopper](https://modrinth.com/mod/mTI5Xg5F) [0\.20\.4+1\.21\.11]
 - [Corpse](https://modrinth.com/mod/WrpuIfhw) [neoforge-1\.21\.11-1\.1\.16]
-- [Crate Delight](https://modrinth.com/mod/9rlXSyLg) [25\.12\.11-1\.21\.11-neoforge]
+- [Crate Delight](https://modrinth.com/mod/9rlXSyLg) [26\.07\.01-1\.21\.11-neoforge]
 - [CraterLib](https://modrinth.com/mod/Nn8Wasaq) [1\.21\.11-3\.1\.2]
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2\.14\.10]
 - [Cristel Lib](https://modrinth.com/mod/cl223EMc) [neoforge-1\.21\.11-3\.1\.7]
@@ -70,9 +54,10 @@ Beta 6/7 Release so What can we say?
 - [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/mod/rYocd2LE) [v2\.4\.0+mod]
 - [Dungeons and Taverns Swamp Hut Overhaul](https://modrinth.com/mod/nWSeFpQt) [v2\.3+mod]
 - [Dungeons and Taverns Woodland Mansion Overhaul](https://modrinth.com/mod/3GfxWFCy) [2\.1+mod]
-- [Easy Mob Farm](https://modrinth.com/mod/crxsDbEo) [10\.9\.0]
+- [Easy Mob Farm](https://modrinth.com/mod/crxsDbEo) [10\.10\.0]
 - [Easy Piglins](https://modrinth.com/mod/l6n94pax) [neoforge-1\.21\.11-1\.1\.7]
 - [Easy Villagers](https://modrinth.com/mod/Kaov2qgi) [neoforge-1\.21\.11-1\.1\.42]
+- [Elytra Accessory](https://modrinth.com/mod/pLVRp7qd) [1\.3\.2]
 - [Enchantment Insights](https://modrinth.com/mod/xLSpHE43) [21\.11\.1]
 - [Eroding Stone Entities](https://modrinth.com/mod/EwJ8fcSB) [1\.21\.11-4\.7-fabric+forge+neo]
 - [Excavators](https://modrinth.com/mod/V5zlY6r3) [1\.0\.1+mod]
@@ -94,9 +79,8 @@ Beta 6/7 Release so What can we say?
 - [Fortunate Ancient Debris](https://modrinth.com/mod/eBvPjIeN) [4\.2+mod]
 - [Fresh Animations](https://modrinth.com/mod/50dA9Sha) [1\.10\.4]
 - [Furnace Recycle](https://modrinth.com/mod/HyKmtI3L) [1\.21\.11-2\.6-fabric+forge+neo]
-- [Fusion (Connected Textures)](https://modrinth.com/mod/p19vrgc2) [1\.2\.12-neoforge-mc1\.21\.11]
+- [Fusion (Connected Textures)](https://modrinth.com/mod/p19vrgc2) [1\.3\.5-neoforge-mc1\.21\.11]
 - [Hide Experimental Warning](https://modrinth.com/mod/Rm4OOdHd) [1\.21\.11-1\.2-fabric+forge+neo]
-- [Horizon](https://modrinth.com/mod/JJoot3tQ) [1\.0\.0-1\.21\.11]
 - [Hot Kettles](https://modrinth.com/mod/7xIXdoHy) [neoforge-1\.21\.11-1\.2\.3]
 - [Hunter's Return](https://modrinth.com/mod/Yt6gmdxW) [1\.21\.11-28\.8\.0]
 - [Immersive Interfaces](https://modrinth.com/mod/3sV1gvyJ) [0\.8\.2]
@@ -109,7 +93,7 @@ Beta 6/7 Release so What can we say?
 - [Jade 🔍](https://modrinth.com/mod/nvQzSEkH) [21\.1\.7+neoforge]
 - [Jake's Build Tools](https://modrinth.com/mod/DosZdmJF) [v4\.0\.7+mod]
 - [Just Enough Breeding (JEBr)](https://modrinth.com/mod/9Pk89J3g) [1\.6\.6]
-- [Just Enough Items (JEI)](https://modrinth.com/mod/u6dRKJwZ) [27\.4\.0\.22]
+- [Just Enough Items (JEI)](https://modrinth.com/mod/u6dRKJwZ) [27\.4\.0\.24]
 - [Just Enough Professions (JEP)](https://modrinth.com/mod/kB56GtWA) [10\.0\.0]
 - [Just Hammers](https://modrinth.com/mod/edU0NbZZ) [21\.11\.1]
 - [Konkrete](https://modrinth.com/mod/J81TRJWm) [1\.9\.18-1\.21\.11-neoforge]
@@ -123,18 +107,18 @@ Beta 6/7 Release so What can we say?
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) [1\.21\.11-2\.30-neoforge]
 - [Name Tag Tweaks](https://modrinth.com/mod/LrLZEnPl) [1\.21\.11-4\.1-fabric+forge+neo]
 - [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) [21\.11\.2+neoforge-1\.21\.11]
-- [Ohmega](https://modrinth.com/mod/scvT0o5w) [1\.5\.16]
+- [Ohmega](https://modrinth.com/mod/scvT0o5w) [1\.5\.20]
 - [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU) [16\.0\.0-beta\.2+neo]
 - [Open Parties and Claims](https://modrinth.com/mod/gF3BGWvG) [neoforge-1\.21\.11-0\.27\.5]
 - [Ore Creeper](https://modrinth.com/mod/CGmwbV8J) [1\.3\.1]
 - [Ore Detector](https://modrinth.com/mod/HM8KhJMj) [1\.3]
 - [Ore Harvester](https://modrinth.com/mod/Xiv4r347) [1\.21\.11-1\.5-fabric+forge+neo]
-- [Plasmo Voice](https://modrinth.com/mod/1bZhdhsH) [neoforge-1\.21\.11-2\.1\.10]
+- [Plasmo Voice](https://modrinth.com/mod/1bZhdhsH) [neoforge-1\.21\.11-2\.1\.13]
 - [Player Shops](https://modrinth.com/mod/8MbhC0mp) [4\.2+mod]
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) [21\.11\.13]
 - [Random Village Names](https://modrinth.com/mod/N0ytbukx) [1\.21\.11-4\.0-fabric+forge+neo]
 - [Realistic Bees](https://modrinth.com/mod/tG6HkcWx) [1\.21\.11-4\.3-fabric+forge+neo]
-- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [mc1\.21\.11-2\.0\.3+neoforge]
+- [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) [mc1\.21\.11-2\.2\.2+neoforge]
 - [Reg's More Foods](https://modrinth.com/mod/2jidfU3A) [1\.4\.0+1\.21\.11+mod]
 - [RockQoL](https://modrinth.com/mod/bMhlZTg5) [2\.1-1\.21\.11]
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/uO522mgw) [1\.21\.11-3\.4-fabric+forge+neo]
@@ -142,12 +126,12 @@ Beta 6/7 Release so What can we say?
 - [Sculk Vials](https://modrinth.com/mod/aDyQWWiF) [2\.0\.2]
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) [1\.0\.4]
 - [Short Circuit](https://modrinth.com/mod/5dUwdwpB) [1\.0\.9-1\.21\.11]
-- [Silk Touch Budding Amethyst [PurpurPack]](https://modrinth.com/mod/7P6tQJuB) [4\.7-forge]
+- [Silk Touch Budding Amethyst [PurpurPack]](https://modrinth.com/mod/7P6tQJuB) [4\.12-neoforge]
 - [Sit](https://modrinth.com/mod/VKXzIykF) [v1\.4]
 - [Sodium](https://modrinth.com/mod/AANobbMI) [mc1\.21\.11-0\.8\.12-neoforge]
-- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) [1\.21\.11-3\.25\.68\.1913]
-- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.21\.11-1\.4\.64\.2034]
-- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.21\.11-1\.5\.67\.1846]
+- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) [1\.21\.11-3\.25\.71\.1950]
+- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.21\.11-1\.4\.70\.2090]
+- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.21\.11-1\.5\.75\.1917]
 - [Spice of Life Onion](https://modrinth.com/mod/eHGYGKJz) [1\.5\.5]
 - [Stack Refill](https://modrinth.com/mod/mQWkB9ON) [1\.21\.11-5\.0-fabric+forge+neo]
 - [Starter Kit](https://modrinth.com/mod/6L3ydNi8) [1\.21\.11-8\.1-fabric+forge+neo]
@@ -165,7 +149,7 @@ Beta 6/7 Release so What can we say?
 - [Villager Names](https://modrinth.com/mod/gqRXDo8B) [1\.21\.11-8\.5-fabric+forge+neo]
 - [Waystones](https://modrinth.com/mod/LOpKHB2A) [21\.11\.9+neoforge-1\.21\.11]
 - [Wool Tweaks](https://modrinth.com/mod/lqQsKUma) [1\.21\.11-4\.0-fabric+forge+neo]
-- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [neoforge-1\.21\.11-26\.1\.0]
-- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [neoforge-1\.21\.11-1\.41\.0]
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [neoforge-1\.21\.11-26\.1\.4]
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [neoforge-1\.21\.11-1\.41\.2]
 - [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/1eAoo2KR) [3\.8\.2+1\.21\.11-neoforge]
 - [Your Options Shall Be Neoforged (YOSBR)](https://modrinth.com/mod/1Q1Lbl0G) [0\.1\.2\.1]
