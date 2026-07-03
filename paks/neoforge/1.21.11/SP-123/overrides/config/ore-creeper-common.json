@@ -1,6 +1,6 @@
 {
   "oreCreepersExplodeLikeNormalCreepers": false,
-  "oreTntExplosionRadius": 5.0,
+  "oreTntExplosionRadius": 7,
   "coalCreeperExplosionRadius": 4,
   "coalCreeperMaxSpawnYLevel": 320.0,
   "copperCreeperExplosionRadius": 1,
@@ -15,12 +15,12 @@
   "ironCreeperMaxSpawnYLevel": 320.0,
   "lapisLazuliCreeperExplosionRadius": 3.75,
   "lapisLazuliCreeperMaxSpawnYLevel": 320.0,
-  "netherGoldCreeperExplosionRadius": 5,
+  "netherGoldCreeperExplosionRadius": 7,
   "netherGoldCreeperMaxSpawnYLevel": 320.0,
-  "netherQuartzCreeperExplosionRadius": 5,
+  "netherQuartzCreeperExplosionRadius": 7,
   "netherQuartzCreeperMaxSpawnYLevel": 320.0,
   "redstoneCreeperExplosionRadius": 3,
   "redstoneCreeperMaxSpawnYLevel": 320.0,
-  "ancientDebrisCreeperExplosionRadius": 3,
+  "ancientDebrisCreeperExplosionRadius": 5,
   "ancientDebrisCreeperMaxSpawnYLevel": 320.0
 }

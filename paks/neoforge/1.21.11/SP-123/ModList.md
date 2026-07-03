@@ -1,10 +1,30 @@
-## SquirrelPAK 123 - Easy Squirrels Mod List - Beta 5 
+## SquirrelPAK 123 - Easy Squirrels Mod List - SquirrelPAK 123 - Easy Squirrels v0.6.7-1.21.11
+=====================================================
+SquirrelPAK 123 Release 0.6.7
+File Version 0.6.7-1.21.11
+
+Required Forge Version: 21.11.42
+=====================================================
+
+ 
+Amethyst 6/7 Release
+
+Summary:
+Added amethyst mods that make amethyst more fun
+to play with and useful. Also this is our
+Beta 6/7 Release so What can we say?
+
+6 ¯\_(ツ)_/¯ 7 
 - [3D Placeable Food](https://modrinth.com/mod/MFgnFY8Z) [3\.0\.1]
 - [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.2\.4-neoforge-1\.21\.11]
 - [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.1-neoforge-1\.21\.11]
 - [Advanced Loot Info](https://modrinth.com/mod/PEPVViac) [1\.21\.11-1\.12\.0]
 - [Advanced Netherite](https://modrinth.com/mod/CFX9ftUJ) [neoforge-2\.4\.0-mc1\.21\.11]
 - [All Loot Drops](https://modrinth.com/mod/n7PBO6pb) [1\.21\.11-3\.6-fabric+forge+neo]
+- [Amethyst Beacon Base [PurpurPack]](https://modrinth.com/mod/EP4tesbZ) [3\.9-forge]
+- [Amethyst Cutting](https://modrinth.com/mod/doin7ovk) [1\.3+mod]
+- [Amethyst Elevator](https://modrinth.com/mod/rdIHYFIE) [1\.2\.0+mod]
+- [Amethyst expansion](https://modrinth.com/mod/zVG2op5g) [1\.8+mod]
 - [Anvil Restoration](https://modrinth.com/mod/bd8nwTGy) [1\.21\.11-2\.5-fabric+forge+neo]
 - [ApexCore](https://modrinth.com/mod/xl3myxch) [21\.11\.3]
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.8+mc1\.21\.11]
@@ -12,7 +32,7 @@
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ) [19\.0\.1+neoforge]
 - [Areas](https://modrinth.com/mod/NWvsqJ2Z) [1\.21\.11-6\.3-fabric+forge+neo]
 - [Bagus Lib](https://modrinth.com/mod/95nSN4Rd) [1\.21\.11-22\.9\.0]
-- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.11\.9+neoforge-1\.21\.11]
+- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.11\.9\.1+neoforge-1\.21\.11]
 - [Beginner's Delight](https://modrinth.com/mod/ukdsU7wA) [0\.4\.0]
 - [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0\.4\.8\.54]
 - [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) [21\.11\.0]
@@ -23,7 +43,7 @@
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2\.9\.0]
 - [Cloth Config API](https://modrinth.com/mod/9s6osm5g) [21\.11\.153+neoforge]
 - [Clumps](https://modrinth.com/mod/Wnxd13zP) [29\.0\.0\.1]
-- [Collective](https://modrinth.com/mod/e0M1UDsY) [1\.21\.11-8\.25-fabric+forge+neo]
+- [Collective](https://modrinth.com/mod/e0M1UDsY) [1\.21\.11-8\.28-fabric+forge+neo]
 - [Common Capabilities](https://modrinth.com/mod/oFXrCkDI) [1\.21\.11-2\.9\.7-331]
 - [Connected Glass](https://modrinth.com/mod/DghO0R02) [1\.1\.14-neoforge-mc1\.21\.11]
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [29\.0\.1]
@@ -33,7 +53,7 @@
 - [Crate Delight](https://modrinth.com/mod/9rlXSyLg) [25\.12\.11-1\.21\.11-neoforge]
 - [CraterLib](https://modrinth.com/mod/Nn8Wasaq) [1\.21\.11-3\.1\.2]
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) [2\.14\.10]
-- [Cristel Lib](https://modrinth.com/mod/cl223EMc) [neoforge-1\.21\.11-3\.1\.2]
+- [Cristel Lib](https://modrinth.com/mod/cl223EMc) [neoforge-1\.21\.11-3\.1\.7]
 - [Customizable Elevators](https://modrinth.com/mod/vgOzYJ3e) [1\.0\.0+mod]
 - [Cyclops Core](https://modrinth.com/mod/Z9DM0LJ4) [1\.21\.11-1\.25\.5-964]
 - [Display Cases](https://modrinth.com/mod/eZ8HdbsB) [0\.1+mod]
@@ -122,11 +142,12 @@
 - [Sculk Vials](https://modrinth.com/mod/aDyQWWiF) [2\.0\.2]
 - [Searchables](https://modrinth.com/mod/fuuu3xnx) [1\.0\.4]
 - [Short Circuit](https://modrinth.com/mod/5dUwdwpB) [1\.0\.9-1\.21\.11]
+- [Silk Touch Budding Amethyst [PurpurPack]](https://modrinth.com/mod/7P6tQJuB) [4\.7-forge]
 - [Sit](https://modrinth.com/mod/VKXzIykF) [v1\.4]
 - [Sodium](https://modrinth.com/mod/AANobbMI) [mc1\.21\.11-0\.8\.12-neoforge]
-- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) [1\.21\.11-3\.25\.62\.1873]
-- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.21\.11-1\.4\.58\.2007]
-- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.21\.11-1\.5\.65\.1829]
+- [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b) [1\.21\.11-3\.25\.68\.1913]
+- [Sophisticated Core](https://modrinth.com/mod/nmoqTijg) [1\.21\.11-1\.4\.64\.2034]
+- [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f) [1\.21\.11-1\.5\.67\.1846]
 - [Spice of Life Onion](https://modrinth.com/mod/eHGYGKJz) [1\.5\.5]
 - [Stack Refill](https://modrinth.com/mod/mQWkB9ON) [1\.21\.11-5\.0-fabric+forge+neo]
 - [Starter Kit](https://modrinth.com/mod/6L3ydNi8) [1\.21\.11-8\.1-fabric+forge+neo]
